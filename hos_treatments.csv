@@ -1,0 +1,5001 @@
+Treatment_ID,Patient_ID,Disease,Medicine,Recovery_Days
+T00001,P00001,Cancer,Cancer,14
+T00002,P00002,Hypertension,Hypertension,16
+T00003,P00003,Hypertension,Hypertension,8
+T00004,P00004,asthma,asthma,29
+T00005,P00005,Cancer,Cancer,11
+T00006,P00006,Heart disease,Heart,10
+T00007,P00007,Heart Disease,Heart,8
+T00008,P00008,diabetes,diabetes,10
+T00009,P00009,Hypertension,Hypertension,10
+T00010,P00010,asthma,asthma,7
+T00011,P00011,diabetes,diabetes,7
+T00012,P00012,asthma,asthma,24
+T00013,P00013,Cancer,Cancer,15
+T00014,P00014,Diabetes,Diabetes,15
+T00015,P00015,Heart Disease,Heart,22
+T00016,P00016,Diabetes,Diabetes,26
+T00017,P00017,Hypertension,Hypertension,30
+T00018,P00018,Cancer,Cancer,5
+T00019,P00019,Cancer,Cancer,3
+T00020,P00020,Asthma,Asthma,3
+T00021,P00021,Hypertension,Hypertension,29
+T00022,P00022,Hypertension,Hypertension,20
+T00023,P00023,diabetes,diabetes,12
+T00024,P00024,diabetes,diabetes,27
+T00025,P00025,Asthma,Asthma,25
+T00026,P00026,diabetes,diabetes,11
+T00027,P00027,Diabetes,Diabetes,13
+T00028,P00028,Diabetes,Diabetes,19
+T00029,P00029,asthma,asthma,2
+T00030,P00030,diabetes,diabetes,24
+T00031,P00031,Heart disease,Heart,23
+T00032,P00032,Asthma,Asthma,17
+T00033,P00033,Asthma,Asthma,24
+T00034,P00034,Heart Disease,Heart,21
+T00035,P00035,Stroke,Stroke,9
+T00036,P00036,Stroke,Stroke,10
+T00037,P00037,diabetes,diabetes,30
+T00038,P00038,Heart Disease,Heart,7
+T00039,P00039,Stroke,Stroke,11
+T00040,P00040,Fracture,Fracture,6
+T00041,P00041,asthma,asthma,24
+T00042,P00042,Asthma,Asthma,24
+T00043,P00043,Heart disease,Heart,24
+T00044,P00044,Hypertension,Hypertension,25
+T00045,P00045,Heart Disease,Heart,11
+T00046,P00046,asthma,asthma,8
+T00047,P00047,Hypertension,Hypertension,25
+T00048,P00048,Stroke,Stroke,2
+T00049,P00049,Asthma,Asthma,6
+T00050,P00050,Asthma,Asthma,2
+T00051,P00051,Cancer,Cancer,4
+T00052,P00052,Fracture,Fracture,11
+T00053,P00053,Asthma,Asthma,6
+T00054,P00054,asthma,asthma,23
+T00055,P00055,Heart disease,Heart,20
+T00056,P00056,Stroke,Stroke,18
+T00057,P00057,asthma,asthma,26
+T00058,P00058,Heart Disease,Heart,16
+T00059,P00059,Stroke,Stroke,18
+T00060,P00060,Heart Disease,Heart,2
+T00061,P00061,Hypertension,Hypertension,5
+T00062,P00062,Cancer,Cancer,22
+T00063,P00063,Cancer,Cancer,5
+T00064,P00064,Heart Disease,Heart,6
+T00065,P00065,Asthma,Asthma,27
+T00066,P00066,Stroke,Stroke,14
+T00067,P00067,diabetes,diabetes,10
+T00068,P00068,Heart Disease,Heart,26
+T00069,P00069,Cancer,Cancer,3
+T00070,P00070,Hypertension,Hypertension,27
+T00071,P00071,Fracture,Fracture,2
+T00072,P00072,Heart Disease,Heart,2
+T00073,P00073,Hypertension,Hypertension,26
+T00074,P00074,Fracture,Fracture,20
+T00075,P00075,Diabetes,Diabetes,21
+T00076,P00076,Stroke,Stroke,23
+T00077,P00077,Heart disease,Heart,13
+T00078,P00078,diabetes,diabetes,28
+T00079,P00079,asthma,asthma,21
+T00080,P00080,diabetes,diabetes,4
+T00081,P00081,Fracture,Fracture,12
+T00082,P00082,Heart disease,Heart,9
+T00083,P00083,diabetes,diabetes,16
+T00084,P00084,Diabetes,Diabetes,6
+T00085,P00085,asthma,asthma,30
+T00086,P00086,Heart disease,Heart,9
+T00087,P00087,Fracture,Fracture,21
+T00088,P00088,Fracture,Fracture,2
+T00089,P00089,Cancer,Cancer,14
+T00090,P00090,Diabetes,Diabetes,11
+T00091,P00091,Heart disease,Heart,16
+T00092,P00092,Fracture,Fracture,13
+T00093,P00093,Cancer,Cancer,16
+T00094,P00094,Heart Disease,Heart,26
+T00095,P00095,asthma,asthma,8
+T00096,P00096,Fracture,Fracture,4
+T00097,P00097,Fracture,Fracture,6
+T00098,P00098,Diabetes,Diabetes,23
+T00099,P00099,diabetes,diabetes,12
+T00100,P00100,Heart disease,Heart,9
+T00101,P00101,Heart disease,Heart,
+T00102,P00102,Diabetes,Diabetes,2
+T00103,P00103,Heart disease,Heart,29
+T00104,P00104,Heart Disease,Heart,12
+T00105,P00105,Stroke,Stroke,20
+T00106,P00106,Stroke,Stroke,10
+T00107,P00107,Fracture,Fracture,26
+T00108,P00108,Asthma,Asthma,30
+T00109,P00109,diabetes,diabetes,8
+T00110,P00110,Heart disease,Heart,4
+T00111,P00111,diabetes,diabetes,13
+T00112,P00112,diabetes,diabetes,21
+T00113,P00113,Stroke,Stroke,18
+T00114,P00114,Heart disease,Heart,21
+T00115,P00115,Asthma,Asthma,19
+T00116,P00116,Asthma,Asthma,7
+T00117,P00117,Heart Disease,Heart,15
+T00118,P00118,Stroke,Stroke,8
+T00119,P00119,diabetes,diabetes,13
+T00120,P00120,Asthma,Asthma,30
+T00121,P00121,Heart disease,Heart,2
+T00122,P00122,Hypertension,Hypertension,30
+T00123,P00123,Hypertension,Hypertension,2
+T00124,P00124,Heart disease,Heart,22
+T00125,P00125,Asthma,Asthma,24
+T00126,P00126,Hypertension,Hypertension,5
+T00127,P00127,Heart disease,Heart,4
+T00128,P00128,asthma,asthma,28
+T00129,P00129,Stroke,Stroke,22
+T00130,P00130,asthma,asthma,8
+T00131,P00131,Stroke,Stroke,15
+T00132,P00132,Fracture,Fracture,4
+T00133,P00133,Heart disease,Heart,14
+T00134,P00134,Asthma,Asthma,15
+T00135,P00135,Heart disease,Heart,12
+T00136,P00136,diabetes,diabetes,25
+T00137,P00137,Asthma,Asthma,12
+T00138,P00138,Heart Disease,Heart,7
+T00139,P00139,Cancer,Cancer,26
+T00140,P00140,Heart Disease,Heart,8
+T00141,P00141,Heart Disease,Heart,30
+T00142,P00142,asthma,asthma,23
+T00143,P00143,Heart disease,Heart,28
+T00144,P00144,Asthma,Asthma,18
+T00145,P00145,asthma,asthma,25
+T00146,P00146,Heart Disease,Heart,28
+T00147,P00147,Hypertension,Hypertension,16
+T00148,P00148,Hypertension,Hypertension,20
+T00149,P00149,Heart disease,Heart,24
+T00150,P00150,Asthma,Asthma,21
+T00151,P00151,Stroke,Stroke,13
+T00152,P00152,Fracture,Fracture,16
+T00153,P00153,asthma,asthma,19
+T00154,P00154,Heart disease,Heart,22
+T00155,P00155,Heart disease,Heart,13
+T00156,P00156,Heart Disease,Heart,5
+T00157,P00157,Hypertension,Hypertension,17
+T00158,P00158,Diabetes,Diabetes,23
+T00159,P00159,Stroke,Stroke,11
+T00160,P00160,Diabetes,Diabetes,15
+T00161,P00161,Asthma,Asthma,4
+T00162,P00162,Heart Disease,Heart,8
+T00163,P00163,diabetes,diabetes,12
+T00164,P00164,Asthma,Asthma,3
+T00165,P00165,Heart Disease,Heart,11
+T00166,P00166,Asthma,Asthma,16
+T00167,P00167,Cancer,Cancer,8
+T00168,P00168,Diabetes,Diabetes,30
+T00169,P00169,Fracture,Fracture,30
+T00170,P00170,asthma,asthma,2
+T00171,P00171,diabetes,diabetes,14
+T00172,P00172,Heart disease,Heart,6
+T00173,P00173,Fracture,Fracture,22
+T00174,P00174,Diabetes,Diabetes,8
+T00175,P00175,Asthma,Asthma,20
+T00176,P00176,diabetes,diabetes,10
+T00177,P00177,diabetes,diabetes,29
+T00178,P00178,Diabetes,Diabetes,23
+T00179,P00179,asthma,asthma,6
+T00180,P00180,Stroke,Stroke,21
+T00181,P00181,Stroke,Stroke,8
+T00182,P00182,Stroke,Stroke,11
+T00183,P00183,Heart Disease,Heart,16
+T00184,P00184,Heart Disease,Heart,25
+T00185,P00185,diabetes,diabetes,7
+T00186,P00186,Stroke,Stroke,10
+T00187,P00187,asthma,asthma,11
+T00188,P00188,Heart disease,Heart,14
+T00189,P00189,Fracture,Fracture,15
+T00190,P00190,Cancer,Cancer,22
+T00191,P00191,Fracture,Fracture,21
+T00192,P00192,Stroke,Stroke,17
+T00193,P00193,Asthma,Asthma,14
+T00194,P00194,Fracture,Fracture,22
+T00195,P00195,Heart Disease,Heart,14
+T00196,P00196,Hypertension,Hypertension,18
+T00197,P00197,Stroke,Stroke,24
+T00198,P00198,Heart disease,Heart,2
+T00199,P00199,diabetes,diabetes,24
+T00200,P00200,Heart disease,Heart,8
+T00201,P00201,Heart disease,Heart,6
+T00202,P00202,Fracture,Fracture,
+T00203,P00203,Hypertension,Hypertension,26
+T00204,P00204,Cancer,Cancer,25
+T00205,P00205,Cancer,Cancer,6
+T00206,P00206,diabetes,diabetes,28
+T00207,P00207,Fracture,Fracture,2
+T00208,P00208,Heart Disease,Heart,22
+T00209,P00209,Stroke,Stroke,23
+T00210,P00210,Fracture,Fracture,5
+T00211,P00211,Hypertension,Hypertension,20
+T00212,P00212,Stroke,Stroke,4
+T00213,P00213,Asthma,Asthma,29
+T00214,P00214,Hypertension,Hypertension,11
+T00215,P00215,Hypertension,Hypertension,5
+T00216,P00216,Cancer,Cancer,13
+T00217,P00217,diabetes,diabetes,11
+T00218,P00218,Fracture,Fracture,13
+T00219,P00219,Stroke,Stroke,5
+T00220,P00220,Stroke,Stroke,25
+T00221,P00221,Diabetes,Diabetes,27
+T00222,P00222,Heart disease,Heart,19
+T00223,P00223,Asthma,Asthma,20
+T00224,P00224,asthma,asthma,24
+T00225,P00225,Heart Disease,Heart,14
+T00226,P00226,Diabetes,Diabetes,28
+T00227,P00227,Stroke,Stroke,18
+T00228,P00228,Heart Disease,Heart,28
+T00229,P00229,Heart Disease,Heart,18
+T00230,P00230,Fracture,Fracture,20
+T00231,P00231,asthma,asthma,24
+T00232,P00232,Stroke,Stroke,4
+T00233,P00233,Asthma,Asthma,26
+T00234,P00234,diabetes,diabetes,26
+T00235,P00235,Diabetes,Diabetes,20
+T00236,P00236,Stroke,Stroke,14
+T00237,P00237,diabetes,diabetes,23
+T00238,P00238,asthma,asthma,21
+T00239,P00239,Heart Disease,Heart,21
+T00240,P00240,Heart disease,Heart,7
+T00241,P00241,asthma,asthma,16
+T00242,P00242,Cancer,Cancer,21
+T00243,P00243,Diabetes,Diabetes,19
+T00244,P00244,Cancer,Cancer,12
+T00245,P00245,Diabetes,Diabetes,15
+T00246,P00246,Hypertension,Hypertension,2
+T00247,P00247,Heart disease,Heart,3
+T00248,P00248,Heart disease,Heart,11
+T00249,P00249,Fracture,Fracture,25
+T00250,P00250,diabetes,diabetes,4
+T00251,P00251,Heart Disease,Heart,3
+T00252,P00252,Heart Disease,Heart,17
+T00253,P00253,Heart disease,Heart,2
+T00254,P00254,Heart Disease,Heart,30
+T00255,P00255,Heart disease,Heart,29
+T00256,P00256,Cancer,Cancer,22
+T00257,P00257,asthma,asthma,22
+T00258,P00258,Hypertension,Hypertension,28
+T00259,P00259,asthma,asthma,24
+T00260,P00260,diabetes,diabetes,24
+T00261,P00261,Heart Disease,Heart,20
+T00262,P00262,Heart Disease,Heart,3
+T00263,P00263,Fracture,Fracture,6
+T00264,P00264,Heart Disease,Heart,8
+T00265,P00265,Diabetes,Diabetes,27
+T00266,P00266,Heart disease,Heart,9
+T00267,P00267,asthma,asthma,25
+T00268,P00268,Cancer,Cancer,6
+T00269,P00269,Heart disease,Heart,9
+T00270,P00270,Hypertension,Hypertension,19
+T00271,P00271,Hypertension,Hypertension,23
+T00272,P00272,asthma,asthma,4
+T00273,P00273,diabetes,diabetes,24
+T00274,P00274,diabetes,diabetes,9
+T00275,P00275,Hypertension,Hypertension,20
+T00276,P00276,Fracture,Fracture,26
+T00277,P00277,Fracture,Fracture,27
+T00278,P00278,Heart disease,Heart,19
+T00279,P00279,Fracture,Fracture,21
+T00280,P00280,Heart Disease,Heart,16
+T00281,P00281,Cancer,Cancer,16
+T00282,P00282,Stroke,Stroke,16
+T00283,P00283,Cancer,Cancer,28
+T00284,P00284,Heart Disease,Heart,9
+T00285,P00285,Stroke,Stroke,2
+T00286,P00286,Cancer,Cancer,24
+T00287,P00287,Asthma,Asthma,7
+T00288,P00288,Heart Disease,Heart,20
+T00289,P00289,Stroke,Stroke,27
+T00290,P00290,Stroke,Stroke,12
+T00291,P00291,diabetes,diabetes,11
+T00292,P00292,Asthma,Asthma,23
+T00293,P00293,Asthma,Asthma,27
+T00294,P00294,Cancer,Cancer,14
+T00295,P00295,asthma,asthma,16
+T00296,P00296,Asthma,Asthma,8
+T00297,P00297,Diabetes,Diabetes,30
+T00298,P00298,Stroke,Stroke,6
+T00299,P00299,Diabetes,Diabetes,14
+T00300,P00300,Cancer,Cancer,4
+T00301,P00301,Asthma,Asthma,23
+T00302,P00302,Cancer,Cancer,22
+T00303,P00303,Asthma,Asthma,
+T00304,P00304,Hypertension,Hypertension,21
+T00305,P00305,diabetes,diabetes,20
+T00306,P00306,Cancer,Cancer,24
+T00307,P00307,Fracture,Fracture,6
+T00308,P00308,Diabetes,Diabetes,7
+T00309,P00309,Hypertension,Hypertension,18
+T00310,P00310,diabetes,diabetes,4
+T00311,P00311,Heart disease,Heart,2
+T00312,P00312,Diabetes,Diabetes,18
+T00313,P00313,Asthma,Asthma,9
+T00314,P00314,Heart disease,Heart,20
+T00315,P00315,diabetes,diabetes,11
+T00316,P00316,diabetes,diabetes,20
+T00317,P00317,Cancer,Cancer,5
+T00318,P00318,diabetes,diabetes,24
+T00319,P00319,Fracture,Fracture,20
+T00320,P00320,Stroke,Stroke,9
+T00321,P00321,Heart disease,Heart,2
+T00322,P00322,asthma,asthma,2
+T00323,P00323,Fracture,Fracture,26
+T00324,P00324,Asthma,Asthma,20
+T00325,P00325,asthma,asthma,3
+T00326,P00326,Asthma,Asthma,11
+T00327,P00327,Heart disease,Heart,29
+T00328,P00328,Heart Disease,Heart,16
+T00329,P00329,diabetes,diabetes,28
+T00330,P00330,Hypertension,Hypertension,7
+T00331,P00331,Hypertension,Hypertension,19
+T00332,P00332,Diabetes,Diabetes,6
+T00333,P00333,Cancer,Cancer,10
+T00334,P00334,Asthma,Asthma,26
+T00335,P00335,diabetes,diabetes,27
+T00336,P00336,Stroke,Stroke,4
+T00337,P00337,Stroke,Stroke,20
+T00338,P00338,Heart disease,Heart,23
+T00339,P00339,Stroke,Stroke,27
+T00340,P00340,Heart Disease,Heart,10
+T00341,P00341,Diabetes,Diabetes,18
+T00342,P00342,Cancer,Cancer,26
+T00343,P00343,asthma,asthma,29
+T00344,P00344,diabetes,diabetes,30
+T00345,P00345,Stroke,Stroke,9
+T00346,P00346,Heart Disease,Heart,9
+T00347,P00347,Cancer,Cancer,5
+T00348,P00348,Heart disease,Heart,17
+T00349,P00349,Diabetes,Diabetes,30
+T00350,P00350,asthma,asthma,17
+T00351,P00351,Asthma,Asthma,4
+T00352,P00352,Diabetes,Diabetes,9
+T00353,P00353,Fracture,Fracture,15
+T00354,P00354,Heart Disease,Heart,7
+T00355,P00355,Stroke,Stroke,29
+T00356,P00356,asthma,asthma,21
+T00357,P00357,Asthma,Asthma,5
+T00358,P00358,asthma,asthma,6
+T00359,P00359,asthma,asthma,30
+T00360,P00360,Cancer,Cancer,8
+T00361,P00361,Cancer,Cancer,13
+T00362,P00362,diabetes,diabetes,27
+T00363,P00363,Stroke,Stroke,9
+T00364,P00364,asthma,asthma,17
+T00365,P00365,Cancer,Cancer,4
+T00366,P00366,diabetes,diabetes,15
+T00367,P00367,Asthma,Asthma,27
+T00368,P00368,Asthma,Asthma,24
+T00369,P00369,Stroke,Stroke,15
+T00370,P00370,Cancer,Cancer,10
+T00371,P00371,Fracture,Fracture,5
+T00372,P00372,Heart disease,Heart,7
+T00373,P00373,Hypertension,Hypertension,3
+T00374,P00374,diabetes,diabetes,26
+T00375,P00375,Diabetes,Diabetes,30
+T00376,P00376,Heart Disease,Heart,28
+T00377,P00377,Hypertension,Hypertension,22
+T00378,P00378,diabetes,diabetes,12
+T00379,P00379,Cancer,Cancer,26
+T00380,P00380,asthma,asthma,23
+T00381,P00381,diabetes,diabetes,28
+T00382,P00382,diabetes,diabetes,19
+T00383,P00383,asthma,asthma,18
+T00384,P00384,diabetes,diabetes,5
+T00385,P00385,Diabetes,Diabetes,5
+T00386,P00386,Asthma,Asthma,14
+T00387,P00387,Diabetes,Diabetes,6
+T00388,P00388,Heart disease,Heart,26
+T00389,P00389,asthma,asthma,9
+T00390,P00390,asthma,asthma,22
+T00391,P00391,Hypertension,Hypertension,14
+T00392,P00392,Cancer,Cancer,7
+T00393,P00393,Cancer,Cancer,20
+T00394,P00394,Diabetes,Diabetes,5
+T00395,P00395,Asthma,Asthma,3
+T00396,P00396,Cancer,Cancer,5
+T00397,P00397,Heart Disease,Heart,24
+T00398,P00398,Heart disease,Heart,12
+T00399,P00399,Stroke,Stroke,9
+T00400,P00400,diabetes,diabetes,14
+T00401,P00401,Fracture,Fracture,28
+T00402,P00402,Stroke,Stroke,14
+T00403,P00403,Diabetes,Diabetes,6
+T00404,P00404,Fracture,Fracture,
+T00405,P00405,diabetes,diabetes,14
+T00406,P00406,Cancer,Cancer,20
+T00407,P00407,Heart Disease,Heart,16
+T00408,P00408,Cancer,Cancer,30
+T00409,P00409,Cancer,Cancer,19
+T00410,P00410,Asthma,Asthma,29
+T00411,P00411,Fracture,Fracture,18
+T00412,P00412,Fracture,Fracture,4
+T00413,P00413,Cancer,Cancer,4
+T00414,P00414,Hypertension,Hypertension,8
+T00415,P00415,Cancer,Cancer,9
+T00416,P00416,Asthma,Asthma,17
+T00417,P00417,Fracture,Fracture,25
+T00418,P00418,Diabetes,Diabetes,13
+T00419,P00419,diabetes,diabetes,2
+T00420,P00420,Asthma,Asthma,17
+T00421,P00421,Heart disease,Heart,2
+T00422,P00422,Cancer,Cancer,2
+T00423,P00423,Heart Disease,Heart,18
+T00424,P00424,Heart Disease,Heart,5
+T00425,P00425,Heart disease,Heart,5
+T00426,P00426,diabetes,diabetes,24
+T00427,P00427,Asthma,Asthma,28
+T00428,P00428,Cancer,Cancer,7
+T00429,P00429,Asthma,Asthma,22
+T00430,P00430,diabetes,diabetes,28
+T00431,P00431,Asthma,Asthma,25
+T00432,P00432,Heart disease,Heart,2
+T00433,P00433,Asthma,Asthma,26
+T00434,P00434,Asthma,Asthma,11
+T00435,P00435,Stroke,Stroke,20
+T00436,P00436,Fracture,Fracture,19
+T00437,P00437,Hypertension,Hypertension,11
+T00438,P00438,Heart Disease,Heart,27
+T00439,P00439,asthma,asthma,20
+T00440,P00440,Stroke,Stroke,9
+T00441,P00441,Asthma,Asthma,20
+T00442,P00442,Diabetes,Diabetes,26
+T00443,P00443,Diabetes,Diabetes,4
+T00444,P00444,Hypertension,Hypertension,16
+T00445,P00445,Stroke,Stroke,18
+T00446,P00446,Hypertension,Hypertension,9
+T00447,P00447,Heart disease,Heart,10
+T00448,P00448,asthma,asthma,2
+T00449,P00449,Diabetes,Diabetes,10
+T00450,P00450,diabetes,diabetes,21
+T00451,P00451,asthma,asthma,4
+T00452,P00452,diabetes,diabetes,8
+T00453,P00453,Diabetes,Diabetes,8
+T00454,P00454,Diabetes,Diabetes,16
+T00455,P00455,Stroke,Stroke,29
+T00456,P00456,Stroke,Stroke,4
+T00457,P00457,Fracture,Fracture,2
+T00458,P00458,Stroke,Stroke,24
+T00459,P00459,diabetes,diabetes,14
+T00460,P00460,Stroke,Stroke,19
+T00461,P00461,Asthma,Asthma,29
+T00462,P00462,Stroke,Stroke,11
+T00463,P00463,Cancer,Cancer,23
+T00464,P00464,Heart Disease,Heart,27
+T00465,P00465,Diabetes,Diabetes,21
+T00466,P00466,Cancer,Cancer,17
+T00467,P00467,Heart Disease,Heart,18
+T00468,P00468,Asthma,Asthma,26
+T00469,P00469,Cancer,Cancer,28
+T00470,P00470,diabetes,diabetes,18
+T00471,P00471,diabetes,diabetes,19
+T00472,P00472,Stroke,Stroke,20
+T00473,P00473,Stroke,Stroke,21
+T00474,P00474,Heart Disease,Heart,9
+T00475,P00475,Asthma,Asthma,10
+T00476,P00476,Asthma,Asthma,3
+T00477,P00477,asthma,asthma,13
+T00478,P00478,Fracture,Fracture,6
+T00479,P00479,Asthma,Asthma,17
+T00480,P00480,Fracture,Fracture,7
+T00481,P00481,diabetes,diabetes,27
+T00482,P00482,Heart disease,Heart,26
+T00483,P00483,Hypertension,Hypertension,15
+T00484,P00484,Heart disease,Heart,22
+T00485,P00485,Stroke,Stroke,6
+T00486,P00486,Diabetes,Diabetes,24
+T00487,P00487,Hypertension,Hypertension,4
+T00488,P00488,Stroke,Stroke,2
+T00489,P00489,Asthma,Asthma,20
+T00490,P00490,Asthma,Asthma,5
+T00491,P00491,Fracture,Fracture,25
+T00492,P00492,Heart Disease,Heart,29
+T00493,P00493,Heart disease,Heart,4
+T00494,P00494,Hypertension,Hypertension,2
+T00495,P00495,diabetes,diabetes,16
+T00496,P00496,Diabetes,Diabetes,24
+T00497,P00497,Stroke,Stroke,15
+T00498,P00498,Cancer,Cancer,14
+T00499,P00499,Heart disease,Heart,28
+T00500,P00500,Fracture,Fracture,6
+T00501,P00501,diabetes,diabetes,24
+T00502,P00502,Cancer,Cancer,27
+T00503,P00503,asthma,asthma,27
+T00504,P00504,Cancer,Cancer,20
+T00505,P00505,Heart disease,Heart,
+T00506,P00506,asthma,asthma,18
+T00507,P00507,Asthma,Asthma,25
+T00508,P00508,Diabetes,Diabetes,27
+T00509,P00509,Asthma,Asthma,17
+T00510,P00510,Diabetes,Diabetes,26
+T00511,P00511,asthma,asthma,24
+T00512,P00512,Fracture,Fracture,4
+T00513,P00513,Heart Disease,Heart,28
+T00514,P00514,Stroke,Stroke,12
+T00515,P00515,Stroke,Stroke,13
+T00516,P00516,Stroke,Stroke,29
+T00517,P00517,Asthma,Asthma,5
+T00518,P00518,Stroke,Stroke,12
+T00519,P00519,Stroke,Stroke,14
+T00520,P00520,Stroke,Stroke,16
+T00521,P00521,diabetes,diabetes,12
+T00522,P00522,Fracture,Fracture,26
+T00523,P00523,diabetes,diabetes,4
+T00524,P00524,diabetes,diabetes,6
+T00525,P00525,Diabetes,Diabetes,17
+T00526,P00526,Diabetes,Diabetes,5
+T00527,P00527,Cancer,Cancer,24
+T00528,P00528,Diabetes,Diabetes,24
+T00529,P00529,asthma,asthma,22
+T00530,P00530,Cancer,Cancer,26
+T00531,P00531,Hypertension,Hypertension,8
+T00532,P00532,asthma,asthma,20
+T00533,P00533,Stroke,Stroke,17
+T00534,P00534,Hypertension,Hypertension,27
+T00535,P00535,Heart Disease,Heart,27
+T00536,P00536,Stroke,Stroke,7
+T00537,P00537,asthma,asthma,25
+T00538,P00538,asthma,asthma,6
+T00539,P00539,asthma,asthma,16
+T00540,P00540,Stroke,Stroke,4
+T00541,P00541,asthma,asthma,2
+T00542,P00542,Heart disease,Heart,8
+T00543,P00543,asthma,asthma,29
+T00544,P00544,Hypertension,Hypertension,27
+T00545,P00545,Cancer,Cancer,22
+T00546,P00546,Asthma,Asthma,19
+T00547,P00547,Diabetes,Diabetes,28
+T00548,P00548,Cancer,Cancer,15
+T00549,P00549,diabetes,diabetes,18
+T00550,P00550,Stroke,Stroke,23
+T00551,P00551,Cancer,Cancer,25
+T00552,P00552,Heart disease,Heart,26
+T00553,P00553,Diabetes,Diabetes,28
+T00554,P00554,Asthma,Asthma,8
+T00555,P00555,Asthma,Asthma,6
+T00556,P00556,Heart Disease,Heart,20
+T00557,P00557,Hypertension,Hypertension,29
+T00558,P00558,Fracture,Fracture,19
+T00559,P00559,asthma,asthma,8
+T00560,P00560,Heart Disease,Heart,28
+T00561,P00561,diabetes,diabetes,24
+T00562,P00562,Diabetes,Diabetes,4
+T00563,P00563,Heart disease,Heart,9
+T00564,P00564,Hypertension,Hypertension,19
+T00565,P00565,Hypertension,Hypertension,28
+T00566,P00566,Heart disease,Heart,2
+T00567,P00567,Hypertension,Hypertension,2
+T00568,P00568,Asthma,Asthma,2
+T00569,P00569,Diabetes,Diabetes,9
+T00570,P00570,Fracture,Fracture,28
+T00571,P00571,Stroke,Stroke,13
+T00572,P00572,Cancer,Cancer,11
+T00573,P00573,Hypertension,Hypertension,23
+T00574,P00574,Diabetes,Diabetes,5
+T00575,P00575,Asthma,Asthma,3
+T00576,P00576,asthma,asthma,15
+T00577,P00577,asthma,asthma,25
+T00578,P00578,Diabetes,Diabetes,6
+T00579,P00579,asthma,asthma,16
+T00580,P00580,Cancer,Cancer,17
+T00581,P00581,Diabetes,Diabetes,23
+T00582,P00582,Hypertension,Hypertension,3
+T00583,P00583,Hypertension,Hypertension,12
+T00584,P00584,Hypertension,Hypertension,3
+T00585,P00585,Heart Disease,Heart,23
+T00586,P00586,Fracture,Fracture,25
+T00587,P00587,Hypertension,Hypertension,20
+T00588,P00588,Diabetes,Diabetes,10
+T00589,P00589,Stroke,Stroke,8
+T00590,P00590,Stroke,Stroke,21
+T00591,P00591,diabetes,diabetes,26
+T00592,P00592,Hypertension,Hypertension,26
+T00593,P00593,Hypertension,Hypertension,5
+T00594,P00594,Cancer,Cancer,26
+T00595,P00595,Heart disease,Heart,26
+T00596,P00596,Cancer,Cancer,15
+T00597,P00597,Asthma,Asthma,18
+T00598,P00598,Cancer,Cancer,8
+T00599,P00599,Stroke,Stroke,6
+T00600,P00600,Stroke,Stroke,20
+T00601,P00601,Stroke,Stroke,4
+T00602,P00602,Stroke,Stroke,24
+T00603,P00603,Heart disease,Heart,14
+T00604,P00604,Fracture,Fracture,23
+T00605,P00605,Fracture,Fracture,30
+T00606,P00606,diabetes,diabetes,
+T00607,P00607,Fracture,Fracture,24
+T00608,P00608,Fracture,Fracture,12
+T00609,P00609,Heart Disease,Heart,21
+T00610,P00610,Stroke,Stroke,24
+T00611,P00611,Hypertension,Hypertension,24
+T00612,P00612,Asthma,Asthma,23
+T00613,P00613,Heart Disease,Heart,24
+T00614,P00614,Stroke,Stroke,21
+T00615,P00615,diabetes,diabetes,13
+T00616,P00616,Asthma,Asthma,24
+T00617,P00617,Cancer,Cancer,22
+T00618,P00618,Hypertension,Hypertension,16
+T00619,P00619,Cancer,Cancer,19
+T00620,P00620,diabetes,diabetes,23
+T00621,P00621,Asthma,Asthma,5
+T00622,P00622,Heart Disease,Heart,10
+T00623,P00623,asthma,asthma,28
+T00624,P00624,Heart Disease,Heart,27
+T00625,P00625,Fracture,Fracture,26
+T00626,P00626,Fracture,Fracture,3
+T00627,P00627,asthma,asthma,3
+T00628,P00628,Cancer,Cancer,27
+T00629,P00629,Fracture,Fracture,12
+T00630,P00630,asthma,asthma,3
+T00631,P00631,asthma,asthma,15
+T00632,P00632,Heart Disease,Heart,10
+T00633,P00633,Asthma,Asthma,28
+T00634,P00634,Cancer,Cancer,4
+T00635,P00635,Cancer,Cancer,25
+T00636,P00636,Cancer,Cancer,19
+T00637,P00637,Stroke,Stroke,16
+T00638,P00638,Cancer,Cancer,20
+T00639,P00639,asthma,asthma,29
+T00640,P00640,Diabetes,Diabetes,5
+T00641,P00641,Heart disease,Heart,30
+T00642,P00642,Hypertension,Hypertension,5
+T00643,P00643,Hypertension,Hypertension,8
+T00644,P00644,Cancer,Cancer,16
+T00645,P00645,Diabetes,Diabetes,16
+T00646,P00646,Asthma,Asthma,28
+T00647,P00647,diabetes,diabetes,11
+T00648,P00648,Heart Disease,Heart,2
+T00649,P00649,diabetes,diabetes,9
+T00650,P00650,Asthma,Asthma,28
+T00651,P00651,Hypertension,Hypertension,28
+T00652,P00652,Cancer,Cancer,29
+T00653,P00653,Asthma,Asthma,8
+T00654,P00654,Cancer,Cancer,30
+T00655,P00655,Heart Disease,Heart,19
+T00656,P00656,diabetes,diabetes,30
+T00657,P00657,Asthma,Asthma,2
+T00658,P00658,Asthma,Asthma,14
+T00659,P00659,Heart Disease,Heart,11
+T00660,P00660,Fracture,Fracture,19
+T00661,P00661,Stroke,Stroke,23
+T00662,P00662,Heart disease,Heart,27
+T00663,P00663,asthma,asthma,28
+T00664,P00664,Fracture,Fracture,26
+T00665,P00665,Heart Disease,Heart,8
+T00666,P00666,Stroke,Stroke,23
+T00667,P00667,Heart Disease,Heart,17
+T00668,P00668,Heart disease,Heart,9
+T00669,P00669,Diabetes,Diabetes,18
+T00670,P00670,Hypertension,Hypertension,2
+T00671,P00671,Heart disease,Heart,11
+T00672,P00672,asthma,asthma,26
+T00673,P00673,Asthma,Asthma,11
+T00674,P00674,Stroke,Stroke,22
+T00675,P00675,Cancer,Cancer,11
+T00676,P00676,Heart disease,Heart,26
+T00677,P00677,Heart Disease,Heart,28
+T00678,P00678,diabetes,diabetes,25
+T00679,P00679,Diabetes,Diabetes,29
+T00680,P00680,Hypertension,Hypertension,12
+T00681,P00681,Asthma,Asthma,21
+T00682,P00682,Stroke,Stroke,19
+T00683,P00683,Stroke,Stroke,5
+T00684,P00684,Fracture,Fracture,16
+T00685,P00685,Heart disease,Heart,3
+T00686,P00686,Fracture,Fracture,20
+T00687,P00687,Diabetes,Diabetes,20
+T00688,P00688,Hypertension,Hypertension,4
+T00689,P00689,Hypertension,Hypertension,21
+T00690,P00690,Cancer,Cancer,29
+T00691,P00691,Asthma,Asthma,14
+T00692,P00692,Fracture,Fracture,15
+T00693,P00693,diabetes,diabetes,16
+T00694,P00694,Diabetes,Diabetes,21
+T00695,P00695,Hypertension,Hypertension,13
+T00696,P00696,diabetes,diabetes,4
+T00697,P00697,Diabetes,Diabetes,8
+T00698,P00698,asthma,asthma,14
+T00699,P00699,Heart Disease,Heart,12
+T00700,P00700,Fracture,Fracture,24
+T00701,P00701,Stroke,Stroke,6
+T00702,P00702,diabetes,diabetes,3
+T00703,P00703,Hypertension,Hypertension,3
+T00704,P00704,Heart Disease,Heart,18
+T00705,P00705,Diabetes,Diabetes,13
+T00706,P00706,Fracture,Fracture,26
+T00707,P00707,Hypertension,Hypertension,
+T00708,P00708,asthma,asthma,13
+T00709,P00709,Diabetes,Diabetes,2
+T00710,P00710,Diabetes,Diabetes,26
+T00711,P00711,Asthma,Asthma,11
+T00712,P00712,Asthma,Asthma,4
+T00713,P00713,asthma,asthma,15
+T00714,P00714,Stroke,Stroke,23
+T00715,P00715,Heart disease,Heart,3
+T00716,P00716,asthma,asthma,25
+T00717,P00717,Fracture,Fracture,30
+T00718,P00718,Heart Disease,Heart,17
+T00719,P00719,asthma,asthma,15
+T00720,P00720,Heart Disease,Heart,27
+T00721,P00721,Heart Disease,Heart,2
+T00722,P00722,Heart Disease,Heart,5
+T00723,P00723,Fracture,Fracture,12
+T00724,P00724,Cancer,Cancer,20
+T00725,P00725,Heart Disease,Heart,28
+T00726,P00726,Cancer,Cancer,8
+T00727,P00727,Hypertension,Hypertension,24
+T00728,P00728,Diabetes,Diabetes,12
+T00729,P00729,Heart disease,Heart,16
+T00730,P00730,Diabetes,Diabetes,5
+T00731,P00731,Heart disease,Heart,22
+T00732,P00732,Fracture,Fracture,24
+T00733,P00733,Stroke,Stroke,24
+T00734,P00734,Diabetes,Diabetes,23
+T00735,P00735,Fracture,Fracture,7
+T00736,P00736,Diabetes,Diabetes,23
+T00737,P00737,Heart disease,Heart,6
+T00738,P00738,Asthma,Asthma,18
+T00739,P00739,Hypertension,Hypertension,8
+T00740,P00740,Heart Disease,Heart,9
+T00741,P00741,Fracture,Fracture,30
+T00742,P00742,Fracture,Fracture,13
+T00743,P00743,Stroke,Stroke,17
+T00744,P00744,Fracture,Fracture,21
+T00745,P00745,Asthma,Asthma,14
+T00746,P00746,Stroke,Stroke,29
+T00747,P00747,Cancer,Cancer,12
+T00748,P00748,Heart disease,Heart,28
+T00749,P00749,Heart Disease,Heart,10
+T00750,P00750,diabetes,diabetes,26
+T00751,P00751,Asthma,Asthma,18
+T00752,P00752,Asthma,Asthma,6
+T00753,P00753,Stroke,Stroke,22
+T00754,P00754,Cancer,Cancer,21
+T00755,P00755,Cancer,Cancer,19
+T00756,P00756,Diabetes,Diabetes,30
+T00757,P00757,Fracture,Fracture,16
+T00758,P00758,asthma,asthma,17
+T00759,P00759,Asthma,Asthma,15
+T00760,P00760,asthma,asthma,18
+T00761,P00761,asthma,asthma,23
+T00762,P00762,Fracture,Fracture,19
+T00763,P00763,asthma,asthma,14
+T00764,P00764,Asthma,Asthma,13
+T00765,P00765,diabetes,diabetes,26
+T00766,P00766,Hypertension,Hypertension,7
+T00767,P00767,Asthma,Asthma,6
+T00768,P00768,Fracture,Fracture,20
+T00769,P00769,Heart disease,Heart,10
+T00770,P00770,Stroke,Stroke,19
+T00771,P00771,Heart Disease,Heart,29
+T00772,P00772,Hypertension,Hypertension,23
+T00773,P00773,Cancer,Cancer,13
+T00774,P00774,diabetes,diabetes,14
+T00775,P00775,asthma,asthma,6
+T00776,P00776,Heart Disease,Heart,23
+T00777,P00777,Cancer,Cancer,17
+T00778,P00778,Heart disease,Heart,12
+T00779,P00779,diabetes,diabetes,4
+T00780,P00780,Cancer,Cancer,16
+T00781,P00781,Fracture,Fracture,18
+T00782,P00782,Stroke,Stroke,9
+T00783,P00783,Asthma,Asthma,22
+T00784,P00784,diabetes,diabetes,10
+T00785,P00785,Asthma,Asthma,19
+T00786,P00786,Fracture,Fracture,23
+T00787,P00787,Fracture,Fracture,16
+T00788,P00788,Asthma,Asthma,16
+T00789,P00789,Stroke,Stroke,26
+T00790,P00790,Heart disease,Heart,20
+T00791,P00791,Fracture,Fracture,23
+T00792,P00792,diabetes,diabetes,2
+T00793,P00793,Heart disease,Heart,4
+T00794,P00794,Cancer,Cancer,19
+T00795,P00795,Fracture,Fracture,29
+T00796,P00796,Heart Disease,Heart,17
+T00797,P00797,Fracture,Fracture,29
+T00798,P00798,Hypertension,Hypertension,15
+T00799,P00799,Diabetes,Diabetes,29
+T00800,P00800,Stroke,Stroke,23
+T00801,P00801,Cancer,Cancer,18
+T00802,P00802,Cancer,Cancer,23
+T00803,P00803,Stroke,Stroke,16
+T00804,P00804,Asthma,Asthma,25
+T00805,P00805,Heart Disease,Heart,2
+T00806,P00806,asthma,asthma,23
+T00807,P00807,Diabetes,Diabetes,23
+T00808,P00808,asthma,asthma,
+T00809,P00809,Fracture,Fracture,19
+T00810,P00810,Asthma,Asthma,14
+T00811,P00811,Heart Disease,Heart,6
+T00812,P00812,diabetes,diabetes,14
+T00813,P00813,Heart disease,Heart,10
+T00814,P00814,Stroke,Stroke,12
+T00815,P00815,diabetes,diabetes,19
+T00816,P00816,Stroke,Stroke,29
+T00817,P00817,asthma,asthma,26
+T00818,P00818,diabetes,diabetes,13
+T00819,P00819,Heart disease,Heart,4
+T00820,P00820,Heart Disease,Heart,4
+T00821,P00821,Asthma,Asthma,30
+T00822,P00822,diabetes,diabetes,23
+T00823,P00823,Heart disease,Heart,24
+T00824,P00824,Cancer,Cancer,6
+T00825,P00825,Hypertension,Hypertension,18
+T00826,P00826,Fracture,Fracture,21
+T00827,P00827,Diabetes,Diabetes,19
+T00828,P00828,Stroke,Stroke,23
+T00829,P00829,Cancer,Cancer,15
+T00830,P00830,asthma,asthma,27
+T00831,P00831,diabetes,diabetes,22
+T00832,P00832,Asthma,Asthma,15
+T00833,P00833,Stroke,Stroke,27
+T00834,P00834,Diabetes,Diabetes,27
+T00835,P00835,diabetes,diabetes,17
+T00836,P00836,Diabetes,Diabetes,27
+T00837,P00837,asthma,asthma,20
+T00838,P00838,Heart disease,Heart,21
+T00839,P00839,Stroke,Stroke,16
+T00840,P00840,Diabetes,Diabetes,5
+T00841,P00841,asthma,asthma,13
+T00842,P00842,Heart Disease,Heart,7
+T00843,P00843,Stroke,Stroke,11
+T00844,P00844,diabetes,diabetes,25
+T00845,P00845,Heart Disease,Heart,10
+T00846,P00846,Stroke,Stroke,30
+T00847,P00847,asthma,asthma,12
+T00848,P00848,Heart Disease,Heart,24
+T00849,P00849,Hypertension,Hypertension,13
+T00850,P00850,Fracture,Fracture,19
+T00851,P00851,Fracture,Fracture,27
+T00852,P00852,Heart disease,Heart,12
+T00853,P00853,diabetes,diabetes,14
+T00854,P00854,Cancer,Cancer,9
+T00855,P00855,Heart Disease,Heart,2
+T00856,P00856,Heart Disease,Heart,7
+T00857,P00857,Fracture,Fracture,24
+T00858,P00858,diabetes,diabetes,4
+T00859,P00859,Heart disease,Heart,22
+T00860,P00860,diabetes,diabetes,18
+T00861,P00861,Diabetes,Diabetes,3
+T00862,P00862,Heart Disease,Heart,4
+T00863,P00863,Asthma,Asthma,21
+T00864,P00864,Cancer,Cancer,3
+T00865,P00865,Diabetes,Diabetes,25
+T00866,P00866,Cancer,Cancer,10
+T00867,P00867,Fracture,Fracture,23
+T00868,P00868,asthma,asthma,28
+T00869,P00869,asthma,asthma,13
+T00870,P00870,Fracture,Fracture,23
+T00871,P00871,Fracture,Fracture,9
+T00872,P00872,Asthma,Asthma,23
+T00873,P00873,Heart disease,Heart,6
+T00874,P00874,Cancer,Cancer,7
+T00875,P00875,Heart disease,Heart,30
+T00876,P00876,Hypertension,Hypertension,4
+T00877,P00877,Heart disease,Heart,6
+T00878,P00878,diabetes,diabetes,19
+T00879,P00879,Heart disease,Heart,15
+T00880,P00880,Stroke,Stroke,20
+T00881,P00881,Asthma,Asthma,21
+T00882,P00882,Cancer,Cancer,9
+T00883,P00883,asthma,asthma,20
+T00884,P00884,Cancer,Cancer,22
+T00885,P00885,Diabetes,Diabetes,18
+T00886,P00886,Asthma,Asthma,14
+T00887,P00887,Hypertension,Hypertension,18
+T00888,P00888,Fracture,Fracture,8
+T00889,P00889,Heart Disease,Heart,20
+T00890,P00890,Fracture,Fracture,30
+T00891,P00891,asthma,asthma,18
+T00892,P00892,Asthma,Asthma,26
+T00893,P00893,asthma,asthma,15
+T00894,P00894,Heart Disease,Heart,17
+T00895,P00895,diabetes,diabetes,30
+T00896,P00896,Heart disease,Heart,16
+T00897,P00897,Diabetes,Diabetes,22
+T00898,P00898,Heart Disease,Heart,10
+T00899,P00899,Asthma,Asthma,14
+T00900,P00900,Hypertension,Hypertension,18
+T00901,P00901,Asthma,Asthma,13
+T00902,P00902,Hypertension,Hypertension,19
+T00903,P00903,Hypertension,Hypertension,25
+T00904,P00904,Diabetes,Diabetes,21
+T00905,P00905,Diabetes,Diabetes,14
+T00906,P00906,Stroke,Stroke,28
+T00907,P00907,Diabetes,Diabetes,20
+T00908,P00908,Asthma,Asthma,16
+T00909,P00909,Cancer,Cancer,
+T00910,P00910,Heart disease,Heart,3
+T00911,P00911,Stroke,Stroke,6
+T00912,P00912,Stroke,Stroke,11
+T00913,P00913,Stroke,Stroke,25
+T00914,P00914,asthma,asthma,18
+T00915,P00915,Cancer,Cancer,20
+T00916,P00916,Hypertension,Hypertension,19
+T00917,P00917,Fracture,Fracture,7
+T00918,P00918,Asthma,Asthma,10
+T00919,P00919,Asthma,Asthma,14
+T00920,P00920,Heart disease,Heart,4
+T00921,P00921,Heart Disease,Heart,25
+T00922,P00922,Cancer,Cancer,23
+T00923,P00923,Asthma,Asthma,27
+T00924,P00924,Heart Disease,Heart,23
+T00925,P00925,Diabetes,Diabetes,20
+T00926,P00926,Heart Disease,Heart,16
+T00927,P00927,Asthma,Asthma,20
+T00928,P00928,Heart disease,Heart,23
+T00929,P00929,Hypertension,Hypertension,28
+T00930,P00930,Diabetes,Diabetes,20
+T00931,P00931,Cancer,Cancer,4
+T00932,P00932,diabetes,diabetes,6
+T00933,P00933,Heart Disease,Heart,3
+T00934,P00934,Heart Disease,Heart,26
+T00935,P00935,diabetes,diabetes,12
+T00936,P00936,diabetes,diabetes,6
+T00937,P00937,Cancer,Cancer,13
+T00938,P00938,diabetes,diabetes,8
+T00939,P00939,Stroke,Stroke,18
+T00940,P00940,Asthma,Asthma,3
+T00941,P00941,asthma,asthma,11
+T00942,P00942,diabetes,diabetes,24
+T00943,P00943,Stroke,Stroke,23
+T00944,P00944,asthma,asthma,7
+T00945,P00945,Heart disease,Heart,17
+T00946,P00946,Diabetes,Diabetes,2
+T00947,P00947,Cancer,Cancer,29
+T00948,P00948,Fracture,Fracture,17
+T00949,P00949,Fracture,Fracture,13
+T00950,P00950,diabetes,diabetes,21
+T00951,P00951,Diabetes,Diabetes,26
+T00952,P00952,Diabetes,Diabetes,8
+T00953,P00953,Heart Disease,Heart,7
+T00954,P00954,Stroke,Stroke,2
+T00955,P00955,Fracture,Fracture,9
+T00956,P00956,Asthma,Asthma,26
+T00957,P00957,Fracture,Fracture,18
+T00958,P00958,Asthma,Asthma,9
+T00959,P00959,Heart Disease,Heart,15
+T00960,P00960,Fracture,Fracture,10
+T00961,P00961,Cancer,Cancer,11
+T00962,P00962,Stroke,Stroke,10
+T00963,P00963,Heart disease,Heart,4
+T00964,P00964,Diabetes,Diabetes,28
+T00965,P00965,Heart disease,Heart,6
+T00966,P00966,Heart disease,Heart,9
+T00967,P00967,Cancer,Cancer,23
+T00968,P00968,asthma,asthma,27
+T00969,P00969,Asthma,Asthma,9
+T00970,P00970,Fracture,Fracture,24
+T00971,P00971,Stroke,Stroke,30
+T00972,P00972,Fracture,Fracture,9
+T00973,P00973,Diabetes,Diabetes,25
+T00974,P00974,asthma,asthma,19
+T00975,P00975,asthma,asthma,19
+T00976,P00976,Heart Disease,Heart,4
+T00977,P00977,Hypertension,Hypertension,15
+T00978,P00978,Asthma,Asthma,26
+T00979,P00979,asthma,asthma,21
+T00980,P00980,Hypertension,Hypertension,15
+T00981,P00981,Cancer,Cancer,6
+T00982,P00982,Heart Disease,Heart,10
+T00983,P00983,Heart disease,Heart,4
+T00984,P00984,Heart Disease,Heart,23
+T00985,P00985,diabetes,diabetes,6
+T00986,P00986,asthma,asthma,13
+T00987,P00987,Cancer,Cancer,18
+T00988,P00988,Hypertension,Hypertension,18
+T00989,P00989,Heart disease,Heart,25
+T00990,P00990,Hypertension,Hypertension,7
+T00991,P00991,Heart disease,Heart,2
+T00992,P00992,Fracture,Fracture,19
+T00993,P00993,diabetes,diabetes,10
+T00994,P00994,diabetes,diabetes,6
+T00995,P00995,asthma,asthma,16
+T00996,P00996,Diabetes,Diabetes,23
+T00997,P00997,Stroke,Stroke,16
+T00998,P00998,Diabetes,Diabetes,16
+T00999,P00999,Fracture,Fracture,28
+T01000,P01000,Hypertension,Hypertension,24
+T01001,P01001,Heart Disease,Heart,28
+T01002,P01002,Asthma,Asthma,10
+T01003,P01003,asthma,asthma,11
+T01004,P01004,Fracture,Fracture,12
+T01005,P01005,Hypertension,Hypertension,16
+T01006,P01006,diabetes,diabetes,5
+T01007,P01007,Heart disease,Heart,28
+T01008,P01008,diabetes,diabetes,13
+T01009,P01009,Stroke,Stroke,27
+T01010,P01010,Cancer,Cancer,
+T01011,P01011,Fracture,Fracture,8
+T01012,P01012,diabetes,diabetes,23
+T01013,P01013,Diabetes,Diabetes,6
+T01014,P01014,Asthma,Asthma,7
+T01015,P01015,Stroke,Stroke,27
+T01016,P01016,Asthma,Asthma,12
+T01017,P01017,Hypertension,Hypertension,25
+T01018,P01018,Stroke,Stroke,30
+T01019,P01019,Heart disease,Heart,20
+T01020,P01020,Asthma,Asthma,15
+T01021,P01021,Cancer,Cancer,11
+T01022,P01022,asthma,asthma,18
+T01023,P01023,Heart disease,Heart,24
+T01024,P01024,diabetes,diabetes,27
+T01025,P01025,Diabetes,Diabetes,27
+T01026,P01026,Hypertension,Hypertension,2
+T01027,P01027,Heart disease,Heart,29
+T01028,P01028,asthma,asthma,19
+T01029,P01029,asthma,asthma,18
+T01030,P01030,Fracture,Fracture,6
+T01031,P01031,Stroke,Stroke,8
+T01032,P01032,Heart Disease,Heart,24
+T01033,P01033,Fracture,Fracture,13
+T01034,P01034,Diabetes,Diabetes,28
+T01035,P01035,Heart Disease,Heart,17
+T01036,P01036,diabetes,diabetes,21
+T01037,P01037,Heart Disease,Heart,14
+T01038,P01038,Asthma,Asthma,7
+T01039,P01039,diabetes,diabetes,25
+T01040,P01040,Diabetes,Diabetes,7
+T01041,P01041,Heart disease,Heart,19
+T01042,P01042,Fracture,Fracture,28
+T01043,P01043,Heart Disease,Heart,29
+T01044,P01044,Cancer,Cancer,28
+T01045,P01045,Cancer,Cancer,2
+T01046,P01046,Fracture,Fracture,9
+T01047,P01047,Stroke,Stroke,15
+T01048,P01048,Asthma,Asthma,20
+T01049,P01049,Fracture,Fracture,3
+T01050,P01050,Stroke,Stroke,22
+T01051,P01051,Hypertension,Hypertension,28
+T01052,P01052,asthma,asthma,20
+T01053,P01053,Hypertension,Hypertension,2
+T01054,P01054,diabetes,diabetes,20
+T01055,P01055,Stroke,Stroke,23
+T01056,P01056,Asthma,Asthma,9
+T01057,P01057,Heart disease,Heart,13
+T01058,P01058,Stroke,Stroke,6
+T01059,P01059,Heart disease,Heart,20
+T01060,P01060,asthma,asthma,27
+T01061,P01061,Diabetes,Diabetes,7
+T01062,P01062,diabetes,diabetes,30
+T01063,P01063,diabetes,diabetes,29
+T01064,P01064,diabetes,diabetes,30
+T01065,P01065,Cancer,Cancer,17
+T01066,P01066,Diabetes,Diabetes,23
+T01067,P01067,Diabetes,Diabetes,2
+T01068,P01068,Diabetes,Diabetes,19
+T01069,P01069,Heart Disease,Heart,7
+T01070,P01070,Heart Disease,Heart,3
+T01071,P01071,asthma,asthma,9
+T01072,P01072,Heart Disease,Heart,25
+T01073,P01073,Heart Disease,Heart,3
+T01074,P01074,Cancer,Cancer,20
+T01075,P01075,Heart disease,Heart,20
+T01076,P01076,asthma,asthma,14
+T01077,P01077,Diabetes,Diabetes,18
+T01078,P01078,Hypertension,Hypertension,18
+T01079,P01079,Diabetes,Diabetes,11
+T01080,P01080,Stroke,Stroke,14
+T01081,P01081,diabetes,diabetes,29
+T01082,P01082,Fracture,Fracture,5
+T01083,P01083,Diabetes,Diabetes,29
+T01084,P01084,diabetes,diabetes,11
+T01085,P01085,Fracture,Fracture,29
+T01086,P01086,Cancer,Cancer,7
+T01087,P01087,Asthma,Asthma,27
+T01088,P01088,Fracture,Fracture,28
+T01089,P01089,asthma,asthma,30
+T01090,P01090,Hypertension,Hypertension,21
+T01091,P01091,diabetes,diabetes,26
+T01092,P01092,diabetes,diabetes,30
+T01093,P01093,Fracture,Fracture,8
+T01094,P01094,Hypertension,Hypertension,3
+T01095,P01095,Stroke,Stroke,15
+T01096,P01096,asthma,asthma,3
+T01097,P01097,Stroke,Stroke,18
+T01098,P01098,Cancer,Cancer,22
+T01099,P01099,Cancer,Cancer,13
+T01100,P01100,Fracture,Fracture,24
+T01101,P01101,Stroke,Stroke,26
+T01102,P01102,Diabetes,Diabetes,7
+T01103,P01103,Fracture,Fracture,8
+T01104,P01104,diabetes,diabetes,15
+T01105,P01105,Diabetes,Diabetes,9
+T01106,P01106,asthma,asthma,3
+T01107,P01107,Heart Disease,Heart,24
+T01108,P01108,Asthma,Asthma,30
+T01109,P01109,asthma,asthma,2
+T01110,P01110,Stroke,Stroke,28
+T01111,P01111,Heart disease,Heart,
+T01112,P01112,Heart Disease,Heart,25
+T01113,P01113,Fracture,Fracture,27
+T01114,P01114,Diabetes,Diabetes,24
+T01115,P01115,asthma,asthma,6
+T01116,P01116,Asthma,Asthma,4
+T01117,P01117,Stroke,Stroke,21
+T01118,P01118,Asthma,Asthma,26
+T01119,P01119,asthma,asthma,15
+T01120,P01120,Asthma,Asthma,14
+T01121,P01121,Cancer,Cancer,15
+T01122,P01122,Stroke,Stroke,16
+T01123,P01123,Stroke,Stroke,26
+T01124,P01124,Asthma,Asthma,15
+T01125,P01125,Hypertension,Hypertension,29
+T01126,P01126,diabetes,diabetes,10
+T01127,P01127,Heart Disease,Heart,24
+T01128,P01128,Cancer,Cancer,11
+T01129,P01129,Diabetes,Diabetes,2
+T01130,P01130,Diabetes,Diabetes,30
+T01131,P01131,Diabetes,Diabetes,28
+T01132,P01132,diabetes,diabetes,8
+T01133,P01133,Fracture,Fracture,10
+T01134,P01134,Heart disease,Heart,16
+T01135,P01135,Cancer,Cancer,10
+T01136,P01136,Fracture,Fracture,25
+T01137,P01137,diabetes,diabetes,2
+T01138,P01138,Fracture,Fracture,9
+T01139,P01139,Cancer,Cancer,27
+T01140,P01140,Heart Disease,Heart,8
+T01141,P01141,Heart Disease,Heart,6
+T01142,P01142,asthma,asthma,29
+T01143,P01143,Cancer,Cancer,24
+T01144,P01144,Heart disease,Heart,9
+T01145,P01145,Fracture,Fracture,15
+T01146,P01146,Heart Disease,Heart,22
+T01147,P01147,Heart Disease,Heart,29
+T01148,P01148,Heart disease,Heart,25
+T01149,P01149,Heart disease,Heart,10
+T01150,P01150,asthma,asthma,3
+T01151,P01151,diabetes,diabetes,12
+T01152,P01152,Asthma,Asthma,5
+T01153,P01153,Fracture,Fracture,17
+T01154,P01154,Stroke,Stroke,13
+T01155,P01155,Fracture,Fracture,19
+T01156,P01156,Stroke,Stroke,28
+T01157,P01157,Stroke,Stroke,4
+T01158,P01158,Diabetes,Diabetes,24
+T01159,P01159,Diabetes,Diabetes,3
+T01160,P01160,Diabetes,Diabetes,30
+T01161,P01161,asthma,asthma,21
+T01162,P01162,diabetes,diabetes,29
+T01163,P01163,diabetes,diabetes,18
+T01164,P01164,Stroke,Stroke,7
+T01165,P01165,Asthma,Asthma,17
+T01166,P01166,Hypertension,Hypertension,26
+T01167,P01167,Heart disease,Heart,21
+T01168,P01168,Heart disease,Heart,22
+T01169,P01169,Heart disease,Heart,11
+T01170,P01170,Cancer,Cancer,23
+T01171,P01171,Hypertension,Hypertension,4
+T01172,P01172,Asthma,Asthma,3
+T01173,P01173,Heart Disease,Heart,14
+T01174,P01174,Hypertension,Hypertension,22
+T01175,P01175,Stroke,Stroke,30
+T01176,P01176,Heart disease,Heart,4
+T01177,P01177,asthma,asthma,24
+T01178,P01178,asthma,asthma,22
+T01179,P01179,asthma,asthma,23
+T01180,P01180,Cancer,Cancer,3
+T01181,P01181,Diabetes,Diabetes,18
+T01182,P01182,Fracture,Fracture,13
+T01183,P01183,Fracture,Fracture,26
+T01184,P01184,asthma,asthma,16
+T01185,P01185,asthma,asthma,5
+T01186,P01186,Heart disease,Heart,5
+T01187,P01187,Cancer,Cancer,26
+T01188,P01188,Heart disease,Heart,25
+T01189,P01189,Cancer,Cancer,6
+T01190,P01190,Heart disease,Heart,17
+T01191,P01191,Diabetes,Diabetes,23
+T01192,P01192,Cancer,Cancer,10
+T01193,P01193,Asthma,Asthma,10
+T01194,P01194,Stroke,Stroke,19
+T01195,P01195,asthma,asthma,2
+T01196,P01196,diabetes,diabetes,23
+T01197,P01197,Heart disease,Heart,22
+T01198,P01198,Cancer,Cancer,4
+T01199,P01199,Heart disease,Heart,18
+T01200,P01200,asthma,asthma,24
+T01201,P01201,Asthma,Asthma,29
+T01202,P01202,diabetes,diabetes,19
+T01203,P01203,Asthma,Asthma,7
+T01204,P01204,Hypertension,Hypertension,9
+T01205,P01205,Heart Disease,Heart,14
+T01206,P01206,Asthma,Asthma,12
+T01207,P01207,Fracture,Fracture,3
+T01208,P01208,diabetes,diabetes,17
+T01209,P01209,Fracture,Fracture,9
+T01210,P01210,Heart disease,Heart,28
+T01211,P01211,Fracture,Fracture,23
+T01212,P01212,Diabetes,Diabetes,
+T01213,P01213,diabetes,diabetes,3
+T01214,P01214,Stroke,Stroke,13
+T01215,P01215,Heart disease,Heart,14
+T01216,P01216,Diabetes,Diabetes,13
+T01217,P01217,Asthma,Asthma,27
+T01218,P01218,Hypertension,Hypertension,17
+T01219,P01219,diabetes,diabetes,7
+T01220,P01220,Fracture,Fracture,20
+T01221,P01221,Heart disease,Heart,4
+T01222,P01222,Diabetes,Diabetes,19
+T01223,P01223,Heart Disease,Heart,30
+T01224,P01224,Stroke,Stroke,7
+T01225,P01225,Fracture,Fracture,16
+T01226,P01226,asthma,asthma,15
+T01227,P01227,Hypertension,Hypertension,21
+T01228,P01228,Hypertension,Hypertension,25
+T01229,P01229,Diabetes,Diabetes,15
+T01230,P01230,Diabetes,Diabetes,11
+T01231,P01231,diabetes,diabetes,18
+T01232,P01232,Stroke,Stroke,21
+T01233,P01233,Stroke,Stroke,2
+T01234,P01234,Hypertension,Hypertension,13
+T01235,P01235,Stroke,Stroke,14
+T01236,P01236,diabetes,diabetes,4
+T01237,P01237,Cancer,Cancer,7
+T01238,P01238,Cancer,Cancer,20
+T01239,P01239,Heart Disease,Heart,29
+T01240,P01240,diabetes,diabetes,24
+T01241,P01241,Diabetes,Diabetes,17
+T01242,P01242,asthma,asthma,18
+T01243,P01243,Stroke,Stroke,11
+T01244,P01244,Heart disease,Heart,13
+T01245,P01245,Cancer,Cancer,27
+T01246,P01246,Heart disease,Heart,2
+T01247,P01247,Hypertension,Hypertension,17
+T01248,P01248,asthma,asthma,9
+T01249,P01249,Heart disease,Heart,24
+T01250,P01250,Stroke,Stroke,8
+T01251,P01251,diabetes,diabetes,10
+T01252,P01252,Hypertension,Hypertension,29
+T01253,P01253,Heart Disease,Heart,18
+T01254,P01254,Hypertension,Hypertension,15
+T01255,P01255,Hypertension,Hypertension,5
+T01256,P01256,Cancer,Cancer,23
+T01257,P01257,Stroke,Stroke,5
+T01258,P01258,Fracture,Fracture,12
+T01259,P01259,Stroke,Stroke,19
+T01260,P01260,Stroke,Stroke,8
+T01261,P01261,Asthma,Asthma,30
+T01262,P01262,asthma,asthma,23
+T01263,P01263,Asthma,Asthma,27
+T01264,P01264,Hypertension,Hypertension,14
+T01265,P01265,Asthma,Asthma,23
+T01266,P01266,Heart Disease,Heart,7
+T01267,P01267,Diabetes,Diabetes,15
+T01268,P01268,Hypertension,Hypertension,30
+T01269,P01269,Hypertension,Hypertension,23
+T01270,P01270,Heart Disease,Heart,12
+T01271,P01271,asthma,asthma,18
+T01272,P01272,Heart disease,Heart,3
+T01273,P01273,Diabetes,Diabetes,8
+T01274,P01274,asthma,asthma,19
+T01275,P01275,Diabetes,Diabetes,23
+T01276,P01276,Cancer,Cancer,26
+T01277,P01277,Fracture,Fracture,13
+T01278,P01278,Stroke,Stroke,22
+T01279,P01279,Heart disease,Heart,10
+T01280,P01280,Asthma,Asthma,21
+T01281,P01281,diabetes,diabetes,25
+T01282,P01282,Diabetes,Diabetes,18
+T01283,P01283,Cancer,Cancer,13
+T01284,P01284,Heart disease,Heart,11
+T01285,P01285,Cancer,Cancer,19
+T01286,P01286,Heart disease,Heart,4
+T01287,P01287,Hypertension,Hypertension,28
+T01288,P01288,Heart Disease,Heart,16
+T01289,P01289,Heart Disease,Heart,16
+T01290,P01290,Fracture,Fracture,18
+T01291,P01291,Heart disease,Heart,11
+T01292,P01292,Diabetes,Diabetes,17
+T01293,P01293,Hypertension,Hypertension,28
+T01294,P01294,Heart disease,Heart,6
+T01295,P01295,Cancer,Cancer,4
+T01296,P01296,Cancer,Cancer,4
+T01297,P01297,Stroke,Stroke,23
+T01298,P01298,Fracture,Fracture,4
+T01299,P01299,Fracture,Fracture,16
+T01300,P01300,diabetes,diabetes,5
+T01301,P01301,Diabetes,Diabetes,9
+T01302,P01302,Asthma,Asthma,3
+T01303,P01303,Heart Disease,Heart,3
+T01304,P01304,Fracture,Fracture,29
+T01305,P01305,Heart disease,Heart,15
+T01306,P01306,diabetes,diabetes,17
+T01307,P01307,Asthma,Asthma,12
+T01308,P01308,Fracture,Fracture,26
+T01309,P01309,Asthma,Asthma,5
+T01310,P01310,Fracture,Fracture,22
+T01311,P01311,Hypertension,Hypertension,4
+T01312,P01312,Cancer,Cancer,10
+T01313,P01313,Cancer,Cancer,
+T01314,P01314,Diabetes,Diabetes,2
+T01315,P01315,Diabetes,Diabetes,2
+T01316,P01316,Diabetes,Diabetes,30
+T01317,P01317,diabetes,diabetes,9
+T01318,P01318,Heart disease,Heart,3
+T01319,P01319,Heart Disease,Heart,25
+T01320,P01320,diabetes,diabetes,10
+T01321,P01321,Cancer,Cancer,20
+T01322,P01322,Diabetes,Diabetes,10
+T01323,P01323,Diabetes,Diabetes,4
+T01324,P01324,diabetes,diabetes,25
+T01325,P01325,Heart disease,Heart,28
+T01326,P01326,Hypertension,Hypertension,7
+T01327,P01327,diabetes,diabetes,13
+T01328,P01328,Cancer,Cancer,29
+T01329,P01329,diabetes,diabetes,20
+T01330,P01330,Heart Disease,Heart,16
+T01331,P01331,Fracture,Fracture,6
+T01332,P01332,Asthma,Asthma,11
+T01333,P01333,Heart disease,Heart,22
+T01334,P01334,Fracture,Fracture,24
+T01335,P01335,Stroke,Stroke,11
+T01336,P01336,asthma,asthma,14
+T01337,P01337,diabetes,diabetes,18
+T01338,P01338,Asthma,Asthma,15
+T01339,P01339,Cancer,Cancer,20
+T01340,P01340,diabetes,diabetes,13
+T01341,P01341,Cancer,Cancer,25
+T01342,P01342,Heart disease,Heart,8
+T01343,P01343,Stroke,Stroke,12
+T01344,P01344,Hypertension,Hypertension,26
+T01345,P01345,Fracture,Fracture,11
+T01346,P01346,Fracture,Fracture,30
+T01347,P01347,Diabetes,Diabetes,22
+T01348,P01348,Hypertension,Hypertension,5
+T01349,P01349,Asthma,Asthma,18
+T01350,P01350,Fracture,Fracture,25
+T01351,P01351,diabetes,diabetes,21
+T01352,P01352,Heart Disease,Heart,24
+T01353,P01353,Hypertension,Hypertension,26
+T01354,P01354,Diabetes,Diabetes,29
+T01355,P01355,Cancer,Cancer,27
+T01356,P01356,Heart disease,Heart,9
+T01357,P01357,Cancer,Cancer,30
+T01358,P01358,Heart Disease,Heart,28
+T01359,P01359,Stroke,Stroke,13
+T01360,P01360,Stroke,Stroke,5
+T01361,P01361,Hypertension,Hypertension,17
+T01362,P01362,Cancer,Cancer,22
+T01363,P01363,Hypertension,Hypertension,14
+T01364,P01364,Cancer,Cancer,30
+T01365,P01365,diabetes,diabetes,6
+T01366,P01366,Stroke,Stroke,14
+T01367,P01367,Stroke,Stroke,23
+T01368,P01368,Hypertension,Hypertension,20
+T01369,P01369,diabetes,diabetes,14
+T01370,P01370,Hypertension,Hypertension,29
+T01371,P01371,Hypertension,Hypertension,29
+T01372,P01372,Heart Disease,Heart,25
+T01373,P01373,Fracture,Fracture,29
+T01374,P01374,Fracture,Fracture,23
+T01375,P01375,Diabetes,Diabetes,23
+T01376,P01376,Cancer,Cancer,27
+T01377,P01377,Stroke,Stroke,24
+T01378,P01378,Stroke,Stroke,13
+T01379,P01379,Fracture,Fracture,30
+T01380,P01380,Asthma,Asthma,19
+T01381,P01381,Stroke,Stroke,13
+T01382,P01382,Hypertension,Hypertension,16
+T01383,P01383,Fracture,Fracture,23
+T01384,P01384,asthma,asthma,21
+T01385,P01385,Fracture,Fracture,17
+T01386,P01386,Stroke,Stroke,17
+T01387,P01387,Heart disease,Heart,24
+T01388,P01388,Cancer,Cancer,2
+T01389,P01389,Diabetes,Diabetes,30
+T01390,P01390,Fracture,Fracture,12
+T01391,P01391,Diabetes,Diabetes,25
+T01392,P01392,Stroke,Stroke,18
+T01393,P01393,Heart Disease,Heart,8
+T01394,P01394,Heart disease,Heart,26
+T01395,P01395,Fracture,Fracture,9
+T01396,P01396,Heart disease,Heart,20
+T01397,P01397,Heart disease,Heart,10
+T01398,P01398,Fracture,Fracture,26
+T01399,P01399,Asthma,Asthma,24
+T01400,P01400,diabetes,diabetes,23
+T01401,P01401,Heart Disease,Heart,15
+T01402,P01402,Fracture,Fracture,19
+T01403,P01403,Cancer,Cancer,14
+T01404,P01404,asthma,asthma,16
+T01405,P01405,Diabetes,Diabetes,16
+T01406,P01406,Heart disease,Heart,22
+T01407,P01407,Cancer,Cancer,30
+T01408,P01408,asthma,asthma,10
+T01409,P01409,Stroke,Stroke,2
+T01410,P01410,asthma,asthma,6
+T01411,P01411,diabetes,diabetes,16
+T01412,P01412,Heart disease,Heart,6
+T01413,P01413,diabetes,diabetes,9
+T01414,P01414,Heart disease,Heart,
+T01415,P01415,Diabetes,Diabetes,22
+T01416,P01416,asthma,asthma,18
+T01417,P01417,Fracture,Fracture,23
+T01418,P01418,Cancer,Cancer,20
+T01419,P01419,Heart Disease,Heart,27
+T01420,P01420,Cancer,Cancer,18
+T01421,P01421,Diabetes,Diabetes,7
+T01422,P01422,Heart Disease,Heart,20
+T01423,P01423,asthma,asthma,12
+T01424,P01424,Fracture,Fracture,14
+T01425,P01425,Hypertension,Hypertension,26
+T01426,P01426,Heart disease,Heart,3
+T01427,P01427,Cancer,Cancer,18
+T01428,P01428,Cancer,Cancer,8
+T01429,P01429,Fracture,Fracture,28
+T01430,P01430,Diabetes,Diabetes,16
+T01431,P01431,Hypertension,Hypertension,25
+T01432,P01432,Hypertension,Hypertension,25
+T01433,P01433,diabetes,diabetes,28
+T01434,P01434,Hypertension,Hypertension,27
+T01435,P01435,Diabetes,Diabetes,15
+T01436,P01436,Heart Disease,Heart,8
+T01437,P01437,diabetes,diabetes,13
+T01438,P01438,Asthma,Asthma,9
+T01439,P01439,Asthma,Asthma,11
+T01440,P01440,Hypertension,Hypertension,4
+T01441,P01441,Hypertension,Hypertension,28
+T01442,P01442,Fracture,Fracture,11
+T01443,P01443,Fracture,Fracture,2
+T01444,P01444,Cancer,Cancer,30
+T01445,P01445,Asthma,Asthma,19
+T01446,P01446,Stroke,Stroke,17
+T01447,P01447,diabetes,diabetes,5
+T01448,P01448,Fracture,Fracture,26
+T01449,P01449,Heart Disease,Heart,11
+T01450,P01450,Hypertension,Hypertension,18
+T01451,P01451,asthma,asthma,28
+T01452,P01452,Hypertension,Hypertension,14
+T01453,P01453,Heart disease,Heart,10
+T01454,P01454,Heart disease,Heart,15
+T01455,P01455,asthma,asthma,28
+T01456,P01456,Diabetes,Diabetes,21
+T01457,P01457,Asthma,Asthma,5
+T01458,P01458,Stroke,Stroke,6
+T01459,P01459,Stroke,Stroke,16
+T01460,P01460,Heart Disease,Heart,10
+T01461,P01461,Diabetes,Diabetes,18
+T01462,P01462,Hypertension,Hypertension,14
+T01463,P01463,Heart Disease,Heart,19
+T01464,P01464,Fracture,Fracture,3
+T01465,P01465,diabetes,diabetes,30
+T01466,P01466,Heart disease,Heart,6
+T01467,P01467,diabetes,diabetes,13
+T01468,P01468,Stroke,Stroke,15
+T01469,P01469,Fracture,Fracture,3
+T01470,P01470,diabetes,diabetes,23
+T01471,P01471,Hypertension,Hypertension,4
+T01472,P01472,Cancer,Cancer,16
+T01473,P01473,diabetes,diabetes,16
+T01474,P01474,diabetes,diabetes,2
+T01475,P01475,Asthma,Asthma,27
+T01476,P01476,asthma,asthma,24
+T01477,P01477,Hypertension,Hypertension,20
+T01478,P01478,Hypertension,Hypertension,7
+T01479,P01479,Diabetes,Diabetes,17
+T01480,P01480,diabetes,diabetes,18
+T01481,P01481,Hypertension,Hypertension,19
+T01482,P01482,Diabetes,Diabetes,6
+T01483,P01483,Heart Disease,Heart,4
+T01484,P01484,Heart disease,Heart,5
+T01485,P01485,Cancer,Cancer,20
+T01486,P01486,Stroke,Stroke,3
+T01487,P01487,asthma,asthma,3
+T01488,P01488,Heart disease,Heart,11
+T01489,P01489,Stroke,Stroke,5
+T01490,P01490,diabetes,diabetes,17
+T01491,P01491,Heart disease,Heart,11
+T01492,P01492,diabetes,diabetes,17
+T01493,P01493,Asthma,Asthma,4
+T01494,P01494,Asthma,Asthma,15
+T01495,P01495,asthma,asthma,13
+T01496,P01496,Asthma,Asthma,12
+T01497,P01497,diabetes,diabetes,27
+T01498,P01498,Heart Disease,Heart,9
+T01499,P01499,Heart disease,Heart,12
+T01500,P01500,asthma,asthma,20
+T01501,P01501,diabetes,diabetes,15
+T01502,P01502,Asthma,Asthma,25
+T01503,P01503,Hypertension,Hypertension,4
+T01504,P01504,asthma,asthma,22
+T01505,P01505,Stroke,Stroke,14
+T01506,P01506,Heart disease,Heart,2
+T01507,P01507,Heart disease,Heart,14
+T01508,P01508,Heart disease,Heart,9
+T01509,P01509,Cancer,Cancer,15
+T01510,P01510,Asthma,Asthma,18
+T01511,P01511,Stroke,Stroke,12
+T01512,P01512,Diabetes,Diabetes,3
+T01513,P01513,Fracture,Fracture,11
+T01514,P01514,Asthma,Asthma,8
+T01515,P01515,asthma,asthma,
+T01516,P01516,Heart Disease,Heart,30
+T01517,P01517,asthma,asthma,29
+T01518,P01518,Diabetes,Diabetes,4
+T01519,P01519,Hypertension,Hypertension,4
+T01520,P01520,Stroke,Stroke,13
+T01521,P01521,Heart disease,Heart,14
+T01522,P01522,Asthma,Asthma,16
+T01523,P01523,Diabetes,Diabetes,27
+T01524,P01524,Stroke,Stroke,22
+T01525,P01525,Stroke,Stroke,21
+T01526,P01526,Stroke,Stroke,29
+T01527,P01527,Fracture,Fracture,17
+T01528,P01528,Cancer,Cancer,22
+T01529,P01529,diabetes,diabetes,28
+T01530,P01530,Heart disease,Heart,10
+T01531,P01531,diabetes,diabetes,11
+T01532,P01532,asthma,asthma,6
+T01533,P01533,Asthma,Asthma,29
+T01534,P01534,Asthma,Asthma,19
+T01535,P01535,Stroke,Stroke,10
+T01536,P01536,Hypertension,Hypertension,4
+T01537,P01537,asthma,asthma,8
+T01538,P01538,asthma,asthma,2
+T01539,P01539,Hypertension,Hypertension,2
+T01540,P01540,Asthma,Asthma,8
+T01541,P01541,asthma,asthma,25
+T01542,P01542,diabetes,diabetes,28
+T01543,P01543,Cancer,Cancer,10
+T01544,P01544,Diabetes,Diabetes,30
+T01545,P01545,Stroke,Stroke,8
+T01546,P01546,Hypertension,Hypertension,6
+T01547,P01547,Hypertension,Hypertension,24
+T01548,P01548,Asthma,Asthma,22
+T01549,P01549,Stroke,Stroke,13
+T01550,P01550,diabetes,diabetes,26
+T01551,P01551,Heart disease,Heart,6
+T01552,P01552,Fracture,Fracture,4
+T01553,P01553,Diabetes,Diabetes,3
+T01554,P01554,Asthma,Asthma,21
+T01555,P01555,Hypertension,Hypertension,5
+T01556,P01556,Heart Disease,Heart,15
+T01557,P01557,Asthma,Asthma,26
+T01558,P01558,Heart disease,Heart,18
+T01559,P01559,Asthma,Asthma,26
+T01560,P01560,Fracture,Fracture,24
+T01561,P01561,Diabetes,Diabetes,25
+T01562,P01562,Hypertension,Hypertension,19
+T01563,P01563,diabetes,diabetes,20
+T01564,P01564,Heart Disease,Heart,22
+T01565,P01565,Diabetes,Diabetes,13
+T01566,P01566,Diabetes,Diabetes,21
+T01567,P01567,diabetes,diabetes,14
+T01568,P01568,Heart disease,Heart,9
+T01569,P01569,Hypertension,Hypertension,23
+T01570,P01570,Heart Disease,Heart,23
+T01571,P01571,Heart disease,Heart,28
+T01572,P01572,Stroke,Stroke,6
+T01573,P01573,asthma,asthma,20
+T01574,P01574,Heart disease,Heart,6
+T01575,P01575,Cancer,Cancer,15
+T01576,P01576,asthma,asthma,17
+T01577,P01577,diabetes,diabetes,5
+T01578,P01578,Hypertension,Hypertension,7
+T01579,P01579,Asthma,Asthma,20
+T01580,P01580,diabetes,diabetes,6
+T01581,P01581,Cancer,Cancer,26
+T01582,P01582,Heart disease,Heart,2
+T01583,P01583,Diabetes,Diabetes,15
+T01584,P01584,Heart Disease,Heart,29
+T01585,P01585,Heart disease,Heart,26
+T01586,P01586,Cancer,Cancer,5
+T01587,P01587,Cancer,Cancer,8
+T01588,P01588,Hypertension,Hypertension,7
+T01589,P01589,Asthma,Asthma,13
+T01590,P01590,diabetes,diabetes,15
+T01591,P01591,Fracture,Fracture,20
+T01592,P01592,diabetes,diabetes,17
+T01593,P01593,Fracture,Fracture,14
+T01594,P01594,diabetes,diabetes,23
+T01595,P01595,Hypertension,Hypertension,15
+T01596,P01596,Diabetes,Diabetes,17
+T01597,P01597,Hypertension,Hypertension,27
+T01598,P01598,diabetes,diabetes,5
+T01599,P01599,Fracture,Fracture,6
+T01600,P01600,Hypertension,Hypertension,29
+T01601,P01601,Heart Disease,Heart,9
+T01602,P01602,Heart disease,Heart,24
+T01603,P01603,asthma,asthma,20
+T01604,P01604,diabetes,diabetes,9
+T01605,P01605,Heart disease,Heart,13
+T01606,P01606,Heart disease,Heart,4
+T01607,P01607,asthma,asthma,9
+T01608,P01608,asthma,asthma,15
+T01609,P01609,Heart Disease,Heart,24
+T01610,P01610,Cancer,Cancer,29
+T01611,P01611,Fracture,Fracture,25
+T01612,P01612,Heart Disease,Heart,24
+T01613,P01613,Asthma,Asthma,13
+T01614,P01614,Diabetes,Diabetes,26
+T01615,P01615,Asthma,Asthma,24
+T01616,P01616,Diabetes,Diabetes,
+T01617,P01617,Hypertension,Hypertension,10
+T01618,P01618,diabetes,diabetes,10
+T01619,P01619,Fracture,Fracture,23
+T01620,P01620,Fracture,Fracture,4
+T01621,P01621,Stroke,Stroke,19
+T01622,P01622,Heart Disease,Heart,19
+T01623,P01623,Hypertension,Hypertension,19
+T01624,P01624,Heart Disease,Heart,4
+T01625,P01625,Cancer,Cancer,22
+T01626,P01626,Heart Disease,Heart,11
+T01627,P01627,Asthma,Asthma,14
+T01628,P01628,Cancer,Cancer,7
+T01629,P01629,diabetes,diabetes,14
+T01630,P01630,Heart disease,Heart,14
+T01631,P01631,Heart Disease,Heart,21
+T01632,P01632,Fracture,Fracture,2
+T01633,P01633,Heart disease,Heart,18
+T01634,P01634,Stroke,Stroke,29
+T01635,P01635,Asthma,Asthma,22
+T01636,P01636,Fracture,Fracture,30
+T01637,P01637,Heart disease,Heart,6
+T01638,P01638,Heart Disease,Heart,8
+T01639,P01639,Heart Disease,Heart,6
+T01640,P01640,Asthma,Asthma,7
+T01641,P01641,Stroke,Stroke,8
+T01642,P01642,Fracture,Fracture,29
+T01643,P01643,Cancer,Cancer,25
+T01644,P01644,Heart disease,Heart,14
+T01645,P01645,Cancer,Cancer,25
+T01646,P01646,diabetes,diabetes,7
+T01647,P01647,asthma,asthma,10
+T01648,P01648,diabetes,diabetes,11
+T01649,P01649,asthma,asthma,6
+T01650,P01650,Cancer,Cancer,26
+T01651,P01651,Fracture,Fracture,28
+T01652,P01652,Cancer,Cancer,10
+T01653,P01653,Fracture,Fracture,13
+T01654,P01654,Hypertension,Hypertension,2
+T01655,P01655,Asthma,Asthma,10
+T01656,P01656,Fracture,Fracture,11
+T01657,P01657,diabetes,diabetes,16
+T01658,P01658,Stroke,Stroke,11
+T01659,P01659,Heart disease,Heart,10
+T01660,P01660,Asthma,Asthma,4
+T01661,P01661,Diabetes,Diabetes,13
+T01662,P01662,Fracture,Fracture,20
+T01663,P01663,Asthma,Asthma,23
+T01664,P01664,Diabetes,Diabetes,14
+T01665,P01665,asthma,asthma,7
+T01666,P01666,asthma,asthma,8
+T01667,P01667,Heart Disease,Heart,20
+T01668,P01668,Heart disease,Heart,22
+T01669,P01669,Heart Disease,Heart,10
+T01670,P01670,Asthma,Asthma,28
+T01671,P01671,Asthma,Asthma,23
+T01672,P01672,Cancer,Cancer,26
+T01673,P01673,Heart disease,Heart,10
+T01674,P01674,asthma,asthma,5
+T01675,P01675,Hypertension,Hypertension,20
+T01676,P01676,asthma,asthma,12
+T01677,P01677,Diabetes,Diabetes,26
+T01678,P01678,Cancer,Cancer,22
+T01679,P01679,Hypertension,Hypertension,16
+T01680,P01680,Fracture,Fracture,12
+T01681,P01681,Asthma,Asthma,17
+T01682,P01682,Heart Disease,Heart,24
+T01683,P01683,Cancer,Cancer,27
+T01684,P01684,diabetes,diabetes,25
+T01685,P01685,asthma,asthma,23
+T01686,P01686,Fracture,Fracture,2
+T01687,P01687,Stroke,Stroke,15
+T01688,P01688,Heart Disease,Heart,13
+T01689,P01689,Diabetes,Diabetes,5
+T01690,P01690,Stroke,Stroke,7
+T01691,P01691,Heart Disease,Heart,2
+T01692,P01692,Asthma,Asthma,8
+T01693,P01693,Fracture,Fracture,16
+T01694,P01694,diabetes,diabetes,10
+T01695,P01695,Hypertension,Hypertension,29
+T01696,P01696,Asthma,Asthma,19
+T01697,P01697,Fracture,Fracture,7
+T01698,P01698,Asthma,Asthma,18
+T01699,P01699,Asthma,Asthma,20
+T01700,P01700,Heart Disease,Heart,15
+T01701,P01701,diabetes,diabetes,13
+T01702,P01702,Heart Disease,Heart,18
+T01703,P01703,Heart disease,Heart,2
+T01704,P01704,asthma,asthma,26
+T01705,P01705,Stroke,Stroke,19
+T01706,P01706,Heart Disease,Heart,25
+T01707,P01707,Diabetes,Diabetes,29
+T01708,P01708,Cancer,Cancer,29
+T01709,P01709,Diabetes,Diabetes,18
+T01710,P01710,Heart Disease,Heart,2
+T01711,P01711,Fracture,Fracture,22
+T01712,P01712,Cancer,Cancer,29
+T01713,P01713,Diabetes,Diabetes,21
+T01714,P01714,Cancer,Cancer,18
+T01715,P01715,Heart Disease,Heart,7
+T01716,P01716,Diabetes,Diabetes,20
+T01717,P01717,Heart Disease,Heart,
+T01718,P01718,asthma,asthma,7
+T01719,P01719,diabetes,diabetes,2
+T01720,P01720,Hypertension,Hypertension,10
+T01721,P01721,Heart Disease,Heart,8
+T01722,P01722,asthma,asthma,23
+T01723,P01723,Asthma,Asthma,17
+T01724,P01724,Hypertension,Hypertension,4
+T01725,P01725,Heart disease,Heart,3
+T01726,P01726,Heart Disease,Heart,17
+T01727,P01727,Hypertension,Hypertension,6
+T01728,P01728,Hypertension,Hypertension,29
+T01729,P01729,Hypertension,Hypertension,2
+T01730,P01730,Heart Disease,Heart,12
+T01731,P01731,diabetes,diabetes,2
+T01732,P01732,Diabetes,Diabetes,27
+T01733,P01733,Heart Disease,Heart,7
+T01734,P01734,Fracture,Fracture,21
+T01735,P01735,Cancer,Cancer,27
+T01736,P01736,Heart Disease,Heart,29
+T01737,P01737,asthma,asthma,28
+T01738,P01738,Fracture,Fracture,20
+T01739,P01739,Hypertension,Hypertension,28
+T01740,P01740,Cancer,Cancer,30
+T01741,P01741,Cancer,Cancer,9
+T01742,P01742,asthma,asthma,27
+T01743,P01743,Hypertension,Hypertension,24
+T01744,P01744,Asthma,Asthma,8
+T01745,P01745,Heart Disease,Heart,15
+T01746,P01746,Diabetes,Diabetes,9
+T01747,P01747,Heart Disease,Heart,28
+T01748,P01748,Heart Disease,Heart,11
+T01749,P01749,Diabetes,Diabetes,19
+T01750,P01750,Diabetes,Diabetes,29
+T01751,P01751,Fracture,Fracture,17
+T01752,P01752,Diabetes,Diabetes,2
+T01753,P01753,Heart disease,Heart,17
+T01754,P01754,Cancer,Cancer,5
+T01755,P01755,Fracture,Fracture,5
+T01756,P01756,asthma,asthma,3
+T01757,P01757,Stroke,Stroke,19
+T01758,P01758,asthma,asthma,6
+T01759,P01759,Asthma,Asthma,14
+T01760,P01760,Diabetes,Diabetes,18
+T01761,P01761,Cancer,Cancer,30
+T01762,P01762,Cancer,Cancer,27
+T01763,P01763,Hypertension,Hypertension,13
+T01764,P01764,Hypertension,Hypertension,7
+T01765,P01765,Diabetes,Diabetes,19
+T01766,P01766,asthma,asthma,5
+T01767,P01767,asthma,asthma,4
+T01768,P01768,Heart Disease,Heart,6
+T01769,P01769,Cancer,Cancer,15
+T01770,P01770,Stroke,Stroke,3
+T01771,P01771,Diabetes,Diabetes,20
+T01772,P01772,Hypertension,Hypertension,21
+T01773,P01773,Fracture,Fracture,24
+T01774,P01774,Asthma,Asthma,20
+T01775,P01775,Asthma,Asthma,5
+T01776,P01776,diabetes,diabetes,26
+T01777,P01777,Fracture,Fracture,5
+T01778,P01778,asthma,asthma,20
+T01779,P01779,Diabetes,Diabetes,9
+T01780,P01780,Stroke,Stroke,11
+T01781,P01781,Cancer,Cancer,25
+T01782,P01782,Fracture,Fracture,9
+T01783,P01783,Fracture,Fracture,6
+T01784,P01784,asthma,asthma,21
+T01785,P01785,Diabetes,Diabetes,26
+T01786,P01786,diabetes,diabetes,6
+T01787,P01787,asthma,asthma,21
+T01788,P01788,Hypertension,Hypertension,15
+T01789,P01789,Cancer,Cancer,10
+T01790,P01790,Cancer,Cancer,24
+T01791,P01791,Heart disease,Heart,10
+T01792,P01792,Heart disease,Heart,24
+T01793,P01793,Heart Disease,Heart,20
+T01794,P01794,Fracture,Fracture,19
+T01795,P01795,Stroke,Stroke,22
+T01796,P01796,Fracture,Fracture,4
+T01797,P01797,asthma,asthma,11
+T01798,P01798,Heart Disease,Heart,27
+T01799,P01799,Hypertension,Hypertension,24
+T01800,P01800,asthma,asthma,23
+T01801,P01801,Hypertension,Hypertension,30
+T01802,P01802,Hypertension,Hypertension,26
+T01803,P01803,asthma,asthma,27
+T01804,P01804,Fracture,Fracture,4
+T01805,P01805,Hypertension,Hypertension,11
+T01806,P01806,Fracture,Fracture,23
+T01807,P01807,Fracture,Fracture,3
+T01808,P01808,Diabetes,Diabetes,16
+T01809,P01809,diabetes,diabetes,21
+T01810,P01810,diabetes,diabetes,25
+T01811,P01811,Diabetes,Diabetes,9
+T01812,P01812,asthma,asthma,8
+T01813,P01813,Heart disease,Heart,14
+T01814,P01814,Heart disease,Heart,30
+T01815,P01815,asthma,asthma,21
+T01816,P01816,Heart Disease,Heart,5
+T01817,P01817,Fracture,Fracture,7
+T01818,P01818,Heart disease,Heart,
+T01819,P01819,Asthma,Asthma,2
+T01820,P01820,asthma,asthma,26
+T01821,P01821,diabetes,diabetes,13
+T01822,P01822,asthma,asthma,19
+T01823,P01823,Cancer,Cancer,22
+T01824,P01824,Stroke,Stroke,15
+T01825,P01825,Heart disease,Heart,28
+T01826,P01826,diabetes,diabetes,23
+T01827,P01827,Asthma,Asthma,23
+T01828,P01828,Heart disease,Heart,19
+T01829,P01829,Fracture,Fracture,3
+T01830,P01830,Stroke,Stroke,5
+T01831,P01831,diabetes,diabetes,12
+T01832,P01832,Asthma,Asthma,6
+T01833,P01833,diabetes,diabetes,5
+T01834,P01834,Cancer,Cancer,26
+T01835,P01835,Cancer,Cancer,21
+T01836,P01836,asthma,asthma,21
+T01837,P01837,Asthma,Asthma,21
+T01838,P01838,diabetes,diabetes,21
+T01839,P01839,Heart Disease,Heart,25
+T01840,P01840,Stroke,Stroke,12
+T01841,P01841,Hypertension,Hypertension,12
+T01842,P01842,diabetes,diabetes,17
+T01843,P01843,Heart disease,Heart,9
+T01844,P01844,Stroke,Stroke,22
+T01845,P01845,Stroke,Stroke,15
+T01846,P01846,Asthma,Asthma,19
+T01847,P01847,diabetes,diabetes,10
+T01848,P01848,Heart disease,Heart,4
+T01849,P01849,Heart disease,Heart,27
+T01850,P01850,Fracture,Fracture,30
+T01851,P01851,Asthma,Asthma,2
+T01852,P01852,Diabetes,Diabetes,24
+T01853,P01853,diabetes,diabetes,20
+T01854,P01854,Cancer,Cancer,3
+T01855,P01855,diabetes,diabetes,28
+T01856,P01856,diabetes,diabetes,2
+T01857,P01857,Stroke,Stroke,9
+T01858,P01858,Cancer,Cancer,7
+T01859,P01859,Heart Disease,Heart,10
+T01860,P01860,Asthma,Asthma,9
+T01861,P01861,Heart Disease,Heart,14
+T01862,P01862,asthma,asthma,26
+T01863,P01863,Asthma,Asthma,20
+T01864,P01864,asthma,asthma,4
+T01865,P01865,Cancer,Cancer,21
+T01866,P01866,Cancer,Cancer,5
+T01867,P01867,Hypertension,Hypertension,17
+T01868,P01868,Cancer,Cancer,22
+T01869,P01869,asthma,asthma,29
+T01870,P01870,asthma,asthma,4
+T01871,P01871,Fracture,Fracture,21
+T01872,P01872,diabetes,diabetes,13
+T01873,P01873,Asthma,Asthma,29
+T01874,P01874,Heart disease,Heart,14
+T01875,P01875,Hypertension,Hypertension,19
+T01876,P01876,Diabetes,Diabetes,30
+T01877,P01877,Heart disease,Heart,10
+T01878,P01878,asthma,asthma,21
+T01879,P01879,Asthma,Asthma,19
+T01880,P01880,Hypertension,Hypertension,8
+T01881,P01881,Diabetes,Diabetes,11
+T01882,P01882,Hypertension,Hypertension,10
+T01883,P01883,Diabetes,Diabetes,18
+T01884,P01884,Diabetes,Diabetes,21
+T01885,P01885,diabetes,diabetes,3
+T01886,P01886,Diabetes,Diabetes,15
+T01887,P01887,Hypertension,Hypertension,12
+T01888,P01888,Stroke,Stroke,21
+T01889,P01889,Cancer,Cancer,4
+T01890,P01890,Hypertension,Hypertension,19
+T01891,P01891,Heart disease,Heart,8
+T01892,P01892,Heart disease,Heart,4
+T01893,P01893,Stroke,Stroke,17
+T01894,P01894,Hypertension,Hypertension,26
+T01895,P01895,Heart Disease,Heart,14
+T01896,P01896,Stroke,Stroke,11
+T01897,P01897,Diabetes,Diabetes,26
+T01898,P01898,Heart disease,Heart,24
+T01899,P01899,Diabetes,Diabetes,16
+T01900,P01900,asthma,asthma,2
+T01901,P01901,asthma,asthma,20
+T01902,P01902,Hypertension,Hypertension,20
+T01903,P01903,Diabetes,Diabetes,22
+T01904,P01904,Stroke,Stroke,10
+T01905,P01905,Diabetes,Diabetes,18
+T01906,P01906,diabetes,diabetes,3
+T01907,P01907,Stroke,Stroke,16
+T01908,P01908,diabetes,diabetes,3
+T01909,P01909,Hypertension,Hypertension,5
+T01910,P01910,Fracture,Fracture,21
+T01911,P01911,Stroke,Stroke,13
+T01912,P01912,diabetes,diabetes,2
+T01913,P01913,asthma,asthma,21
+T01914,P01914,Heart Disease,Heart,28
+T01915,P01915,Diabetes,Diabetes,19
+T01916,P01916,Stroke,Stroke,12
+T01917,P01917,Heart disease,Heart,25
+T01918,P01918,Fracture,Fracture,11
+T01919,P01919,Hypertension,Hypertension,
+T01920,P01920,Asthma,Asthma,13
+T01921,P01921,asthma,asthma,24
+T01922,P01922,Cancer,Cancer,8
+T01923,P01923,Hypertension,Hypertension,8
+T01924,P01924,diabetes,diabetes,18
+T01925,P01925,asthma,asthma,29
+T01926,P01926,Stroke,Stroke,14
+T01927,P01927,asthma,asthma,10
+T01928,P01928,Hypertension,Hypertension,9
+T01929,P01929,Asthma,Asthma,16
+T01930,P01930,Cancer,Cancer,5
+T01931,P01931,Heart Disease,Heart,26
+T01932,P01932,Stroke,Stroke,18
+T01933,P01933,Cancer,Cancer,18
+T01934,P01934,diabetes,diabetes,2
+T01935,P01935,Fracture,Fracture,22
+T01936,P01936,Cancer,Cancer,29
+T01937,P01937,Stroke,Stroke,24
+T01938,P01938,Heart disease,Heart,7
+T01939,P01939,Diabetes,Diabetes,4
+T01940,P01940,Hypertension,Hypertension,16
+T01941,P01941,Diabetes,Diabetes,22
+T01942,P01942,Heart disease,Heart,2
+T01943,P01943,Fracture,Fracture,22
+T01944,P01944,Cancer,Cancer,5
+T01945,P01945,Fracture,Fracture,25
+T01946,P01946,Stroke,Stroke,6
+T01947,P01947,Heart disease,Heart,24
+T01948,P01948,Heart Disease,Heart,12
+T01949,P01949,asthma,asthma,18
+T01950,P01950,Cancer,Cancer,5
+T01951,P01951,diabetes,diabetes,22
+T01952,P01952,Hypertension,Hypertension,22
+T01953,P01953,diabetes,diabetes,7
+T01954,P01954,Fracture,Fracture,16
+T01955,P01955,Stroke,Stroke,5
+T01956,P01956,asthma,asthma,29
+T01957,P01957,diabetes,diabetes,19
+T01958,P01958,Diabetes,Diabetes,16
+T01959,P01959,Cancer,Cancer,29
+T01960,P01960,Asthma,Asthma,11
+T01961,P01961,Heart Disease,Heart,10
+T01962,P01962,Stroke,Stroke,16
+T01963,P01963,Stroke,Stroke,27
+T01964,P01964,Diabetes,Diabetes,3
+T01965,P01965,Asthma,Asthma,29
+T01966,P01966,Heart Disease,Heart,27
+T01967,P01967,asthma,asthma,21
+T01968,P01968,Fracture,Fracture,30
+T01969,P01969,Stroke,Stroke,12
+T01970,P01970,Fracture,Fracture,4
+T01971,P01971,Heart Disease,Heart,12
+T01972,P01972,Asthma,Asthma,11
+T01973,P01973,asthma,asthma,19
+T01974,P01974,Asthma,Asthma,27
+T01975,P01975,Fracture,Fracture,20
+T01976,P01976,asthma,asthma,4
+T01977,P01977,Hypertension,Hypertension,14
+T01978,P01978,diabetes,diabetes,10
+T01979,P01979,Hypertension,Hypertension,29
+T01980,P01980,Hypertension,Hypertension,2
+T01981,P01981,diabetes,diabetes,28
+T01982,P01982,Asthma,Asthma,2
+T01983,P01983,Hypertension,Hypertension,2
+T01984,P01984,asthma,asthma,11
+T01985,P01985,Asthma,Asthma,11
+T01986,P01986,Hypertension,Hypertension,15
+T01987,P01987,Heart Disease,Heart,22
+T01988,P01988,asthma,asthma,6
+T01989,P01989,diabetes,diabetes,15
+T01990,P01990,asthma,asthma,9
+T01991,P01991,Cancer,Cancer,30
+T01992,P01992,Hypertension,Hypertension,16
+T01993,P01993,Heart disease,Heart,27
+T01994,P01994,Hypertension,Hypertension,30
+T01995,P01995,Diabetes,Diabetes,16
+T01996,P01996,Stroke,Stroke,14
+T01997,P01997,Stroke,Stroke,17
+T01998,P01998,asthma,asthma,24
+T01999,P01999,Heart Disease,Heart,29
+T02000,P02000,Asthma,Asthma,22
+T02001,P02001,Asthma,Asthma,7
+T02002,P02002,Diabetes,Diabetes,28
+T02003,P02003,Heart disease,Heart,5
+T02004,P02004,asthma,asthma,17
+T02005,P02005,Hypertension,Hypertension,20
+T02006,P02006,Fracture,Fracture,2
+T02007,P02007,Stroke,Stroke,30
+T02008,P02008,asthma,asthma,27
+T02009,P02009,Cancer,Cancer,4
+T02010,P02010,diabetes,diabetes,6
+T02011,P02011,Asthma,Asthma,13
+T02012,P02012,Diabetes,Diabetes,27
+T02013,P02013,Fracture,Fracture,16
+T02014,P02014,Cancer,Cancer,9
+T02015,P02015,Stroke,Stroke,9
+T02016,P02016,asthma,asthma,3
+T02017,P02017,Hypertension,Hypertension,15
+T02018,P02018,Cancer,Cancer,3
+T02019,P02019,diabetes,diabetes,20
+T02020,P02020,Heart Disease,Heart,
+T02021,P02021,Heart Disease,Heart,16
+T02022,P02022,diabetes,diabetes,26
+T02023,P02023,Stroke,Stroke,15
+T02024,P02024,Heart Disease,Heart,8
+T02025,P02025,Hypertension,Hypertension,22
+T02026,P02026,Heart disease,Heart,13
+T02027,P02027,Heart Disease,Heart,30
+T02028,P02028,Stroke,Stroke,2
+T02029,P02029,diabetes,diabetes,16
+T02030,P02030,Fracture,Fracture,7
+T02031,P02031,Stroke,Stroke,12
+T02032,P02032,asthma,asthma,18
+T02033,P02033,diabetes,diabetes,28
+T02034,P02034,Heart disease,Heart,6
+T02035,P02035,Stroke,Stroke,5
+T02036,P02036,Heart disease,Heart,12
+T02037,P02037,Asthma,Asthma,6
+T02038,P02038,Fracture,Fracture,29
+T02039,P02039,Diabetes,Diabetes,4
+T02040,P02040,Cancer,Cancer,6
+T02041,P02041,Heart disease,Heart,8
+T02042,P02042,Heart Disease,Heart,22
+T02043,P02043,Diabetes,Diabetes,3
+T02044,P02044,Heart Disease,Heart,12
+T02045,P02045,Heart disease,Heart,3
+T02046,P02046,Asthma,Asthma,28
+T02047,P02047,Stroke,Stroke,17
+T02048,P02048,Asthma,Asthma,2
+T02049,P02049,Fracture,Fracture,5
+T02050,P02050,Cancer,Cancer,26
+T02051,P02051,asthma,asthma,9
+T02052,P02052,Heart disease,Heart,5
+T02053,P02053,diabetes,diabetes,12
+T02054,P02054,Stroke,Stroke,11
+T02055,P02055,Cancer,Cancer,9
+T02056,P02056,asthma,asthma,29
+T02057,P02057,Stroke,Stroke,7
+T02058,P02058,Cancer,Cancer,30
+T02059,P02059,Fracture,Fracture,12
+T02060,P02060,Heart disease,Heart,23
+T02061,P02061,diabetes,diabetes,26
+T02062,P02062,Cancer,Cancer,10
+T02063,P02063,Cancer,Cancer,29
+T02064,P02064,Heart disease,Heart,9
+T02065,P02065,Stroke,Stroke,11
+T02066,P02066,Hypertension,Hypertension,6
+T02067,P02067,diabetes,diabetes,13
+T02068,P02068,Heart Disease,Heart,28
+T02069,P02069,Hypertension,Hypertension,15
+T02070,P02070,Asthma,Asthma,13
+T02071,P02071,Cancer,Cancer,16
+T02072,P02072,diabetes,diabetes,14
+T02073,P02073,Stroke,Stroke,8
+T02074,P02074,Hypertension,Hypertension,8
+T02075,P02075,Diabetes,Diabetes,8
+T02076,P02076,Heart Disease,Heart,7
+T02077,P02077,diabetes,diabetes,15
+T02078,P02078,Cancer,Cancer,24
+T02079,P02079,Cancer,Cancer,3
+T02080,P02080,Fracture,Fracture,2
+T02081,P02081,diabetes,diabetes,18
+T02082,P02082,Heart Disease,Heart,29
+T02083,P02083,diabetes,diabetes,28
+T02084,P02084,asthma,asthma,12
+T02085,P02085,Fracture,Fracture,10
+T02086,P02086,diabetes,diabetes,30
+T02087,P02087,Heart Disease,Heart,27
+T02088,P02088,asthma,asthma,5
+T02089,P02089,Heart Disease,Heart,5
+T02090,P02090,Cancer,Cancer,19
+T02091,P02091,Heart disease,Heart,30
+T02092,P02092,Heart disease,Heart,11
+T02093,P02093,Diabetes,Diabetes,29
+T02094,P02094,diabetes,diabetes,17
+T02095,P02095,Hypertension,Hypertension,24
+T02096,P02096,diabetes,diabetes,20
+T02097,P02097,Asthma,Asthma,10
+T02098,P02098,asthma,asthma,22
+T02099,P02099,asthma,asthma,30
+T02100,P02100,Fracture,Fracture,30
+T02101,P02101,Stroke,Stroke,25
+T02102,P02102,Stroke,Stroke,20
+T02103,P02103,Stroke,Stroke,6
+T02104,P02104,asthma,asthma,8
+T02105,P02105,Stroke,Stroke,16
+T02106,P02106,diabetes,diabetes,5
+T02107,P02107,Fracture,Fracture,5
+T02108,P02108,Heart Disease,Heart,3
+T02109,P02109,Heart disease,Heart,11
+T02110,P02110,asthma,asthma,24
+T02111,P02111,Fracture,Fracture,24
+T02112,P02112,Asthma,Asthma,5
+T02113,P02113,Fracture,Fracture,12
+T02114,P02114,Stroke,Stroke,13
+T02115,P02115,Hypertension,Hypertension,25
+T02116,P02116,Heart Disease,Heart,8
+T02117,P02117,Diabetes,Diabetes,3
+T02118,P02118,Heart Disease,Heart,7
+T02119,P02119,Asthma,Asthma,7
+T02120,P02120,Heart Disease,Heart,9
+T02121,P02121,Fracture,Fracture,
+T02122,P02122,diabetes,diabetes,14
+T02123,P02123,Stroke,Stroke,11
+T02124,P02124,Heart disease,Heart,8
+T02125,P02125,Heart disease,Heart,25
+T02126,P02126,asthma,asthma,4
+T02127,P02127,Hypertension,Hypertension,21
+T02128,P02128,Hypertension,Hypertension,16
+T02129,P02129,Heart Disease,Heart,4
+T02130,P02130,diabetes,diabetes,4
+T02131,P02131,asthma,asthma,6
+T02132,P02132,Hypertension,Hypertension,7
+T02133,P02133,Fracture,Fracture,26
+T02134,P02134,Diabetes,Diabetes,28
+T02135,P02135,Hypertension,Hypertension,23
+T02136,P02136,Hypertension,Hypertension,8
+T02137,P02137,Diabetes,Diabetes,15
+T02138,P02138,Fracture,Fracture,15
+T02139,P02139,Asthma,Asthma,6
+T02140,P02140,Diabetes,Diabetes,22
+T02141,P02141,diabetes,diabetes,25
+T02142,P02142,diabetes,diabetes,17
+T02143,P02143,Heart disease,Heart,4
+T02144,P02144,Diabetes,Diabetes,4
+T02145,P02145,Diabetes,Diabetes,21
+T02146,P02146,diabetes,diabetes,2
+T02147,P02147,Asthma,Asthma,14
+T02148,P02148,Diabetes,Diabetes,3
+T02149,P02149,asthma,asthma,7
+T02150,P02150,Diabetes,Diabetes,11
+T02151,P02151,Hypertension,Hypertension,12
+T02152,P02152,Stroke,Stroke,30
+T02153,P02153,Stroke,Stroke,19
+T02154,P02154,Stroke,Stroke,24
+T02155,P02155,asthma,asthma,4
+T02156,P02156,Diabetes,Diabetes,8
+T02157,P02157,Cancer,Cancer,28
+T02158,P02158,Hypertension,Hypertension,13
+T02159,P02159,Heart disease,Heart,17
+T02160,P02160,Heart Disease,Heart,6
+T02161,P02161,Fracture,Fracture,26
+T02162,P02162,Cancer,Cancer,9
+T02163,P02163,Hypertension,Hypertension,30
+T02164,P02164,Heart Disease,Heart,25
+T02165,P02165,Hypertension,Hypertension,2
+T02166,P02166,Heart Disease,Heart,12
+T02167,P02167,Heart disease,Heart,7
+T02168,P02168,Asthma,Asthma,10
+T02169,P02169,Cancer,Cancer,19
+T02170,P02170,Cancer,Cancer,29
+T02171,P02171,Diabetes,Diabetes,17
+T02172,P02172,Stroke,Stroke,21
+T02173,P02173,Stroke,Stroke,13
+T02174,P02174,Fracture,Fracture,17
+T02175,P02175,Stroke,Stroke,12
+T02176,P02176,Asthma,Asthma,8
+T02177,P02177,Hypertension,Hypertension,13
+T02178,P02178,Hypertension,Hypertension,7
+T02179,P02179,Cancer,Cancer,20
+T02180,P02180,diabetes,diabetes,10
+T02181,P02181,Stroke,Stroke,9
+T02182,P02182,diabetes,diabetes,7
+T02183,P02183,Asthma,Asthma,12
+T02184,P02184,Heart disease,Heart,10
+T02185,P02185,Fracture,Fracture,10
+T02186,P02186,Hypertension,Hypertension,24
+T02187,P02187,diabetes,diabetes,4
+T02188,P02188,Stroke,Stroke,3
+T02189,P02189,Cancer,Cancer,10
+T02190,P02190,Fracture,Fracture,19
+T02191,P02191,diabetes,diabetes,19
+T02192,P02192,Heart Disease,Heart,6
+T02193,P02193,Heart Disease,Heart,8
+T02194,P02194,Asthma,Asthma,23
+T02195,P02195,Asthma,Asthma,22
+T02196,P02196,Hypertension,Hypertension,27
+T02197,P02197,Asthma,Asthma,10
+T02198,P02198,Fracture,Fracture,27
+T02199,P02199,Asthma,Asthma,19
+T02200,P02200,Asthma,Asthma,18
+T02201,P02201,asthma,asthma,27
+T02202,P02202,Stroke,Stroke,26
+T02203,P02203,Hypertension,Hypertension,27
+T02204,P02204,Asthma,Asthma,11
+T02205,P02205,asthma,asthma,4
+T02206,P02206,Asthma,Asthma,7
+T02207,P02207,diabetes,diabetes,22
+T02208,P02208,asthma,asthma,16
+T02209,P02209,Heart Disease,Heart,21
+T02210,P02210,Hypertension,Hypertension,4
+T02211,P02211,Asthma,Asthma,6
+T02212,P02212,Stroke,Stroke,24
+T02213,P02213,Diabetes,Diabetes,17
+T02214,P02214,diabetes,diabetes,9
+T02215,P02215,Heart disease,Heart,27
+T02216,P02216,Hypertension,Hypertension,4
+T02217,P02217,Asthma,Asthma,9
+T02218,P02218,Cancer,Cancer,6
+T02219,P02219,Fracture,Fracture,14
+T02220,P02220,Asthma,Asthma,23
+T02221,P02221,Stroke,Stroke,5
+T02222,P02222,Heart Disease,Heart,
+T02223,P02223,Heart disease,Heart,25
+T02224,P02224,Hypertension,Hypertension,13
+T02225,P02225,asthma,asthma,10
+T02226,P02226,asthma,asthma,25
+T02227,P02227,Heart Disease,Heart,30
+T02228,P02228,asthma,asthma,25
+T02229,P02229,Hypertension,Hypertension,26
+T02230,P02230,diabetes,diabetes,28
+T02231,P02231,Heart disease,Heart,16
+T02232,P02232,Heart Disease,Heart,28
+T02233,P02233,Diabetes,Diabetes,28
+T02234,P02234,Stroke,Stroke,27
+T02235,P02235,Fracture,Fracture,16
+T02236,P02236,Heart disease,Heart,3
+T02237,P02237,Hypertension,Hypertension,23
+T02238,P02238,Fracture,Fracture,19
+T02239,P02239,Diabetes,Diabetes,9
+T02240,P02240,Hypertension,Hypertension,21
+T02241,P02241,Heart disease,Heart,10
+T02242,P02242,Stroke,Stroke,19
+T02243,P02243,Stroke,Stroke,7
+T02244,P02244,Diabetes,Diabetes,24
+T02245,P02245,Fracture,Fracture,12
+T02246,P02246,Heart disease,Heart,20
+T02247,P02247,diabetes,diabetes,28
+T02248,P02248,Hypertension,Hypertension,4
+T02249,P02249,Hypertension,Hypertension,8
+T02250,P02250,Cancer,Cancer,7
+T02251,P02251,Cancer,Cancer,23
+T02252,P02252,Hypertension,Hypertension,28
+T02253,P02253,diabetes,diabetes,18
+T02254,P02254,Heart disease,Heart,30
+T02255,P02255,asthma,asthma,2
+T02256,P02256,Fracture,Fracture,9
+T02257,P02257,Hypertension,Hypertension,18
+T02258,P02258,Asthma,Asthma,19
+T02259,P02259,asthma,asthma,12
+T02260,P02260,Diabetes,Diabetes,13
+T02261,P02261,Diabetes,Diabetes,14
+T02262,P02262,Cancer,Cancer,5
+T02263,P02263,asthma,asthma,5
+T02264,P02264,diabetes,diabetes,10
+T02265,P02265,Stroke,Stroke,6
+T02266,P02266,Fracture,Fracture,18
+T02267,P02267,asthma,asthma,14
+T02268,P02268,Stroke,Stroke,7
+T02269,P02269,diabetes,diabetes,17
+T02270,P02270,Stroke,Stroke,7
+T02271,P02271,Fracture,Fracture,30
+T02272,P02272,Heart Disease,Heart,11
+T02273,P02273,Heart disease,Heart,28
+T02274,P02274,Cancer,Cancer,28
+T02275,P02275,diabetes,diabetes,30
+T02276,P02276,Asthma,Asthma,10
+T02277,P02277,asthma,asthma,15
+T02278,P02278,asthma,asthma,4
+T02279,P02279,Asthma,Asthma,20
+T02280,P02280,Hypertension,Hypertension,16
+T02281,P02281,asthma,asthma,8
+T02282,P02282,Diabetes,Diabetes,4
+T02283,P02283,Asthma,Asthma,10
+T02284,P02284,Stroke,Stroke,25
+T02285,P02285,Heart disease,Heart,9
+T02286,P02286,Cancer,Cancer,10
+T02287,P02287,asthma,asthma,12
+T02288,P02288,Asthma,Asthma,12
+T02289,P02289,Diabetes,Diabetes,4
+T02290,P02290,Heart Disease,Heart,22
+T02291,P02291,Heart Disease,Heart,6
+T02292,P02292,diabetes,diabetes,21
+T02293,P02293,Cancer,Cancer,22
+T02294,P02294,Cancer,Cancer,11
+T02295,P02295,Cancer,Cancer,5
+T02296,P02296,Heart disease,Heart,4
+T02297,P02297,Heart Disease,Heart,3
+T02298,P02298,asthma,asthma,30
+T02299,P02299,Hypertension,Hypertension,9
+T02300,P02300,Diabetes,Diabetes,19
+T02301,P02301,Hypertension,Hypertension,18
+T02302,P02302,Hypertension,Hypertension,24
+T02303,P02303,Heart disease,Heart,2
+T02304,P02304,Hypertension,Hypertension,24
+T02305,P02305,Heart Disease,Heart,22
+T02306,P02306,Heart Disease,Heart,6
+T02307,P02307,Diabetes,Diabetes,7
+T02308,P02308,Asthma,Asthma,30
+T02309,P02309,diabetes,diabetes,27
+T02310,P02310,Fracture,Fracture,15
+T02311,P02311,Stroke,Stroke,27
+T02312,P02312,Hypertension,Hypertension,16
+T02313,P02313,Diabetes,Diabetes,28
+T02314,P02314,Stroke,Stroke,29
+T02315,P02315,Cancer,Cancer,8
+T02316,P02316,Cancer,Cancer,7
+T02317,P02317,Cancer,Cancer,7
+T02318,P02318,Stroke,Stroke,24
+T02319,P02319,Stroke,Stroke,16
+T02320,P02320,Asthma,Asthma,3
+T02321,P02321,Diabetes,Diabetes,23
+T02322,P02322,Diabetes,Diabetes,21
+T02323,P02323,Fracture,Fracture,
+T02324,P02324,Fracture,Fracture,9
+T02325,P02325,asthma,asthma,24
+T02326,P02326,Asthma,Asthma,20
+T02327,P02327,Stroke,Stroke,7
+T02328,P02328,asthma,asthma,23
+T02329,P02329,Hypertension,Hypertension,13
+T02330,P02330,Hypertension,Hypertension,2
+T02331,P02331,diabetes,diabetes,6
+T02332,P02332,diabetes,diabetes,8
+T02333,P02333,asthma,asthma,12
+T02334,P02334,Heart disease,Heart,3
+T02335,P02335,diabetes,diabetes,7
+T02336,P02336,asthma,asthma,9
+T02337,P02337,Asthma,Asthma,23
+T02338,P02338,Heart disease,Heart,15
+T02339,P02339,Asthma,Asthma,14
+T02340,P02340,Stroke,Stroke,20
+T02341,P02341,Heart disease,Heart,16
+T02342,P02342,Diabetes,Diabetes,15
+T02343,P02343,Fracture,Fracture,22
+T02344,P02344,asthma,asthma,15
+T02345,P02345,Asthma,Asthma,11
+T02346,P02346,Diabetes,Diabetes,8
+T02347,P02347,diabetes,diabetes,10
+T02348,P02348,Cancer,Cancer,7
+T02349,P02349,Heart Disease,Heart,5
+T02350,P02350,diabetes,diabetes,21
+T02351,P02351,Asthma,Asthma,27
+T02352,P02352,asthma,asthma,26
+T02353,P02353,Fracture,Fracture,7
+T02354,P02354,Diabetes,Diabetes,30
+T02355,P02355,asthma,asthma,13
+T02356,P02356,asthma,asthma,9
+T02357,P02357,Heart Disease,Heart,5
+T02358,P02358,Stroke,Stroke,27
+T02359,P02359,Cancer,Cancer,28
+T02360,P02360,asthma,asthma,30
+T02361,P02361,asthma,asthma,12
+T02362,P02362,Diabetes,Diabetes,6
+T02363,P02363,Stroke,Stroke,28
+T02364,P02364,Hypertension,Hypertension,11
+T02365,P02365,asthma,asthma,2
+T02366,P02366,asthma,asthma,18
+T02367,P02367,Heart disease,Heart,25
+T02368,P02368,Stroke,Stroke,3
+T02369,P02369,Fracture,Fracture,7
+T02370,P02370,Heart Disease,Heart,19
+T02371,P02371,Cancer,Cancer,11
+T02372,P02372,Hypertension,Hypertension,20
+T02373,P02373,Heart disease,Heart,20
+T02374,P02374,Heart Disease,Heart,27
+T02375,P02375,Cancer,Cancer,22
+T02376,P02376,Cancer,Cancer,25
+T02377,P02377,Stroke,Stroke,30
+T02378,P02378,Stroke,Stroke,18
+T02379,P02379,Hypertension,Hypertension,18
+T02380,P02380,Diabetes,Diabetes,5
+T02381,P02381,Diabetes,Diabetes,14
+T02382,P02382,asthma,asthma,26
+T02383,P02383,Heart Disease,Heart,18
+T02384,P02384,asthma,asthma,11
+T02385,P02385,Asthma,Asthma,25
+T02386,P02386,Heart disease,Heart,3
+T02387,P02387,asthma,asthma,7
+T02388,P02388,Heart disease,Heart,25
+T02389,P02389,Stroke,Stroke,5
+T02390,P02390,Asthma,Asthma,29
+T02391,P02391,diabetes,diabetes,15
+T02392,P02392,Heart disease,Heart,22
+T02393,P02393,Fracture,Fracture,2
+T02394,P02394,Fracture,Fracture,22
+T02395,P02395,Heart Disease,Heart,17
+T02396,P02396,Asthma,Asthma,24
+T02397,P02397,Heart Disease,Heart,30
+T02398,P02398,Diabetes,Diabetes,3
+T02399,P02399,asthma,asthma,3
+T02400,P02400,Heart Disease,Heart,22
+T02401,P02401,Hypertension,Hypertension,11
+T02402,P02402,Diabetes,Diabetes,30
+T02403,P02403,Fracture,Fracture,20
+T02404,P02404,Hypertension,Hypertension,9
+T02405,P02405,Hypertension,Hypertension,16
+T02406,P02406,Fracture,Fracture,25
+T02407,P02407,Cancer,Cancer,18
+T02408,P02408,diabetes,diabetes,3
+T02409,P02409,Asthma,Asthma,18
+T02410,P02410,asthma,asthma,20
+T02411,P02411,diabetes,diabetes,13
+T02412,P02412,Hypertension,Hypertension,2
+T02413,P02413,asthma,asthma,29
+T02414,P02414,Asthma,Asthma,7
+T02415,P02415,Asthma,Asthma,19
+T02416,P02416,Fracture,Fracture,18
+T02417,P02417,Asthma,Asthma,22
+T02418,P02418,Diabetes,Diabetes,11
+T02419,P02419,diabetes,diabetes,26
+T02420,P02420,Asthma,Asthma,17
+T02421,P02421,diabetes,diabetes,10
+T02422,P02422,Diabetes,Diabetes,23
+T02423,P02423,Cancer,Cancer,29
+T02424,P02424,Cancer,Cancer,
+T02425,P02425,Fracture,Fracture,17
+T02426,P02426,Hypertension,Hypertension,26
+T02427,P02427,asthma,asthma,29
+T02428,P02428,diabetes,diabetes,12
+T02429,P02429,Stroke,Stroke,21
+T02430,P02430,Hypertension,Hypertension,28
+T02431,P02431,Heart Disease,Heart,6
+T02432,P02432,Hypertension,Hypertension,5
+T02433,P02433,Heart disease,Heart,16
+T02434,P02434,Hypertension,Hypertension,3
+T02435,P02435,diabetes,diabetes,14
+T02436,P02436,Cancer,Cancer,18
+T02437,P02437,Asthma,Asthma,23
+T02438,P02438,Diabetes,Diabetes,11
+T02439,P02439,Fracture,Fracture,29
+T02440,P02440,Stroke,Stroke,24
+T02441,P02441,Heart disease,Heart,9
+T02442,P02442,Diabetes,Diabetes,26
+T02443,P02443,Hypertension,Hypertension,24
+T02444,P02444,Hypertension,Hypertension,11
+T02445,P02445,Fracture,Fracture,26
+T02446,P02446,Hypertension,Hypertension,5
+T02447,P02447,Asthma,Asthma,5
+T02448,P02448,asthma,asthma,22
+T02449,P02449,Hypertension,Hypertension,7
+T02450,P02450,Cancer,Cancer,11
+T02451,P02451,Heart Disease,Heart,16
+T02452,P02452,Stroke,Stroke,17
+T02453,P02453,Fracture,Fracture,10
+T02454,P02454,diabetes,diabetes,15
+T02455,P02455,asthma,asthma,9
+T02456,P02456,Fracture,Fracture,10
+T02457,P02457,Stroke,Stroke,25
+T02458,P02458,Stroke,Stroke,26
+T02459,P02459,Fracture,Fracture,19
+T02460,P02460,asthma,asthma,28
+T02461,P02461,Stroke,Stroke,8
+T02462,P02462,Fracture,Fracture,5
+T02463,P02463,Stroke,Stroke,11
+T02464,P02464,Heart disease,Heart,14
+T02465,P02465,diabetes,diabetes,22
+T02466,P02466,diabetes,diabetes,5
+T02467,P02467,Stroke,Stroke,27
+T02468,P02468,Cancer,Cancer,13
+T02469,P02469,Hypertension,Hypertension,27
+T02470,P02470,asthma,asthma,30
+T02471,P02471,Heart Disease,Heart,11
+T02472,P02472,diabetes,diabetes,30
+T02473,P02473,Fracture,Fracture,5
+T02474,P02474,Stroke,Stroke,18
+T02475,P02475,Fracture,Fracture,11
+T02476,P02476,Fracture,Fracture,19
+T02477,P02477,Heart Disease,Heart,12
+T02478,P02478,Stroke,Stroke,22
+T02479,P02479,Heart disease,Heart,10
+T02480,P02480,Heart disease,Heart,7
+T02481,P02481,asthma,asthma,4
+T02482,P02482,Diabetes,Diabetes,5
+T02483,P02483,diabetes,diabetes,2
+T02484,P02484,Heart Disease,Heart,23
+T02485,P02485,Cancer,Cancer,18
+T02486,P02486,Heart disease,Heart,24
+T02487,P02487,diabetes,diabetes,27
+T02488,P02488,Asthma,Asthma,20
+T02489,P02489,diabetes,diabetes,10
+T02490,P02490,diabetes,diabetes,3
+T02491,P02491,diabetes,diabetes,4
+T02492,P02492,Heart Disease,Heart,3
+T02493,P02493,diabetes,diabetes,22
+T02494,P02494,Fracture,Fracture,27
+T02495,P02495,Asthma,Asthma,16
+T02496,P02496,Asthma,Asthma,24
+T02497,P02497,Cancer,Cancer,4
+T02498,P02498,asthma,asthma,23
+T02499,P02499,Fracture,Fracture,20
+T02500,P02500,Stroke,Stroke,5
+T02501,P02501,Hypertension,Hypertension,29
+T02502,P02502,Asthma,Asthma,30
+T02503,P02503,Heart Disease,Heart,8
+T02504,P02504,Cancer,Cancer,3
+T02505,P02505,Heart Disease,Heart,25
+T02506,P02506,diabetes,diabetes,7
+T02507,P02507,Asthma,Asthma,12
+T02508,P02508,Cancer,Cancer,6
+T02509,P02509,Asthma,Asthma,29
+T02510,P02510,Fracture,Fracture,25
+T02511,P02511,Diabetes,Diabetes,18
+T02512,P02512,Diabetes,Diabetes,25
+T02513,P02513,Fracture,Fracture,3
+T02514,P02514,Hypertension,Hypertension,7
+T02515,P02515,Fracture,Fracture,18
+T02516,P02516,asthma,asthma,16
+T02517,P02517,Asthma,Asthma,25
+T02518,P02518,Heart disease,Heart,15
+T02519,P02519,Asthma,Asthma,7
+T02520,P02520,asthma,asthma,10
+T02521,P02521,Heart Disease,Heart,23
+T02522,P02522,Asthma,Asthma,23
+T02523,P02523,Fracture,Fracture,3
+T02524,P02524,Heart Disease,Heart,14
+T02525,P02525,Hypertension,Hypertension,
+T02526,P02526,diabetes,diabetes,22
+T02527,P02527,asthma,asthma,28
+T02528,P02528,Asthma,Asthma,14
+T02529,P02529,Stroke,Stroke,15
+T02530,P02530,Hypertension,Hypertension,22
+T02531,P02531,Heart Disease,Heart,29
+T02532,P02532,Diabetes,Diabetes,17
+T02533,P02533,Heart Disease,Heart,20
+T02534,P02534,Fracture,Fracture,6
+T02535,P02535,Heart Disease,Heart,27
+T02536,P02536,Heart disease,Heart,24
+T02537,P02537,diabetes,diabetes,25
+T02538,P02538,Cancer,Cancer,22
+T02539,P02539,Fracture,Fracture,2
+T02540,P02540,Cancer,Cancer,30
+T02541,P02541,Stroke,Stroke,24
+T02542,P02542,Heart disease,Heart,8
+T02543,P02543,Asthma,Asthma,26
+T02544,P02544,Asthma,Asthma,13
+T02545,P02545,Heart disease,Heart,20
+T02546,P02546,Fracture,Fracture,13
+T02547,P02547,Diabetes,Diabetes,19
+T02548,P02548,Heart Disease,Heart,20
+T02549,P02549,Diabetes,Diabetes,24
+T02550,P02550,Heart disease,Heart,18
+T02551,P02551,asthma,asthma,14
+T02552,P02552,Hypertension,Hypertension,18
+T02553,P02553,Diabetes,Diabetes,6
+T02554,P02554,Cancer,Cancer,11
+T02555,P02555,Asthma,Asthma,2
+T02556,P02556,Heart Disease,Heart,16
+T02557,P02557,Cancer,Cancer,8
+T02558,P02558,Stroke,Stroke,24
+T02559,P02559,Heart Disease,Heart,23
+T02560,P02560,Stroke,Stroke,19
+T02561,P02561,Asthma,Asthma,21
+T02562,P02562,Asthma,Asthma,5
+T02563,P02563,Asthma,Asthma,27
+T02564,P02564,Fracture,Fracture,21
+T02565,P02565,Diabetes,Diabetes,10
+T02566,P02566,Asthma,Asthma,16
+T02567,P02567,asthma,asthma,4
+T02568,P02568,asthma,asthma,9
+T02569,P02569,Fracture,Fracture,22
+T02570,P02570,Hypertension,Hypertension,7
+T02571,P02571,Stroke,Stroke,30
+T02572,P02572,Diabetes,Diabetes,28
+T02573,P02573,Stroke,Stroke,2
+T02574,P02574,Cancer,Cancer,26
+T02575,P02575,Heart Disease,Heart,9
+T02576,P02576,Cancer,Cancer,6
+T02577,P02577,Diabetes,Diabetes,23
+T02578,P02578,Diabetes,Diabetes,2
+T02579,P02579,Heart Disease,Heart,21
+T02580,P02580,Fracture,Fracture,19
+T02581,P02581,Diabetes,Diabetes,15
+T02582,P02582,Fracture,Fracture,25
+T02583,P02583,Cancer,Cancer,6
+T02584,P02584,Asthma,Asthma,15
+T02585,P02585,asthma,asthma,22
+T02586,P02586,asthma,asthma,8
+T02587,P02587,Diabetes,Diabetes,21
+T02588,P02588,Heart Disease,Heart,6
+T02589,P02589,Heart Disease,Heart,7
+T02590,P02590,diabetes,diabetes,6
+T02591,P02591,Cancer,Cancer,19
+T02592,P02592,diabetes,diabetes,14
+T02593,P02593,Hypertension,Hypertension,2
+T02594,P02594,Heart disease,Heart,27
+T02595,P02595,asthma,asthma,28
+T02596,P02596,Cancer,Cancer,28
+T02597,P02597,Heart disease,Heart,26
+T02598,P02598,Heart Disease,Heart,24
+T02599,P02599,Heart Disease,Heart,9
+T02600,P02600,Heart Disease,Heart,17
+T02601,P02601,Heart Disease,Heart,9
+T02602,P02602,Asthma,Asthma,10
+T02603,P02603,Heart Disease,Heart,10
+T02604,P02604,diabetes,diabetes,30
+T02605,P02605,Stroke,Stroke,29
+T02606,P02606,Diabetes,Diabetes,18
+T02607,P02607,Heart disease,Heart,19
+T02608,P02608,Cancer,Cancer,22
+T02609,P02609,diabetes,diabetes,10
+T02610,P02610,Cancer,Cancer,20
+T02611,P02611,Hypertension,Hypertension,10
+T02612,P02612,Cancer,Cancer,23
+T02613,P02613,Heart Disease,Heart,23
+T02614,P02614,Heart Disease,Heart,8
+T02615,P02615,Heart disease,Heart,6
+T02616,P02616,Heart Disease,Heart,18
+T02617,P02617,Asthma,Asthma,15
+T02618,P02618,Stroke,Stroke,5
+T02619,P02619,Hypertension,Hypertension,20
+T02620,P02620,Hypertension,Hypertension,16
+T02621,P02621,diabetes,diabetes,3
+T02622,P02622,Cancer,Cancer,24
+T02623,P02623,diabetes,diabetes,26
+T02624,P02624,Cancer,Cancer,14
+T02625,P02625,Heart disease,Heart,6
+T02626,P02626,diabetes,diabetes,
+T02627,P02627,Heart disease,Heart,22
+T02628,P02628,Heart disease,Heart,16
+T02629,P02629,asthma,asthma,24
+T02630,P02630,Heart Disease,Heart,4
+T02631,P02631,Asthma,Asthma,13
+T02632,P02632,asthma,asthma,28
+T02633,P02633,Asthma,Asthma,10
+T02634,P02634,Fracture,Fracture,6
+T02635,P02635,Heart Disease,Heart,17
+T02636,P02636,Diabetes,Diabetes,24
+T02637,P02637,Diabetes,Diabetes,29
+T02638,P02638,Asthma,Asthma,18
+T02639,P02639,Hypertension,Hypertension,23
+T02640,P02640,Hypertension,Hypertension,17
+T02641,P02641,Asthma,Asthma,26
+T02642,P02642,Asthma,Asthma,7
+T02643,P02643,Heart Disease,Heart,23
+T02644,P02644,asthma,asthma,21
+T02645,P02645,Fracture,Fracture,8
+T02646,P02646,Diabetes,Diabetes,8
+T02647,P02647,Fracture,Fracture,10
+T02648,P02648,Cancer,Cancer,29
+T02649,P02649,asthma,asthma,22
+T02650,P02650,Diabetes,Diabetes,18
+T02651,P02651,Heart disease,Heart,27
+T02652,P02652,Fracture,Fracture,28
+T02653,P02653,Asthma,Asthma,29
+T02654,P02654,Heart disease,Heart,6
+T02655,P02655,Diabetes,Diabetes,26
+T02656,P02656,Diabetes,Diabetes,14
+T02657,P02657,Diabetes,Diabetes,28
+T02658,P02658,Cancer,Cancer,9
+T02659,P02659,Diabetes,Diabetes,22
+T02660,P02660,Fracture,Fracture,17
+T02661,P02661,Heart disease,Heart,15
+T02662,P02662,Stroke,Stroke,17
+T02663,P02663,asthma,asthma,18
+T02664,P02664,asthma,asthma,20
+T02665,P02665,Cancer,Cancer,16
+T02666,P02666,Fracture,Fracture,4
+T02667,P02667,asthma,asthma,16
+T02668,P02668,Heart disease,Heart,9
+T02669,P02669,Heart disease,Heart,12
+T02670,P02670,Heart disease,Heart,18
+T02671,P02671,Heart disease,Heart,17
+T02672,P02672,Hypertension,Hypertension,3
+T02673,P02673,Heart Disease,Heart,9
+T02674,P02674,Cancer,Cancer,25
+T02675,P02675,Hypertension,Hypertension,11
+T02676,P02676,Diabetes,Diabetes,12
+T02677,P02677,Stroke,Stroke,21
+T02678,P02678,Asthma,Asthma,23
+T02679,P02679,Fracture,Fracture,14
+T02680,P02680,diabetes,diabetes,21
+T02681,P02681,Heart Disease,Heart,16
+T02682,P02682,Cancer,Cancer,5
+T02683,P02683,Heart Disease,Heart,25
+T02684,P02684,Diabetes,Diabetes,16
+T02685,P02685,Hypertension,Hypertension,22
+T02686,P02686,Stroke,Stroke,6
+T02687,P02687,Asthma,Asthma,19
+T02688,P02688,Diabetes,Diabetes,30
+T02689,P02689,Hypertension,Hypertension,27
+T02690,P02690,Hypertension,Hypertension,13
+T02691,P02691,Heart Disease,Heart,7
+T02692,P02692,Asthma,Asthma,23
+T02693,P02693,Heart Disease,Heart,26
+T02694,P02694,Fracture,Fracture,12
+T02695,P02695,Stroke,Stroke,5
+T02696,P02696,Fracture,Fracture,24
+T02697,P02697,Heart disease,Heart,30
+T02698,P02698,Fracture,Fracture,6
+T02699,P02699,Diabetes,Diabetes,4
+T02700,P02700,Fracture,Fracture,29
+T02701,P02701,Diabetes,Diabetes,4
+T02702,P02702,diabetes,diabetes,16
+T02703,P02703,asthma,asthma,22
+T02704,P02704,asthma,asthma,12
+T02705,P02705,Stroke,Stroke,16
+T02706,P02706,Fracture,Fracture,29
+T02707,P02707,Asthma,Asthma,17
+T02708,P02708,Heart disease,Heart,13
+T02709,P02709,diabetes,diabetes,3
+T02710,P02710,Stroke,Stroke,16
+T02711,P02711,Asthma,Asthma,29
+T02712,P02712,Asthma,Asthma,10
+T02713,P02713,Hypertension,Hypertension,27
+T02714,P02714,Hypertension,Hypertension,27
+T02715,P02715,Cancer,Cancer,20
+T02716,P02716,Diabetes,Diabetes,27
+T02717,P02717,Fracture,Fracture,5
+T02718,P02718,Stroke,Stroke,17
+T02719,P02719,Fracture,Fracture,18
+T02720,P02720,Cancer,Cancer,3
+T02721,P02721,Heart disease,Heart,2
+T02722,P02722,Heart Disease,Heart,11
+T02723,P02723,Hypertension,Hypertension,29
+T02724,P02724,Heart Disease,Heart,9
+T02725,P02725,Diabetes,Diabetes,2
+T02726,P02726,Cancer,Cancer,8
+T02727,P02727,Heart disease,Heart,
+T02728,P02728,Asthma,Asthma,5
+T02729,P02729,Cancer,Cancer,17
+T02730,P02730,diabetes,diabetes,26
+T02731,P02731,asthma,asthma,24
+T02732,P02732,asthma,asthma,27
+T02733,P02733,Diabetes,Diabetes,27
+T02734,P02734,Heart disease,Heart,21
+T02735,P02735,Heart disease,Heart,3
+T02736,P02736,Heart disease,Heart,18
+T02737,P02737,Diabetes,Diabetes,8
+T02738,P02738,asthma,asthma,10
+T02739,P02739,Heart disease,Heart,5
+T02740,P02740,Heart disease,Heart,16
+T02741,P02741,Heart disease,Heart,5
+T02742,P02742,Heart Disease,Heart,24
+T02743,P02743,Hypertension,Hypertension,13
+T02744,P02744,Diabetes,Diabetes,27
+T02745,P02745,Asthma,Asthma,19
+T02746,P02746,Cancer,Cancer,22
+T02747,P02747,Cancer,Cancer,5
+T02748,P02748,Hypertension,Hypertension,19
+T02749,P02749,Fracture,Fracture,24
+T02750,P02750,asthma,asthma,20
+T02751,P02751,Hypertension,Hypertension,16
+T02752,P02752,Heart disease,Heart,6
+T02753,P02753,Heart Disease,Heart,22
+T02754,P02754,Hypertension,Hypertension,6
+T02755,P02755,Fracture,Fracture,18
+T02756,P02756,Diabetes,Diabetes,21
+T02757,P02757,Hypertension,Hypertension,6
+T02758,P02758,Cancer,Cancer,9
+T02759,P02759,Hypertension,Hypertension,29
+T02760,P02760,Cancer,Cancer,14
+T02761,P02761,Heart disease,Heart,29
+T02762,P02762,Hypertension,Hypertension,5
+T02763,P02763,Diabetes,Diabetes,15
+T02764,P02764,Heart Disease,Heart,2
+T02765,P02765,Asthma,Asthma,15
+T02766,P02766,Fracture,Fracture,19
+T02767,P02767,Stroke,Stroke,8
+T02768,P02768,Diabetes,Diabetes,26
+T02769,P02769,Heart disease,Heart,19
+T02770,P02770,diabetes,diabetes,29
+T02771,P02771,Stroke,Stroke,20
+T02772,P02772,diabetes,diabetes,20
+T02773,P02773,Asthma,Asthma,19
+T02774,P02774,Stroke,Stroke,17
+T02775,P02775,Diabetes,Diabetes,16
+T02776,P02776,Stroke,Stroke,24
+T02777,P02777,Hypertension,Hypertension,19
+T02778,P02778,Stroke,Stroke,29
+T02779,P02779,Asthma,Asthma,10
+T02780,P02780,Asthma,Asthma,20
+T02781,P02781,diabetes,diabetes,5
+T02782,P02782,Cancer,Cancer,13
+T02783,P02783,diabetes,diabetes,3
+T02784,P02784,diabetes,diabetes,12
+T02785,P02785,Asthma,Asthma,23
+T02786,P02786,Heart Disease,Heart,16
+T02787,P02787,Heart Disease,Heart,12
+T02788,P02788,asthma,asthma,30
+T02789,P02789,Fracture,Fracture,9
+T02790,P02790,Diabetes,Diabetes,25
+T02791,P02791,diabetes,diabetes,18
+T02792,P02792,Diabetes,Diabetes,18
+T02793,P02793,Fracture,Fracture,6
+T02794,P02794,asthma,asthma,18
+T02795,P02795,Asthma,Asthma,7
+T02796,P02796,Heart disease,Heart,2
+T02797,P02797,Heart Disease,Heart,7
+T02798,P02798,Fracture,Fracture,27
+T02799,P02799,Heart Disease,Heart,17
+T02800,P02800,asthma,asthma,7
+T02801,P02801,diabetes,diabetes,23
+T02802,P02802,asthma,asthma,28
+T02803,P02803,Heart Disease,Heart,17
+T02804,P02804,Heart Disease,Heart,9
+T02805,P02805,diabetes,diabetes,29
+T02806,P02806,diabetes,diabetes,24
+T02807,P02807,Asthma,Asthma,9
+T02808,P02808,Asthma,Asthma,4
+T02809,P02809,Stroke,Stroke,14
+T02810,P02810,Heart disease,Heart,19
+T02811,P02811,Heart Disease,Heart,15
+T02812,P02812,Fracture,Fracture,16
+T02813,P02813,asthma,asthma,27
+T02814,P02814,Hypertension,Hypertension,16
+T02815,P02815,Heart Disease,Heart,16
+T02816,P02816,Fracture,Fracture,16
+T02817,P02817,diabetes,diabetes,22
+T02818,P02818,Hypertension,Hypertension,18
+T02819,P02819,Asthma,Asthma,15
+T02820,P02820,Diabetes,Diabetes,13
+T02821,P02821,Heart disease,Heart,24
+T02822,P02822,Asthma,Asthma,14
+T02823,P02823,asthma,asthma,22
+T02824,P02824,Fracture,Fracture,11
+T02825,P02825,Diabetes,Diabetes,21
+T02826,P02826,Stroke,Stroke,27
+T02827,P02827,Cancer,Cancer,9
+T02828,P02828,Asthma,Asthma,
+T02829,P02829,Cancer,Cancer,15
+T02830,P02830,Hypertension,Hypertension,18
+T02831,P02831,Fracture,Fracture,5
+T02832,P02832,Stroke,Stroke,24
+T02833,P02833,Asthma,Asthma,26
+T02834,P02834,Stroke,Stroke,27
+T02835,P02835,Heart Disease,Heart,21
+T02836,P02836,Heart Disease,Heart,20
+T02837,P02837,diabetes,diabetes,26
+T02838,P02838,Fracture,Fracture,17
+T02839,P02839,Heart disease,Heart,14
+T02840,P02840,Diabetes,Diabetes,12
+T02841,P02841,Heart disease,Heart,26
+T02842,P02842,Hypertension,Hypertension,2
+T02843,P02843,Cancer,Cancer,4
+T02844,P02844,diabetes,diabetes,27
+T02845,P02845,Diabetes,Diabetes,2
+T02846,P02846,Diabetes,Diabetes,17
+T02847,P02847,Fracture,Fracture,19
+T02848,P02848,Heart disease,Heart,30
+T02849,P02849,diabetes,diabetes,28
+T02850,P02850,Cancer,Cancer,28
+T02851,P02851,Heart Disease,Heart,25
+T02852,P02852,Stroke,Stroke,8
+T02853,P02853,Fracture,Fracture,22
+T02854,P02854,Asthma,Asthma,4
+T02855,P02855,Hypertension,Hypertension,19
+T02856,P02856,Fracture,Fracture,23
+T02857,P02857,Diabetes,Diabetes,8
+T02858,P02858,Heart Disease,Heart,7
+T02859,P02859,asthma,asthma,3
+T02860,P02860,Cancer,Cancer,4
+T02861,P02861,Hypertension,Hypertension,8
+T02862,P02862,Heart disease,Heart,21
+T02863,P02863,Heart Disease,Heart,7
+T02864,P02864,Fracture,Fracture,29
+T02865,P02865,Asthma,Asthma,22
+T02866,P02866,Asthma,Asthma,29
+T02867,P02867,asthma,asthma,10
+T02868,P02868,asthma,asthma,25
+T02869,P02869,Asthma,Asthma,26
+T02870,P02870,Asthma,Asthma,17
+T02871,P02871,Heart Disease,Heart,16
+T02872,P02872,Cancer,Cancer,17
+T02873,P02873,Hypertension,Hypertension,28
+T02874,P02874,Heart Disease,Heart,11
+T02875,P02875,Asthma,Asthma,27
+T02876,P02876,Fracture,Fracture,28
+T02877,P02877,Fracture,Fracture,28
+T02878,P02878,diabetes,diabetes,16
+T02879,P02879,Asthma,Asthma,2
+T02880,P02880,Stroke,Stroke,14
+T02881,P02881,Cancer,Cancer,14
+T02882,P02882,Fracture,Fracture,20
+T02883,P02883,Hypertension,Hypertension,25
+T02884,P02884,Asthma,Asthma,6
+T02885,P02885,Diabetes,Diabetes,23
+T02886,P02886,Stroke,Stroke,5
+T02887,P02887,Heart disease,Heart,17
+T02888,P02888,Stroke,Stroke,21
+T02889,P02889,Cancer,Cancer,29
+T02890,P02890,Heart Disease,Heart,8
+T02891,P02891,Fracture,Fracture,14
+T02892,P02892,diabetes,diabetes,28
+T02893,P02893,Cancer,Cancer,6
+T02894,P02894,asthma,asthma,25
+T02895,P02895,Hypertension,Hypertension,29
+T02896,P02896,Heart disease,Heart,2
+T02897,P02897,Cancer,Cancer,17
+T02898,P02898,Cancer,Cancer,29
+T02899,P02899,Fracture,Fracture,20
+T02900,P02900,Diabetes,Diabetes,21
+T02901,P02901,diabetes,diabetes,7
+T02902,P02902,Cancer,Cancer,4
+T02903,P02903,Heart Disease,Heart,4
+T02904,P02904,Heart Disease,Heart,30
+T02905,P02905,Stroke,Stroke,8
+T02906,P02906,asthma,asthma,27
+T02907,P02907,Cancer,Cancer,5
+T02908,P02908,asthma,asthma,15
+T02909,P02909,Fracture,Fracture,4
+T02910,P02910,Diabetes,Diabetes,7
+T02911,P02911,Stroke,Stroke,7
+T02912,P02912,Heart Disease,Heart,24
+T02913,P02913,asthma,asthma,26
+T02914,P02914,diabetes,diabetes,21
+T02915,P02915,Heart disease,Heart,8
+T02916,P02916,asthma,asthma,15
+T02917,P02917,Heart Disease,Heart,27
+T02918,P02918,Cancer,Cancer,29
+T02919,P02919,Asthma,Asthma,11
+T02920,P02920,Heart disease,Heart,17
+T02921,P02921,Heart Disease,Heart,27
+T02922,P02922,Cancer,Cancer,7
+T02923,P02923,Cancer,Cancer,10
+T02924,P02924,Diabetes,Diabetes,25
+T02925,P02925,diabetes,diabetes,29
+T02926,P02926,Heart Disease,Heart,13
+T02927,P02927,Heart Disease,Heart,3
+T02928,P02928,Diabetes,Diabetes,10
+T02929,P02929,Heart disease,Heart,
+T02930,P02930,Heart Disease,Heart,3
+T02931,P02931,Hypertension,Hypertension,4
+T02932,P02932,Cancer,Cancer,7
+T02933,P02933,Cancer,Cancer,26
+T02934,P02934,diabetes,diabetes,6
+T02935,P02935,Asthma,Asthma,17
+T02936,P02936,Hypertension,Hypertension,14
+T02937,P02937,Stroke,Stroke,15
+T02938,P02938,Fracture,Fracture,18
+T02939,P02939,Heart disease,Heart,2
+T02940,P02940,Heart disease,Heart,5
+T02941,P02941,Fracture,Fracture,7
+T02942,P02942,Hypertension,Hypertension,25
+T02943,P02943,Asthma,Asthma,3
+T02944,P02944,Hypertension,Hypertension,21
+T02945,P02945,Heart disease,Heart,30
+T02946,P02946,Fracture,Fracture,13
+T02947,P02947,diabetes,diabetes,8
+T02948,P02948,Fracture,Fracture,15
+T02949,P02949,Cancer,Cancer,27
+T02950,P02950,Asthma,Asthma,18
+T02951,P02951,diabetes,diabetes,11
+T02952,P02952,diabetes,diabetes,24
+T02953,P02953,Hypertension,Hypertension,25
+T02954,P02954,Stroke,Stroke,17
+T02955,P02955,Hypertension,Hypertension,21
+T02956,P02956,diabetes,diabetes,19
+T02957,P02957,Asthma,Asthma,28
+T02958,P02958,asthma,asthma,4
+T02959,P02959,Hypertension,Hypertension,6
+T02960,P02960,Diabetes,Diabetes,18
+T02961,P02961,Asthma,Asthma,21
+T02962,P02962,Stroke,Stroke,13
+T02963,P02963,Heart disease,Heart,27
+T02964,P02964,Cancer,Cancer,12
+T02965,P02965,diabetes,diabetes,20
+T02966,P02966,Asthma,Asthma,3
+T02967,P02967,asthma,asthma,14
+T02968,P02968,Cancer,Cancer,11
+T02969,P02969,asthma,asthma,22
+T02970,P02970,Hypertension,Hypertension,29
+T02971,P02971,Heart disease,Heart,24
+T02972,P02972,Asthma,Asthma,3
+T02973,P02973,diabetes,diabetes,3
+T02974,P02974,Fracture,Fracture,13
+T02975,P02975,Heart Disease,Heart,19
+T02976,P02976,Fracture,Fracture,24
+T02977,P02977,Hypertension,Hypertension,21
+T02978,P02978,Fracture,Fracture,7
+T02979,P02979,Heart Disease,Heart,29
+T02980,P02980,asthma,asthma,17
+T02981,P02981,asthma,asthma,3
+T02982,P02982,Heart Disease,Heart,7
+T02983,P02983,asthma,asthma,21
+T02984,P02984,Heart disease,Heart,30
+T02985,P02985,diabetes,diabetes,23
+T02986,P02986,Heart Disease,Heart,30
+T02987,P02987,Heart Disease,Heart,17
+T02988,P02988,Heart Disease,Heart,13
+T02989,P02989,Asthma,Asthma,30
+T02990,P02990,Asthma,Asthma,23
+T02991,P02991,Hypertension,Hypertension,27
+T02992,P02992,asthma,asthma,12
+T02993,P02993,Diabetes,Diabetes,9
+T02994,P02994,Diabetes,Diabetes,16
+T02995,P02995,Hypertension,Hypertension,12
+T02996,P02996,Cancer,Cancer,6
+T02997,P02997,asthma,asthma,10
+T02998,P02998,Stroke,Stroke,17
+T02999,P02999,Fracture,Fracture,6
+T03000,P03000,Heart disease,Heart,21
+T03001,P03001,Stroke,Stroke,16
+T03002,P03002,Fracture,Fracture,18
+T03003,P03003,Heart disease,Heart,20
+T03004,P03004,Diabetes,Diabetes,16
+T03005,P03005,asthma,asthma,30
+T03006,P03006,diabetes,diabetes,15
+T03007,P03007,Heart disease,Heart,19
+T03008,P03008,Diabetes,Diabetes,14
+T03009,P03009,Stroke,Stroke,7
+T03010,P03010,Stroke,Stroke,26
+T03011,P03011,Fracture,Fracture,21
+T03012,P03012,Asthma,Asthma,2
+T03013,P03013,Hypertension,Hypertension,24
+T03014,P03014,Hypertension,Hypertension,28
+T03015,P03015,Diabetes,Diabetes,16
+T03016,P03016,Heart disease,Heart,16
+T03017,P03017,Heart Disease,Heart,7
+T03018,P03018,Hypertension,Hypertension,25
+T03019,P03019,diabetes,diabetes,17
+T03020,P03020,Stroke,Stroke,10
+T03021,P03021,Cancer,Cancer,2
+T03022,P03022,Heart disease,Heart,14
+T03023,P03023,diabetes,diabetes,11
+T03024,P03024,asthma,asthma,11
+T03025,P03025,Asthma,Asthma,2
+T03026,P03026,Heart Disease,Heart,21
+T03027,P03027,diabetes,diabetes,21
+T03028,P03028,asthma,asthma,14
+T03029,P03029,asthma,asthma,2
+T03030,P03030,asthma,asthma,
+T03031,P03031,Cancer,Cancer,10
+T03032,P03032,Cancer,Cancer,11
+T03033,P03033,diabetes,diabetes,22
+T03034,P03034,Asthma,Asthma,20
+T03035,P03035,Heart Disease,Heart,27
+T03036,P03036,Heart Disease,Heart,19
+T03037,P03037,Heart disease,Heart,28
+T03038,P03038,asthma,asthma,24
+T03039,P03039,Stroke,Stroke,3
+T03040,P03040,Heart Disease,Heart,6
+T03041,P03041,Hypertension,Hypertension,9
+T03042,P03042,asthma,asthma,30
+T03043,P03043,diabetes,diabetes,4
+T03044,P03044,Fracture,Fracture,26
+T03045,P03045,Asthma,Asthma,30
+T03046,P03046,Cancer,Cancer,22
+T03047,P03047,Stroke,Stroke,8
+T03048,P03048,Stroke,Stroke,21
+T03049,P03049,Heart disease,Heart,19
+T03050,P03050,Diabetes,Diabetes,13
+T03051,P03051,Cancer,Cancer,10
+T03052,P03052,Stroke,Stroke,3
+T03053,P03053,Fracture,Fracture,2
+T03054,P03054,Asthma,Asthma,9
+T03055,P03055,asthma,asthma,23
+T03056,P03056,diabetes,diabetes,17
+T03057,P03057,asthma,asthma,21
+T03058,P03058,Heart disease,Heart,4
+T03059,P03059,Fracture,Fracture,7
+T03060,P03060,Stroke,Stroke,29
+T03061,P03061,diabetes,diabetes,30
+T03062,P03062,Diabetes,Diabetes,19
+T03063,P03063,Asthma,Asthma,12
+T03064,P03064,Stroke,Stroke,8
+T03065,P03065,diabetes,diabetes,26
+T03066,P03066,Asthma,Asthma,16
+T03067,P03067,Hypertension,Hypertension,14
+T03068,P03068,diabetes,diabetes,26
+T03069,P03069,Heart Disease,Heart,15
+T03070,P03070,asthma,asthma,3
+T03071,P03071,Cancer,Cancer,19
+T03072,P03072,Hypertension,Hypertension,21
+T03073,P03073,Fracture,Fracture,13
+T03074,P03074,asthma,asthma,18
+T03075,P03075,asthma,asthma,8
+T03076,P03076,Fracture,Fracture,20
+T03077,P03077,Hypertension,Hypertension,23
+T03078,P03078,Fracture,Fracture,19
+T03079,P03079,Cancer,Cancer,28
+T03080,P03080,diabetes,diabetes,15
+T03081,P03081,Stroke,Stroke,18
+T03082,P03082,Diabetes,Diabetes,21
+T03083,P03083,Stroke,Stroke,12
+T03084,P03084,diabetes,diabetes,5
+T03085,P03085,Hypertension,Hypertension,19
+T03086,P03086,Cancer,Cancer,19
+T03087,P03087,Fracture,Fracture,11
+T03088,P03088,Asthma,Asthma,24
+T03089,P03089,Fracture,Fracture,8
+T03090,P03090,Heart Disease,Heart,4
+T03091,P03091,Fracture,Fracture,22
+T03092,P03092,Fracture,Fracture,18
+T03093,P03093,asthma,asthma,11
+T03094,P03094,asthma,asthma,16
+T03095,P03095,Asthma,Asthma,30
+T03096,P03096,Fracture,Fracture,23
+T03097,P03097,Fracture,Fracture,2
+T03098,P03098,Stroke,Stroke,3
+T03099,P03099,Cancer,Cancer,26
+T03100,P03100,asthma,asthma,25
+T03101,P03101,asthma,asthma,19
+T03102,P03102,Cancer,Cancer,23
+T03103,P03103,Heart disease,Heart,11
+T03104,P03104,Cancer,Cancer,27
+T03105,P03105,asthma,asthma,29
+T03106,P03106,Stroke,Stroke,11
+T03107,P03107,Heart disease,Heart,7
+T03108,P03108,Fracture,Fracture,24
+T03109,P03109,asthma,asthma,11
+T03110,P03110,diabetes,diabetes,4
+T03111,P03111,asthma,asthma,15
+T03112,P03112,asthma,asthma,6
+T03113,P03113,Fracture,Fracture,16
+T03114,P03114,Diabetes,Diabetes,4
+T03115,P03115,asthma,asthma,28
+T03116,P03116,Stroke,Stroke,7
+T03117,P03117,Stroke,Stroke,14
+T03118,P03118,Hypertension,Hypertension,20
+T03119,P03119,Cancer,Cancer,4
+T03120,P03120,Cancer,Cancer,3
+T03121,P03121,asthma,asthma,6
+T03122,P03122,Fracture,Fracture,27
+T03123,P03123,Hypertension,Hypertension,6
+T03124,P03124,Diabetes,Diabetes,3
+T03125,P03125,Cancer,Cancer,12
+T03126,P03126,Asthma,Asthma,14
+T03127,P03127,Heart disease,Heart,28
+T03128,P03128,diabetes,diabetes,15
+T03129,P03129,Asthma,Asthma,24
+T03130,P03130,Stroke,Stroke,3
+T03131,P03131,Stroke,Stroke,
+T03132,P03132,Stroke,Stroke,22
+T03133,P03133,Asthma,Asthma,20
+T03134,P03134,Heart disease,Heart,29
+T03135,P03135,Heart Disease,Heart,9
+T03136,P03136,Fracture,Fracture,12
+T03137,P03137,asthma,asthma,24
+T03138,P03138,Cancer,Cancer,8
+T03139,P03139,Cancer,Cancer,18
+T03140,P03140,Heart disease,Heart,25
+T03141,P03141,Heart disease,Heart,9
+T03142,P03142,diabetes,diabetes,10
+T03143,P03143,Hypertension,Hypertension,9
+T03144,P03144,Heart Disease,Heart,13
+T03145,P03145,Asthma,Asthma,18
+T03146,P03146,asthma,asthma,20
+T03147,P03147,Heart Disease,Heart,18
+T03148,P03148,Heart Disease,Heart,25
+T03149,P03149,Diabetes,Diabetes,27
+T03150,P03150,Stroke,Stroke,15
+T03151,P03151,Stroke,Stroke,12
+T03152,P03152,Heart disease,Heart,10
+T03153,P03153,Fracture,Fracture,21
+T03154,P03154,Fracture,Fracture,24
+T03155,P03155,diabetes,diabetes,3
+T03156,P03156,Hypertension,Hypertension,2
+T03157,P03157,Diabetes,Diabetes,6
+T03158,P03158,Cancer,Cancer,4
+T03159,P03159,Diabetes,Diabetes,3
+T03160,P03160,Diabetes,Diabetes,8
+T03161,P03161,Heart Disease,Heart,25
+T03162,P03162,Stroke,Stroke,14
+T03163,P03163,Stroke,Stroke,29
+T03164,P03164,diabetes,diabetes,16
+T03165,P03165,Cancer,Cancer,2
+T03166,P03166,Cancer,Cancer,24
+T03167,P03167,Cancer,Cancer,28
+T03168,P03168,Stroke,Stroke,27
+T03169,P03169,Asthma,Asthma,11
+T03170,P03170,Hypertension,Hypertension,24
+T03171,P03171,Hypertension,Hypertension,30
+T03172,P03172,diabetes,diabetes,14
+T03173,P03173,Heart Disease,Heart,17
+T03174,P03174,Fracture,Fracture,26
+T03175,P03175,Stroke,Stroke,13
+T03176,P03176,Diabetes,Diabetes,6
+T03177,P03177,Hypertension,Hypertension,26
+T03178,P03178,Asthma,Asthma,26
+T03179,P03179,Heart Disease,Heart,13
+T03180,P03180,Diabetes,Diabetes,26
+T03181,P03181,diabetes,diabetes,6
+T03182,P03182,Heart Disease,Heart,28
+T03183,P03183,Hypertension,Hypertension,5
+T03184,P03184,asthma,asthma,8
+T03185,P03185,asthma,asthma,8
+T03186,P03186,Fracture,Fracture,12
+T03187,P03187,Hypertension,Hypertension,30
+T03188,P03188,Heart Disease,Heart,17
+T03189,P03189,diabetes,diabetes,20
+T03190,P03190,Fracture,Fracture,29
+T03191,P03191,Stroke,Stroke,25
+T03192,P03192,Stroke,Stroke,5
+T03193,P03193,Stroke,Stroke,7
+T03194,P03194,Asthma,Asthma,6
+T03195,P03195,Hypertension,Hypertension,26
+T03196,P03196,Heart disease,Heart,8
+T03197,P03197,Cancer,Cancer,2
+T03198,P03198,diabetes,diabetes,28
+T03199,P03199,Diabetes,Diabetes,26
+T03200,P03200,Fracture,Fracture,30
+T03201,P03201,Diabetes,Diabetes,5
+T03202,P03202,Fracture,Fracture,16
+T03203,P03203,Asthma,Asthma,11
+T03204,P03204,Stroke,Stroke,2
+T03205,P03205,Cancer,Cancer,9
+T03206,P03206,Asthma,Asthma,19
+T03207,P03207,Stroke,Stroke,10
+T03208,P03208,Hypertension,Hypertension,5
+T03209,P03209,Fracture,Fracture,25
+T03210,P03210,asthma,asthma,2
+T03211,P03211,Fracture,Fracture,19
+T03212,P03212,Heart disease,Heart,5
+T03213,P03213,Heart Disease,Heart,8
+T03214,P03214,Heart disease,Heart,5
+T03215,P03215,asthma,asthma,29
+T03216,P03216,Heart disease,Heart,10
+T03217,P03217,Hypertension,Hypertension,17
+T03218,P03218,Stroke,Stroke,7
+T03219,P03219,diabetes,diabetes,28
+T03220,P03220,Fracture,Fracture,11
+T03221,P03221,diabetes,diabetes,22
+T03222,P03222,Diabetes,Diabetes,28
+T03223,P03223,Heart disease,Heart,16
+T03224,P03224,asthma,asthma,5
+T03225,P03225,Asthma,Asthma,5
+T03226,P03226,Stroke,Stroke,10
+T03227,P03227,Cancer,Cancer,25
+T03228,P03228,Stroke,Stroke,24
+T03229,P03229,Stroke,Stroke,18
+T03230,P03230,Hypertension,Hypertension,19
+T03231,P03231,Heart Disease,Heart,8
+T03232,P03232,Hypertension,Hypertension,
+T03233,P03233,Fracture,Fracture,23
+T03234,P03234,Heart disease,Heart,22
+T03235,P03235,Heart Disease,Heart,16
+T03236,P03236,Cancer,Cancer,14
+T03237,P03237,Diabetes,Diabetes,7
+T03238,P03238,Cancer,Cancer,11
+T03239,P03239,Hypertension,Hypertension,28
+T03240,P03240,Stroke,Stroke,8
+T03241,P03241,asthma,asthma,13
+T03242,P03242,asthma,asthma,22
+T03243,P03243,Diabetes,Diabetes,4
+T03244,P03244,Heart Disease,Heart,4
+T03245,P03245,Hypertension,Hypertension,23
+T03246,P03246,Hypertension,Hypertension,27
+T03247,P03247,diabetes,diabetes,10
+T03248,P03248,Hypertension,Hypertension,24
+T03249,P03249,Hypertension,Hypertension,13
+T03250,P03250,Heart Disease,Heart,12
+T03251,P03251,Heart disease,Heart,30
+T03252,P03252,asthma,asthma,20
+T03253,P03253,asthma,asthma,9
+T03254,P03254,Diabetes,Diabetes,4
+T03255,P03255,Hypertension,Hypertension,14
+T03256,P03256,asthma,asthma,10
+T03257,P03257,Hypertension,Hypertension,25
+T03258,P03258,Fracture,Fracture,3
+T03259,P03259,asthma,asthma,27
+T03260,P03260,Hypertension,Hypertension,29
+T03261,P03261,Asthma,Asthma,10
+T03262,P03262,asthma,asthma,23
+T03263,P03263,Hypertension,Hypertension,20
+T03264,P03264,diabetes,diabetes,10
+T03265,P03265,asthma,asthma,6
+T03266,P03266,diabetes,diabetes,2
+T03267,P03267,Heart Disease,Heart,3
+T03268,P03268,Heart disease,Heart,18
+T03269,P03269,Cancer,Cancer,23
+T03270,P03270,Fracture,Fracture,2
+T03271,P03271,Fracture,Fracture,4
+T03272,P03272,Heart disease,Heart,28
+T03273,P03273,Stroke,Stroke,2
+T03274,P03274,Asthma,Asthma,6
+T03275,P03275,diabetes,diabetes,6
+T03276,P03276,diabetes,diabetes,27
+T03277,P03277,Diabetes,Diabetes,3
+T03278,P03278,Asthma,Asthma,15
+T03279,P03279,Cancer,Cancer,17
+T03280,P03280,Hypertension,Hypertension,17
+T03281,P03281,asthma,asthma,6
+T03282,P03282,diabetes,diabetes,3
+T03283,P03283,Diabetes,Diabetes,18
+T03284,P03284,Asthma,Asthma,19
+T03285,P03285,Stroke,Stroke,12
+T03286,P03286,Asthma,Asthma,7
+T03287,P03287,asthma,asthma,23
+T03288,P03288,asthma,asthma,24
+T03289,P03289,Stroke,Stroke,24
+T03290,P03290,Cancer,Cancer,14
+T03291,P03291,Heart Disease,Heart,7
+T03292,P03292,Heart Disease,Heart,21
+T03293,P03293,Diabetes,Diabetes,25
+T03294,P03294,asthma,asthma,27
+T03295,P03295,Asthma,Asthma,11
+T03296,P03296,diabetes,diabetes,16
+T03297,P03297,diabetes,diabetes,2
+T03298,P03298,asthma,asthma,29
+T03299,P03299,Stroke,Stroke,17
+T03300,P03300,Heart disease,Heart,21
+T03301,P03301,Heart Disease,Heart,21
+T03302,P03302,Heart disease,Heart,24
+T03303,P03303,Stroke,Stroke,26
+T03304,P03304,Hypertension,Hypertension,28
+T03305,P03305,Diabetes,Diabetes,16
+T03306,P03306,Diabetes,Diabetes,28
+T03307,P03307,Stroke,Stroke,10
+T03308,P03308,Cancer,Cancer,22
+T03309,P03309,Fracture,Fracture,6
+T03310,P03310,Heart disease,Heart,12
+T03311,P03311,Cancer,Cancer,26
+T03312,P03312,Heart disease,Heart,19
+T03313,P03313,Hypertension,Hypertension,23
+T03314,P03314,asthma,asthma,4
+T03315,P03315,Fracture,Fracture,30
+T03316,P03316,asthma,asthma,22
+T03317,P03317,Heart Disease,Heart,3
+T03318,P03318,Asthma,Asthma,16
+T03319,P03319,Fracture,Fracture,2
+T03320,P03320,Diabetes,Diabetes,11
+T03321,P03321,Cancer,Cancer,8
+T03322,P03322,Diabetes,Diabetes,23
+T03323,P03323,Fracture,Fracture,14
+T03324,P03324,Heart Disease,Heart,16
+T03325,P03325,Heart disease,Heart,30
+T03326,P03326,Heart Disease,Heart,13
+T03327,P03327,asthma,asthma,8
+T03328,P03328,Cancer,Cancer,7
+T03329,P03329,Fracture,Fracture,28
+T03330,P03330,Asthma,Asthma,8
+T03331,P03331,Cancer,Cancer,9
+T03332,P03332,Heart Disease,Heart,24
+T03333,P03333,Stroke,Stroke,
+T03334,P03334,Heart Disease,Heart,29
+T03335,P03335,Heart Disease,Heart,12
+T03336,P03336,Diabetes,Diabetes,15
+T03337,P03337,Heart disease,Heart,11
+T03338,P03338,Cancer,Cancer,8
+T03339,P03339,Fracture,Fracture,9
+T03340,P03340,Heart Disease,Heart,30
+T03341,P03341,Heart disease,Heart,29
+T03342,P03342,Diabetes,Diabetes,4
+T03343,P03343,Asthma,Asthma,30
+T03344,P03344,Stroke,Stroke,10
+T03345,P03345,Stroke,Stroke,17
+T03346,P03346,asthma,asthma,26
+T03347,P03347,Diabetes,Diabetes,9
+T03348,P03348,Cancer,Cancer,3
+T03349,P03349,Hypertension,Hypertension,12
+T03350,P03350,Asthma,Asthma,30
+T03351,P03351,diabetes,diabetes,19
+T03352,P03352,asthma,asthma,24
+T03353,P03353,Heart Disease,Heart,3
+T03354,P03354,Heart disease,Heart,20
+T03355,P03355,Fracture,Fracture,5
+T03356,P03356,Diabetes,Diabetes,28
+T03357,P03357,diabetes,diabetes,24
+T03358,P03358,Diabetes,Diabetes,10
+T03359,P03359,Asthma,Asthma,8
+T03360,P03360,Heart disease,Heart,3
+T03361,P03361,asthma,asthma,26
+T03362,P03362,Diabetes,Diabetes,20
+T03363,P03363,Cancer,Cancer,3
+T03364,P03364,Hypertension,Hypertension,20
+T03365,P03365,Heart disease,Heart,28
+T03366,P03366,Asthma,Asthma,3
+T03367,P03367,Hypertension,Hypertension,28
+T03368,P03368,Stroke,Stroke,24
+T03369,P03369,Diabetes,Diabetes,3
+T03370,P03370,Cancer,Cancer,17
+T03371,P03371,Stroke,Stroke,18
+T03372,P03372,Asthma,Asthma,23
+T03373,P03373,Cancer,Cancer,14
+T03374,P03374,asthma,asthma,12
+T03375,P03375,Cancer,Cancer,23
+T03376,P03376,Asthma,Asthma,6
+T03377,P03377,Heart Disease,Heart,13
+T03378,P03378,Heart Disease,Heart,29
+T03379,P03379,Fracture,Fracture,16
+T03380,P03380,Stroke,Stroke,18
+T03381,P03381,asthma,asthma,16
+T03382,P03382,asthma,asthma,13
+T03383,P03383,Stroke,Stroke,28
+T03384,P03384,Asthma,Asthma,11
+T03385,P03385,Heart Disease,Heart,20
+T03386,P03386,Heart Disease,Heart,17
+T03387,P03387,Fracture,Fracture,12
+T03388,P03388,Diabetes,Diabetes,4
+T03389,P03389,Hypertension,Hypertension,8
+T03390,P03390,Heart Disease,Heart,27
+T03391,P03391,asthma,asthma,6
+T03392,P03392,Stroke,Stroke,28
+T03393,P03393,Fracture,Fracture,11
+T03394,P03394,Hypertension,Hypertension,10
+T03395,P03395,Heart Disease,Heart,29
+T03396,P03396,Heart Disease,Heart,26
+T03397,P03397,Heart Disease,Heart,4
+T03398,P03398,Stroke,Stroke,14
+T03399,P03399,Diabetes,Diabetes,21
+T03400,P03400,asthma,asthma,7
+T03401,P03401,Heart disease,Heart,18
+T03402,P03402,diabetes,diabetes,10
+T03403,P03403,Hypertension,Hypertension,19
+T03404,P03404,Fracture,Fracture,4
+T03405,P03405,Asthma,Asthma,7
+T03406,P03406,Diabetes,Diabetes,25
+T03407,P03407,Heart disease,Heart,23
+T03408,P03408,asthma,asthma,16
+T03409,P03409,Fracture,Fracture,16
+T03410,P03410,Hypertension,Hypertension,9
+T03411,P03411,diabetes,diabetes,7
+T03412,P03412,Asthma,Asthma,3
+T03413,P03413,Asthma,Asthma,20
+T03414,P03414,Heart disease,Heart,18
+T03415,P03415,Stroke,Stroke,24
+T03416,P03416,Heart disease,Heart,14
+T03417,P03417,Heart Disease,Heart,26
+T03418,P03418,Heart disease,Heart,4
+T03419,P03419,Fracture,Fracture,12
+T03420,P03420,asthma,asthma,8
+T03421,P03421,Heart disease,Heart,25
+T03422,P03422,Fracture,Fracture,8
+T03423,P03423,Asthma,Asthma,17
+T03424,P03424,Fracture,Fracture,22
+T03425,P03425,Stroke,Stroke,8
+T03426,P03426,Diabetes,Diabetes,29
+T03427,P03427,Stroke,Stroke,12
+T03428,P03428,Cancer,Cancer,13
+T03429,P03429,Cancer,Cancer,6
+T03430,P03430,Fracture,Fracture,30
+T03431,P03431,Stroke,Stroke,13
+T03432,P03432,Asthma,Asthma,27
+T03433,P03433,Stroke,Stroke,29
+T03434,P03434,Hypertension,Hypertension,
+T03435,P03435,Hypertension,Hypertension,4
+T03436,P03436,asthma,asthma,23
+T03437,P03437,Cancer,Cancer,20
+T03438,P03438,Fracture,Fracture,9
+T03439,P03439,Diabetes,Diabetes,22
+T03440,P03440,Heart disease,Heart,24
+T03441,P03441,Fracture,Fracture,26
+T03442,P03442,Cancer,Cancer,12
+T03443,P03443,Cancer,Cancer,5
+T03444,P03444,Asthma,Asthma,23
+T03445,P03445,Asthma,Asthma,22
+T03446,P03446,Heart Disease,Heart,20
+T03447,P03447,Cancer,Cancer,29
+T03448,P03448,Heart disease,Heart,15
+T03449,P03449,Cancer,Cancer,16
+T03450,P03450,Stroke,Stroke,5
+T03451,P03451,Hypertension,Hypertension,2
+T03452,P03452,Fracture,Fracture,12
+T03453,P03453,Diabetes,Diabetes,12
+T03454,P03454,Stroke,Stroke,4
+T03455,P03455,diabetes,diabetes,24
+T03456,P03456,asthma,asthma,26
+T03457,P03457,asthma,asthma,13
+T03458,P03458,diabetes,diabetes,3
+T03459,P03459,Fracture,Fracture,11
+T03460,P03460,Hypertension,Hypertension,22
+T03461,P03461,Cancer,Cancer,5
+T03462,P03462,Cancer,Cancer,18
+T03463,P03463,Stroke,Stroke,27
+T03464,P03464,Hypertension,Hypertension,29
+T03465,P03465,Stroke,Stroke,30
+T03466,P03466,diabetes,diabetes,4
+T03467,P03467,asthma,asthma,19
+T03468,P03468,Cancer,Cancer,21
+T03469,P03469,Diabetes,Diabetes,4
+T03470,P03470,Fracture,Fracture,4
+T03471,P03471,Cancer,Cancer,16
+T03472,P03472,Heart Disease,Heart,20
+T03473,P03473,Fracture,Fracture,30
+T03474,P03474,Diabetes,Diabetes,28
+T03475,P03475,diabetes,diabetes,25
+T03476,P03476,Heart Disease,Heart,30
+T03477,P03477,Stroke,Stroke,18
+T03478,P03478,Heart disease,Heart,22
+T03479,P03479,diabetes,diabetes,13
+T03480,P03480,Stroke,Stroke,7
+T03481,P03481,Asthma,Asthma,7
+T03482,P03482,Diabetes,Diabetes,14
+T03483,P03483,Diabetes,Diabetes,13
+T03484,P03484,diabetes,diabetes,26
+T03485,P03485,diabetes,diabetes,14
+T03486,P03486,Hypertension,Hypertension,26
+T03487,P03487,Fracture,Fracture,15
+T03488,P03488,Hypertension,Hypertension,2
+T03489,P03489,asthma,asthma,10
+T03490,P03490,Heart disease,Heart,12
+T03491,P03491,Heart Disease,Heart,29
+T03492,P03492,Stroke,Stroke,30
+T03493,P03493,Cancer,Cancer,27
+T03494,P03494,Heart Disease,Heart,25
+T03495,P03495,diabetes,diabetes,21
+T03496,P03496,Asthma,Asthma,24
+T03497,P03497,Fracture,Fracture,4
+T03498,P03498,Hypertension,Hypertension,25
+T03499,P03499,Diabetes,Diabetes,24
+T03500,P03500,Heart Disease,Heart,23
+T03501,P03501,Heart disease,Heart,7
+T03502,P03502,Fracture,Fracture,24
+T03503,P03503,diabetes,diabetes,3
+T03504,P03504,Fracture,Fracture,27
+T03505,P03505,Heart disease,Heart,6
+T03506,P03506,asthma,asthma,16
+T03507,P03507,asthma,asthma,21
+T03508,P03508,Heart Disease,Heart,5
+T03509,P03509,Heart Disease,Heart,9
+T03510,P03510,Diabetes,Diabetes,27
+T03511,P03511,Heart disease,Heart,29
+T03512,P03512,Asthma,Asthma,18
+T03513,P03513,Hypertension,Hypertension,20
+T03514,P03514,Diabetes,Diabetes,12
+T03515,P03515,Stroke,Stroke,24
+T03516,P03516,Asthma,Asthma,27
+T03517,P03517,Heart disease,Heart,30
+T03518,P03518,diabetes,diabetes,16
+T03519,P03519,Heart Disease,Heart,26
+T03520,P03520,diabetes,diabetes,25
+T03521,P03521,Diabetes,Diabetes,22
+T03522,P03522,Asthma,Asthma,28
+T03523,P03523,Stroke,Stroke,8
+T03524,P03524,diabetes,diabetes,27
+T03525,P03525,diabetes,diabetes,18
+T03526,P03526,Stroke,Stroke,26
+T03527,P03527,Fracture,Fracture,29
+T03528,P03528,Diabetes,Diabetes,22
+T03529,P03529,diabetes,diabetes,20
+T03530,P03530,Cancer,Cancer,17
+T03531,P03531,Cancer,Cancer,29
+T03532,P03532,Heart disease,Heart,13
+T03533,P03533,Diabetes,Diabetes,23
+T03534,P03534,asthma,asthma,11
+T03535,P03535,Asthma,Asthma,
+T03536,P03536,asthma,asthma,21
+T03537,P03537,Heart disease,Heart,5
+T03538,P03538,Cancer,Cancer,5
+T03539,P03539,Heart disease,Heart,5
+T03540,P03540,Heart Disease,Heart,13
+T03541,P03541,Asthma,Asthma,30
+T03542,P03542,Fracture,Fracture,2
+T03543,P03543,Hypertension,Hypertension,20
+T03544,P03544,Fracture,Fracture,8
+T03545,P03545,Asthma,Asthma,28
+T03546,P03546,diabetes,diabetes,9
+T03547,P03547,asthma,asthma,22
+T03548,P03548,Diabetes,Diabetes,12
+T03549,P03549,Asthma,Asthma,24
+T03550,P03550,Diabetes,Diabetes,16
+T03551,P03551,Stroke,Stroke,10
+T03552,P03552,Fracture,Fracture,5
+T03553,P03553,Cancer,Cancer,28
+T03554,P03554,Stroke,Stroke,24
+T03555,P03555,Heart Disease,Heart,22
+T03556,P03556,Hypertension,Hypertension,10
+T03557,P03557,Heart disease,Heart,15
+T03558,P03558,Cancer,Cancer,24
+T03559,P03559,diabetes,diabetes,8
+T03560,P03560,diabetes,diabetes,11
+T03561,P03561,asthma,asthma,30
+T03562,P03562,Heart disease,Heart,26
+T03563,P03563,Hypertension,Hypertension,11
+T03564,P03564,Cancer,Cancer,22
+T03565,P03565,Diabetes,Diabetes,26
+T03566,P03566,Fracture,Fracture,28
+T03567,P03567,Heart Disease,Heart,26
+T03568,P03568,Diabetes,Diabetes,28
+T03569,P03569,Fracture,Fracture,26
+T03570,P03570,Cancer,Cancer,29
+T03571,P03571,Asthma,Asthma,25
+T03572,P03572,asthma,asthma,23
+T03573,P03573,Cancer,Cancer,10
+T03574,P03574,asthma,asthma,19
+T03575,P03575,Asthma,Asthma,3
+T03576,P03576,Heart Disease,Heart,6
+T03577,P03577,Heart Disease,Heart,16
+T03578,P03578,Fracture,Fracture,14
+T03579,P03579,Diabetes,Diabetes,6
+T03580,P03580,diabetes,diabetes,19
+T03581,P03581,Diabetes,Diabetes,15
+T03582,P03582,Stroke,Stroke,29
+T03583,P03583,Fracture,Fracture,6
+T03584,P03584,asthma,asthma,7
+T03585,P03585,Fracture,Fracture,20
+T03586,P03586,Heart disease,Heart,26
+T03587,P03587,Asthma,Asthma,10
+T03588,P03588,Asthma,Asthma,13
+T03589,P03589,diabetes,diabetes,24
+T03590,P03590,Hypertension,Hypertension,3
+T03591,P03591,Stroke,Stroke,16
+T03592,P03592,Fracture,Fracture,11
+T03593,P03593,Heart Disease,Heart,4
+T03594,P03594,Diabetes,Diabetes,29
+T03595,P03595,Cancer,Cancer,8
+T03596,P03596,Diabetes,Diabetes,15
+T03597,P03597,Heart disease,Heart,25
+T03598,P03598,Asthma,Asthma,11
+T03599,P03599,Heart disease,Heart,28
+T03600,P03600,Fracture,Fracture,5
+T03601,P03601,Diabetes,Diabetes,23
+T03602,P03602,Cancer,Cancer,10
+T03603,P03603,Heart Disease,Heart,12
+T03604,P03604,Fracture,Fracture,30
+T03605,P03605,asthma,asthma,10
+T03606,P03606,Heart Disease,Heart,27
+T03607,P03607,Heart disease,Heart,16
+T03608,P03608,Heart disease,Heart,12
+T03609,P03609,Heart disease,Heart,24
+T03610,P03610,Asthma,Asthma,20
+T03611,P03611,Fracture,Fracture,6
+T03612,P03612,Asthma,Asthma,18
+T03613,P03613,Stroke,Stroke,18
+T03614,P03614,Hypertension,Hypertension,18
+T03615,P03615,Heart disease,Heart,7
+T03616,P03616,Heart Disease,Heart,30
+T03617,P03617,asthma,asthma,29
+T03618,P03618,Heart disease,Heart,12
+T03619,P03619,Diabetes,Diabetes,7
+T03620,P03620,Heart Disease,Heart,16
+T03621,P03621,Fracture,Fracture,10
+T03622,P03622,Stroke,Stroke,22
+T03623,P03623,Hypertension,Hypertension,2
+T03624,P03624,Heart disease,Heart,9
+T03625,P03625,Cancer,Cancer,10
+T03626,P03626,Fracture,Fracture,29
+T03627,P03627,diabetes,diabetes,9
+T03628,P03628,Fracture,Fracture,30
+T03629,P03629,Diabetes,Diabetes,12
+T03630,P03630,Cancer,Cancer,30
+T03631,P03631,Fracture,Fracture,30
+T03632,P03632,Fracture,Fracture,25
+T03633,P03633,asthma,asthma,6
+T03634,P03634,Heart Disease,Heart,7
+T03635,P03635,diabetes,diabetes,29
+T03636,P03636,Heart Disease,Heart,
+T03637,P03637,Diabetes,Diabetes,3
+T03638,P03638,Asthma,Asthma,2
+T03639,P03639,Heart Disease,Heart,8
+T03640,P03640,Asthma,Asthma,6
+T03641,P03641,Diabetes,Diabetes,8
+T03642,P03642,Heart disease,Heart,23
+T03643,P03643,Cancer,Cancer,17
+T03644,P03644,Heart disease,Heart,19
+T03645,P03645,Asthma,Asthma,13
+T03646,P03646,Heart disease,Heart,13
+T03647,P03647,Diabetes,Diabetes,27
+T03648,P03648,Diabetes,Diabetes,6
+T03649,P03649,diabetes,diabetes,12
+T03650,P03650,Stroke,Stroke,9
+T03651,P03651,Cancer,Cancer,8
+T03652,P03652,Stroke,Stroke,14
+T03653,P03653,Stroke,Stroke,20
+T03654,P03654,Asthma,Asthma,22
+T03655,P03655,Heart disease,Heart,15
+T03656,P03656,asthma,asthma,18
+T03657,P03657,Stroke,Stroke,25
+T03658,P03658,Hypertension,Hypertension,11
+T03659,P03659,Hypertension,Hypertension,4
+T03660,P03660,Hypertension,Hypertension,20
+T03661,P03661,Fracture,Fracture,19
+T03662,P03662,asthma,asthma,29
+T03663,P03663,diabetes,diabetes,28
+T03664,P03664,Heart disease,Heart,24
+T03665,P03665,Asthma,Asthma,11
+T03666,P03666,asthma,asthma,25
+T03667,P03667,asthma,asthma,9
+T03668,P03668,Heart Disease,Heart,21
+T03669,P03669,Stroke,Stroke,17
+T03670,P03670,Fracture,Fracture,8
+T03671,P03671,Fracture,Fracture,29
+T03672,P03672,asthma,asthma,20
+T03673,P03673,Asthma,Asthma,29
+T03674,P03674,Heart Disease,Heart,19
+T03675,P03675,Heart disease,Heart,4
+T03676,P03676,Cancer,Cancer,22
+T03677,P03677,Cancer,Cancer,18
+T03678,P03678,Stroke,Stroke,5
+T03679,P03679,Stroke,Stroke,15
+T03680,P03680,Stroke,Stroke,9
+T03681,P03681,Heart disease,Heart,28
+T03682,P03682,Asthma,Asthma,7
+T03683,P03683,Cancer,Cancer,27
+T03684,P03684,Diabetes,Diabetes,21
+T03685,P03685,diabetes,diabetes,5
+T03686,P03686,asthma,asthma,10
+T03687,P03687,diabetes,diabetes,14
+T03688,P03688,Cancer,Cancer,7
+T03689,P03689,Asthma,Asthma,21
+T03690,P03690,Fracture,Fracture,16
+T03691,P03691,Diabetes,Diabetes,26
+T03692,P03692,asthma,asthma,23
+T03693,P03693,Asthma,Asthma,23
+T03694,P03694,Hypertension,Hypertension,5
+T03695,P03695,diabetes,diabetes,23
+T03696,P03696,Asthma,Asthma,30
+T03697,P03697,Diabetes,Diabetes,29
+T03698,P03698,Stroke,Stroke,13
+T03699,P03699,Asthma,Asthma,17
+T03700,P03700,Stroke,Stroke,13
+T03701,P03701,diabetes,diabetes,7
+T03702,P03702,Stroke,Stroke,17
+T03703,P03703,Asthma,Asthma,21
+T03704,P03704,Diabetes,Diabetes,16
+T03705,P03705,asthma,asthma,27
+T03706,P03706,Heart disease,Heart,13
+T03707,P03707,diabetes,diabetes,8
+T03708,P03708,Cancer,Cancer,9
+T03709,P03709,Asthma,Asthma,13
+T03710,P03710,Stroke,Stroke,7
+T03711,P03711,Hypertension,Hypertension,8
+T03712,P03712,Heart disease,Heart,11
+T03713,P03713,Hypertension,Hypertension,12
+T03714,P03714,Stroke,Stroke,29
+T03715,P03715,asthma,asthma,5
+T03716,P03716,asthma,asthma,24
+T03717,P03717,Cancer,Cancer,6
+T03718,P03718,Heart Disease,Heart,24
+T03719,P03719,Heart disease,Heart,29
+T03720,P03720,Diabetes,Diabetes,21
+T03721,P03721,Asthma,Asthma,17
+T03722,P03722,Stroke,Stroke,3
+T03723,P03723,asthma,asthma,20
+T03724,P03724,Stroke,Stroke,16
+T03725,P03725,Stroke,Stroke,25
+T03726,P03726,asthma,asthma,23
+T03727,P03727,Stroke,Stroke,4
+T03728,P03728,Heart Disease,Heart,10
+T03729,P03729,Hypertension,Hypertension,19
+T03730,P03730,Heart disease,Heart,9
+T03731,P03731,Asthma,Asthma,10
+T03732,P03732,diabetes,diabetes,11
+T03733,P03733,Stroke,Stroke,17
+T03734,P03734,Hypertension,Hypertension,28
+T03735,P03735,Stroke,Stroke,20
+T03736,P03736,Heart disease,Heart,18
+T03737,P03737,Hypertension,Hypertension,
+T03738,P03738,Heart Disease,Heart,13
+T03739,P03739,Heart Disease,Heart,29
+T03740,P03740,Hypertension,Hypertension,5
+T03741,P03741,Asthma,Asthma,22
+T03742,P03742,Hypertension,Hypertension,9
+T03743,P03743,Fracture,Fracture,8
+T03744,P03744,asthma,asthma,22
+T03745,P03745,Heart Disease,Heart,21
+T03746,P03746,Diabetes,Diabetes,18
+T03747,P03747,Heart disease,Heart,4
+T03748,P03748,diabetes,diabetes,24
+T03749,P03749,Stroke,Stroke,24
+T03750,P03750,Cancer,Cancer,15
+T03751,P03751,Fracture,Fracture,24
+T03752,P03752,Asthma,Asthma,30
+T03753,P03753,Asthma,Asthma,26
+T03754,P03754,Fracture,Fracture,18
+T03755,P03755,Stroke,Stroke,28
+T03756,P03756,Cancer,Cancer,16
+T03757,P03757,Heart disease,Heart,6
+T03758,P03758,Diabetes,Diabetes,16
+T03759,P03759,diabetes,diabetes,19
+T03760,P03760,diabetes,diabetes,5
+T03761,P03761,Stroke,Stroke,21
+T03762,P03762,Asthma,Asthma,10
+T03763,P03763,diabetes,diabetes,23
+T03764,P03764,Cancer,Cancer,6
+T03765,P03765,Stroke,Stroke,26
+T03766,P03766,Hypertension,Hypertension,17
+T03767,P03767,diabetes,diabetes,18
+T03768,P03768,Fracture,Fracture,23
+T03769,P03769,Diabetes,Diabetes,24
+T03770,P03770,diabetes,diabetes,12
+T03771,P03771,Heart disease,Heart,25
+T03772,P03772,Hypertension,Hypertension,19
+T03773,P03773,Fracture,Fracture,10
+T03774,P03774,Diabetes,Diabetes,13
+T03775,P03775,Asthma,Asthma,4
+T03776,P03776,Hypertension,Hypertension,4
+T03777,P03777,Hypertension,Hypertension,27
+T03778,P03778,Hypertension,Hypertension,20
+T03779,P03779,Asthma,Asthma,24
+T03780,P03780,Hypertension,Hypertension,19
+T03781,P03781,asthma,asthma,23
+T03782,P03782,diabetes,diabetes,29
+T03783,P03783,diabetes,diabetes,17
+T03784,P03784,Asthma,Asthma,7
+T03785,P03785,Stroke,Stroke,4
+T03786,P03786,Asthma,Asthma,6
+T03787,P03787,Heart Disease,Heart,30
+T03788,P03788,Fracture,Fracture,11
+T03789,P03789,Diabetes,Diabetes,11
+T03790,P03790,asthma,asthma,4
+T03791,P03791,Heart Disease,Heart,28
+T03792,P03792,Heart Disease,Heart,18
+T03793,P03793,asthma,asthma,29
+T03794,P03794,Cancer,Cancer,20
+T03795,P03795,Heart disease,Heart,22
+T03796,P03796,Fracture,Fracture,2
+T03797,P03797,Cancer,Cancer,5
+T03798,P03798,Diabetes,Diabetes,25
+T03799,P03799,Heart disease,Heart,13
+T03800,P03800,Fracture,Fracture,23
+T03801,P03801,Asthma,Asthma,9
+T03802,P03802,diabetes,diabetes,19
+T03803,P03803,Hypertension,Hypertension,5
+T03804,P03804,Diabetes,Diabetes,2
+T03805,P03805,Asthma,Asthma,22
+T03806,P03806,Hypertension,Hypertension,7
+T03807,P03807,Asthma,Asthma,14
+T03808,P03808,Diabetes,Diabetes,28
+T03809,P03809,diabetes,diabetes,30
+T03810,P03810,Heart Disease,Heart,19
+T03811,P03811,asthma,asthma,10
+T03812,P03812,Hypertension,Hypertension,20
+T03813,P03813,Fracture,Fracture,30
+T03814,P03814,Heart Disease,Heart,14
+T03815,P03815,Heart disease,Heart,5
+T03816,P03816,asthma,asthma,3
+T03817,P03817,Cancer,Cancer,4
+T03818,P03818,Diabetes,Diabetes,19
+T03819,P03819,Stroke,Stroke,15
+T03820,P03820,Fracture,Fracture,28
+T03821,P03821,Diabetes,Diabetes,10
+T03822,P03822,Heart Disease,Heart,25
+T03823,P03823,Hypertension,Hypertension,13
+T03824,P03824,Fracture,Fracture,21
+T03825,P03825,Diabetes,Diabetes,8
+T03826,P03826,asthma,asthma,10
+T03827,P03827,Diabetes,Diabetes,28
+T03828,P03828,Stroke,Stroke,10
+T03829,P03829,Heart Disease,Heart,25
+T03830,P03830,Cancer,Cancer,7
+T03831,P03831,Heart disease,Heart,29
+T03832,P03832,asthma,asthma,20
+T03833,P03833,Cancer,Cancer,10
+T03834,P03834,Cancer,Cancer,18
+T03835,P03835,Fracture,Fracture,14
+T03836,P03836,Hypertension,Hypertension,23
+T03837,P03837,diabetes,diabetes,19
+T03838,P03838,Stroke,Stroke,
+T03839,P03839,Asthma,Asthma,26
+T03840,P03840,Cancer,Cancer,24
+T03841,P03841,Asthma,Asthma,4
+T03842,P03842,Heart Disease,Heart,4
+T03843,P03843,Heart Disease,Heart,9
+T03844,P03844,Asthma,Asthma,20
+T03845,P03845,Stroke,Stroke,3
+T03846,P03846,asthma,asthma,21
+T03847,P03847,Heart disease,Heart,26
+T03848,P03848,Fracture,Fracture,3
+T03849,P03849,Stroke,Stroke,6
+T03850,P03850,Fracture,Fracture,6
+T03851,P03851,Heart disease,Heart,12
+T03852,P03852,Heart Disease,Heart,14
+T03853,P03853,Asthma,Asthma,24
+T03854,P03854,Heart disease,Heart,14
+T03855,P03855,diabetes,diabetes,5
+T03856,P03856,Heart disease,Heart,29
+T03857,P03857,Cancer,Cancer,27
+T03858,P03858,Cancer,Cancer,17
+T03859,P03859,Diabetes,Diabetes,24
+T03860,P03860,asthma,asthma,17
+T03861,P03861,diabetes,diabetes,30
+T03862,P03862,Stroke,Stroke,7
+T03863,P03863,Hypertension,Hypertension,18
+T03864,P03864,Asthma,Asthma,17
+T03865,P03865,asthma,asthma,11
+T03866,P03866,Cancer,Cancer,17
+T03867,P03867,Diabetes,Diabetes,25
+T03868,P03868,Diabetes,Diabetes,20
+T03869,P03869,Stroke,Stroke,10
+T03870,P03870,Stroke,Stroke,5
+T03871,P03871,Asthma,Asthma,14
+T03872,P03872,Hypertension,Hypertension,21
+T03873,P03873,Asthma,Asthma,18
+T03874,P03874,Heart disease,Heart,27
+T03875,P03875,Cancer,Cancer,29
+T03876,P03876,asthma,asthma,14
+T03877,P03877,Diabetes,Diabetes,5
+T03878,P03878,Stroke,Stroke,27
+T03879,P03879,Stroke,Stroke,18
+T03880,P03880,asthma,asthma,19
+T03881,P03881,Stroke,Stroke,16
+T03882,P03882,Fracture,Fracture,18
+T03883,P03883,Hypertension,Hypertension,12
+T03884,P03884,Heart disease,Heart,25
+T03885,P03885,Heart Disease,Heart,11
+T03886,P03886,Hypertension,Hypertension,16
+T03887,P03887,asthma,asthma,27
+T03888,P03888,Heart disease,Heart,21
+T03889,P03889,Heart disease,Heart,3
+T03890,P03890,Heart disease,Heart,22
+T03891,P03891,Stroke,Stroke,4
+T03892,P03892,Hypertension,Hypertension,20
+T03893,P03893,Hypertension,Hypertension,8
+T03894,P03894,Heart Disease,Heart,14
+T03895,P03895,Diabetes,Diabetes,9
+T03896,P03896,Cancer,Cancer,24
+T03897,P03897,Stroke,Stroke,5
+T03898,P03898,asthma,asthma,25
+T03899,P03899,Fracture,Fracture,30
+T03900,P03900,Asthma,Asthma,6
+T03901,P03901,Heart disease,Heart,29
+T03902,P03902,Stroke,Stroke,19
+T03903,P03903,Heart disease,Heart,16
+T03904,P03904,Cancer,Cancer,2
+T03905,P03905,Heart disease,Heart,16
+T03906,P03906,diabetes,diabetes,16
+T03907,P03907,diabetes,diabetes,19
+T03908,P03908,Stroke,Stroke,12
+T03909,P03909,Cancer,Cancer,30
+T03910,P03910,Cancer,Cancer,2
+T03911,P03911,Fracture,Fracture,11
+T03912,P03912,Stroke,Stroke,27
+T03913,P03913,diabetes,diabetes,24
+T03914,P03914,Heart Disease,Heart,3
+T03915,P03915,Asthma,Asthma,28
+T03916,P03916,Stroke,Stroke,12
+T03917,P03917,Asthma,Asthma,12
+T03918,P03918,Stroke,Stroke,12
+T03919,P03919,Stroke,Stroke,14
+T03920,P03920,Heart disease,Heart,24
+T03921,P03921,Stroke,Stroke,25
+T03922,P03922,Heart disease,Heart,14
+T03923,P03923,Heart disease,Heart,24
+T03924,P03924,Cancer,Cancer,23
+T03925,P03925,diabetes,diabetes,8
+T03926,P03926,Hypertension,Hypertension,6
+T03927,P03927,Heart Disease,Heart,30
+T03928,P03928,Heart Disease,Heart,8
+T03929,P03929,Diabetes,Diabetes,30
+T03930,P03930,Asthma,Asthma,26
+T03931,P03931,Heart Disease,Heart,5
+T03932,P03932,Diabetes,Diabetes,9
+T03933,P03933,Fracture,Fracture,21
+T03934,P03934,Hypertension,Hypertension,19
+T03935,P03935,Heart Disease,Heart,30
+T03936,P03936,Diabetes,Diabetes,11
+T03937,P03937,Cancer,Cancer,16
+T03938,P03938,Hypertension,Hypertension,24
+T03939,P03939,Heart disease,Heart,
+T03940,P03940,Fracture,Fracture,25
+T03941,P03941,Diabetes,Diabetes,26
+T03942,P03942,diabetes,diabetes,7
+T03943,P03943,Heart disease,Heart,8
+T03944,P03944,asthma,asthma,26
+T03945,P03945,Fracture,Fracture,28
+T03946,P03946,Hypertension,Hypertension,27
+T03947,P03947,Heart disease,Heart,25
+T03948,P03948,Fracture,Fracture,22
+T03949,P03949,Fracture,Fracture,24
+T03950,P03950,asthma,asthma,21
+T03951,P03951,Diabetes,Diabetes,4
+T03952,P03952,Heart Disease,Heart,21
+T03953,P03953,Heart Disease,Heart,20
+T03954,P03954,Hypertension,Hypertension,6
+T03955,P03955,Hypertension,Hypertension,6
+T03956,P03956,Diabetes,Diabetes,4
+T03957,P03957,Heart disease,Heart,8
+T03958,P03958,Fracture,Fracture,2
+T03959,P03959,Asthma,Asthma,12
+T03960,P03960,Fracture,Fracture,30
+T03961,P03961,Asthma,Asthma,24
+T03962,P03962,Diabetes,Diabetes,23
+T03963,P03963,Cancer,Cancer,30
+T03964,P03964,asthma,asthma,3
+T03965,P03965,Fracture,Fracture,24
+T03966,P03966,Asthma,Asthma,21
+T03967,P03967,diabetes,diabetes,4
+T03968,P03968,Heart disease,Heart,21
+T03969,P03969,Heart Disease,Heart,19
+T03970,P03970,Heart Disease,Heart,8
+T03971,P03971,Stroke,Stroke,20
+T03972,P03972,Stroke,Stroke,25
+T03973,P03973,Asthma,Asthma,21
+T03974,P03974,Heart disease,Heart,19
+T03975,P03975,Heart Disease,Heart,26
+T03976,P03976,Stroke,Stroke,19
+T03977,P03977,Heart disease,Heart,4
+T03978,P03978,Heart disease,Heart,19
+T03979,P03979,Diabetes,Diabetes,24
+T03980,P03980,Diabetes,Diabetes,24
+T03981,P03981,Heart disease,Heart,9
+T03982,P03982,Cancer,Cancer,8
+T03983,P03983,Heart disease,Heart,15
+T03984,P03984,Fracture,Fracture,25
+T03985,P03985,Heart disease,Heart,24
+T03986,P03986,Stroke,Stroke,4
+T03987,P03987,Asthma,Asthma,25
+T03988,P03988,Diabetes,Diabetes,11
+T03989,P03989,Fracture,Fracture,23
+T03990,P03990,Stroke,Stroke,4
+T03991,P03991,Hypertension,Hypertension,11
+T03992,P03992,asthma,asthma,30
+T03993,P03993,Stroke,Stroke,4
+T03994,P03994,asthma,asthma,19
+T03995,P03995,diabetes,diabetes,18
+T03996,P03996,diabetes,diabetes,22
+T03997,P03997,diabetes,diabetes,2
+T03998,P03998,Stroke,Stroke,24
+T03999,P03999,Hypertension,Hypertension,21
+T04000,P04000,Asthma,Asthma,23
+T04001,P04001,Heart Disease,Heart,27
+T04002,P04002,Hypertension,Hypertension,7
+T04003,P04003,Heart Disease,Heart,9
+T04004,P04004,diabetes,diabetes,25
+T04005,P04005,Hypertension,Hypertension,17
+T04006,P04006,Cancer,Cancer,20
+T04007,P04007,asthma,asthma,24
+T04008,P04008,Cancer,Cancer,20
+T04009,P04009,Heart disease,Heart,22
+T04010,P04010,Heart Disease,Heart,3
+T04011,P04011,diabetes,diabetes,27
+T04012,P04012,Diabetes,Diabetes,23
+T04013,P04013,Cancer,Cancer,21
+T04014,P04014,Cancer,Cancer,24
+T04015,P04015,diabetes,diabetes,2
+T04016,P04016,Fracture,Fracture,7
+T04017,P04017,Heart disease,Heart,6
+T04018,P04018,Heart Disease,Heart,22
+T04019,P04019,Fracture,Fracture,11
+T04020,P04020,Fracture,Fracture,18
+T04021,P04021,Heart disease,Heart,27
+T04022,P04022,Diabetes,Diabetes,4
+T04023,P04023,Hypertension,Hypertension,30
+T04024,P04024,Asthma,Asthma,10
+T04025,P04025,diabetes,diabetes,2
+T04026,P04026,Cancer,Cancer,19
+T04027,P04027,Heart disease,Heart,11
+T04028,P04028,Asthma,Asthma,10
+T04029,P04029,Heart Disease,Heart,12
+T04030,P04030,Heart disease,Heart,17
+T04031,P04031,Asthma,Asthma,6
+T04032,P04032,Asthma,Asthma,21
+T04033,P04033,Asthma,Asthma,4
+T04034,P04034,Fracture,Fracture,18
+T04035,P04035,asthma,asthma,19
+T04036,P04036,Asthma,Asthma,17
+T04037,P04037,Fracture,Fracture,3
+T04038,P04038,Heart Disease,Heart,8
+T04039,P04039,Hypertension,Hypertension,6
+T04040,P04040,Cancer,Cancer,
+T04041,P04041,Heart disease,Heart,4
+T04042,P04042,Diabetes,Diabetes,21
+T04043,P04043,diabetes,diabetes,13
+T04044,P04044,Fracture,Fracture,4
+T04045,P04045,Hypertension,Hypertension,29
+T04046,P04046,diabetes,diabetes,2
+T04047,P04047,Asthma,Asthma,22
+T04048,P04048,Heart disease,Heart,25
+T04049,P04049,Hypertension,Hypertension,16
+T04050,P04050,Hypertension,Hypertension,24
+T04051,P04051,Heart Disease,Heart,9
+T04052,P04052,Asthma,Asthma,30
+T04053,P04053,diabetes,diabetes,2
+T04054,P04054,Heart Disease,Heart,29
+T04055,P04055,Asthma,Asthma,6
+T04056,P04056,asthma,asthma,3
+T04057,P04057,asthma,asthma,21
+T04058,P04058,Stroke,Stroke,8
+T04059,P04059,diabetes,diabetes,3
+T04060,P04060,Stroke,Stroke,26
+T04061,P04061,Heart Disease,Heart,15
+T04062,P04062,Cancer,Cancer,11
+T04063,P04063,Asthma,Asthma,30
+T04064,P04064,diabetes,diabetes,19
+T04065,P04065,Fracture,Fracture,27
+T04066,P04066,Fracture,Fracture,27
+T04067,P04067,Stroke,Stroke,28
+T04068,P04068,Cancer,Cancer,21
+T04069,P04069,Stroke,Stroke,4
+T04070,P04070,Fracture,Fracture,15
+T04071,P04071,Cancer,Cancer,16
+T04072,P04072,Heart Disease,Heart,20
+T04073,P04073,Stroke,Stroke,6
+T04074,P04074,Diabetes,Diabetes,11
+T04075,P04075,Heart Disease,Heart,26
+T04076,P04076,Hypertension,Hypertension,17
+T04077,P04077,asthma,asthma,27
+T04078,P04078,Cancer,Cancer,22
+T04079,P04079,diabetes,diabetes,3
+T04080,P04080,diabetes,diabetes,24
+T04081,P04081,Asthma,Asthma,4
+T04082,P04082,Diabetes,Diabetes,25
+T04083,P04083,Diabetes,Diabetes,18
+T04084,P04084,Heart Disease,Heart,13
+T04085,P04085,Hypertension,Hypertension,22
+T04086,P04086,Heart Disease,Heart,8
+T04087,P04087,Diabetes,Diabetes,14
+T04088,P04088,asthma,asthma,5
+T04089,P04089,diabetes,diabetes,17
+T04090,P04090,Stroke,Stroke,19
+T04091,P04091,Heart Disease,Heart,29
+T04092,P04092,asthma,asthma,30
+T04093,P04093,diabetes,diabetes,12
+T04094,P04094,Heart Disease,Heart,30
+T04095,P04095,Cancer,Cancer,18
+T04096,P04096,Diabetes,Diabetes,3
+T04097,P04097,Asthma,Asthma,21
+T04098,P04098,Stroke,Stroke,2
+T04099,P04099,asthma,asthma,10
+T04100,P04100,Stroke,Stroke,20
+T04101,P04101,Diabetes,Diabetes,13
+T04102,P04102,Diabetes,Diabetes,18
+T04103,P04103,Asthma,Asthma,22
+T04104,P04104,Hypertension,Hypertension,25
+T04105,P04105,asthma,asthma,23
+T04106,P04106,diabetes,diabetes,17
+T04107,P04107,Diabetes,Diabetes,10
+T04108,P04108,Heart Disease,Heart,27
+T04109,P04109,Diabetes,Diabetes,26
+T04110,P04110,Asthma,Asthma,17
+T04111,P04111,Heart disease,Heart,28
+T04112,P04112,Diabetes,Diabetes,30
+T04113,P04113,Cancer,Cancer,28
+T04114,P04114,Fracture,Fracture,19
+T04115,P04115,Cancer,Cancer,28
+T04116,P04116,Fracture,Fracture,12
+T04117,P04117,Heart Disease,Heart,14
+T04118,P04118,Heart disease,Heart,7
+T04119,P04119,Heart Disease,Heart,29
+T04120,P04120,Cancer,Cancer,29
+T04121,P04121,Asthma,Asthma,11
+T04122,P04122,diabetes,diabetes,9
+T04123,P04123,Heart disease,Heart,23
+T04124,P04124,Heart disease,Heart,12
+T04125,P04125,Cancer,Cancer,22
+T04126,P04126,Diabetes,Diabetes,29
+T04127,P04127,Heart Disease,Heart,23
+T04128,P04128,diabetes,diabetes,3
+T04129,P04129,Heart disease,Heart,17
+T04130,P04130,Fracture,Fracture,2
+T04131,P04131,Diabetes,Diabetes,6
+T04132,P04132,Heart disease,Heart,28
+T04133,P04133,Heart disease,Heart,12
+T04134,P04134,Cancer,Cancer,6
+T04135,P04135,Heart disease,Heart,12
+T04136,P04136,Diabetes,Diabetes,15
+T04137,P04137,Heart Disease,Heart,16
+T04138,P04138,Asthma,Asthma,23
+T04139,P04139,diabetes,diabetes,25
+T04140,P04140,asthma,asthma,17
+T04141,P04141,Diabetes,Diabetes,
+T04142,P04142,Cancer,Cancer,29
+T04143,P04143,Cancer,Cancer,8
+T04144,P04144,Heart Disease,Heart,18
+T04145,P04145,Stroke,Stroke,29
+T04146,P04146,Diabetes,Diabetes,10
+T04147,P04147,diabetes,diabetes,14
+T04148,P04148,diabetes,diabetes,11
+T04149,P04149,Heart disease,Heart,12
+T04150,P04150,Asthma,Asthma,9
+T04151,P04151,Asthma,Asthma,20
+T04152,P04152,diabetes,diabetes,24
+T04153,P04153,Cancer,Cancer,20
+T04154,P04154,Heart Disease,Heart,28
+T04155,P04155,Asthma,Asthma,28
+T04156,P04156,asthma,asthma,23
+T04157,P04157,asthma,asthma,16
+T04158,P04158,Asthma,Asthma,22
+T04159,P04159,Stroke,Stroke,22
+T04160,P04160,Asthma,Asthma,25
+T04161,P04161,Heart disease,Heart,8
+T04162,P04162,Heart disease,Heart,3
+T04163,P04163,Asthma,Asthma,28
+T04164,P04164,Diabetes,Diabetes,8
+T04165,P04165,Diabetes,Diabetes,23
+T04166,P04166,asthma,asthma,19
+T04167,P04167,diabetes,diabetes,18
+T04168,P04168,diabetes,diabetes,13
+T04169,P04169,Cancer,Cancer,13
+T04170,P04170,Heart disease,Heart,12
+T04171,P04171,Diabetes,Diabetes,29
+T04172,P04172,Stroke,Stroke,6
+T04173,P04173,Hypertension,Hypertension,6
+T04174,P04174,asthma,asthma,28
+T04175,P04175,Cancer,Cancer,23
+T04176,P04176,Diabetes,Diabetes,25
+T04177,P04177,Hypertension,Hypertension,27
+T04178,P04178,Hypertension,Hypertension,10
+T04179,P04179,Hypertension,Hypertension,4
+T04180,P04180,Hypertension,Hypertension,22
+T04181,P04181,Asthma,Asthma,26
+T04182,P04182,Heart disease,Heart,16
+T04183,P04183,Heart disease,Heart,9
+T04184,P04184,Heart disease,Heart,4
+T04185,P04185,Heart Disease,Heart,28
+T04186,P04186,Hypertension,Hypertension,29
+T04187,P04187,Heart disease,Heart,24
+T04188,P04188,Cancer,Cancer,14
+T04189,P04189,asthma,asthma,12
+T04190,P04190,Stroke,Stroke,26
+T04191,P04191,Cancer,Cancer,12
+T04192,P04192,Diabetes,Diabetes,29
+T04193,P04193,Heart Disease,Heart,30
+T04194,P04194,Heart Disease,Heart,2
+T04195,P04195,Cancer,Cancer,2
+T04196,P04196,asthma,asthma,8
+T04197,P04197,Cancer,Cancer,24
+T04198,P04198,Asthma,Asthma,26
+T04199,P04199,Fracture,Fracture,28
+T04200,P04200,Hypertension,Hypertension,30
+T04201,P04201,Heart Disease,Heart,16
+T04202,P04202,Hypertension,Hypertension,13
+T04203,P04203,diabetes,diabetes,8
+T04204,P04204,Heart Disease,Heart,26
+T04205,P04205,Asthma,Asthma,14
+T04206,P04206,asthma,asthma,4
+T04207,P04207,Cancer,Cancer,8
+T04208,P04208,asthma,asthma,30
+T04209,P04209,Hypertension,Hypertension,5
+T04210,P04210,Asthma,Asthma,15
+T04211,P04211,diabetes,diabetes,22
+T04212,P04212,Heart Disease,Heart,3
+T04213,P04213,diabetes,diabetes,25
+T04214,P04214,Asthma,Asthma,3
+T04215,P04215,Fracture,Fracture,20
+T04216,P04216,Cancer,Cancer,9
+T04217,P04217,Asthma,Asthma,2
+T04218,P04218,Diabetes,Diabetes,16
+T04219,P04219,Fracture,Fracture,27
+T04220,P04220,diabetes,diabetes,27
+T04221,P04221,Stroke,Stroke,22
+T04222,P04222,Diabetes,Diabetes,5
+T04223,P04223,Diabetes,Diabetes,19
+T04224,P04224,Heart disease,Heart,26
+T04225,P04225,diabetes,diabetes,29
+T04226,P04226,Fracture,Fracture,27
+T04227,P04227,Heart disease,Heart,11
+T04228,P04228,Hypertension,Hypertension,25
+T04229,P04229,Hypertension,Hypertension,15
+T04230,P04230,Heart disease,Heart,7
+T04231,P04231,diabetes,diabetes,13
+T04232,P04232,asthma,asthma,9
+T04233,P04233,Heart disease,Heart,29
+T04234,P04234,Hypertension,Hypertension,27
+T04235,P04235,Fracture,Fracture,29
+T04236,P04236,asthma,asthma,8
+T04237,P04237,diabetes,diabetes,17
+T04238,P04238,asthma,asthma,6
+T04239,P04239,Cancer,Cancer,14
+T04240,P04240,diabetes,diabetes,27
+T04241,P04241,Heart Disease,Heart,23
+T04242,P04242,Heart Disease,Heart,
+T04243,P04243,Asthma,Asthma,2
+T04244,P04244,Diabetes,Diabetes,3
+T04245,P04245,Heart Disease,Heart,12
+T04246,P04246,Hypertension,Hypertension,8
+T04247,P04247,Fracture,Fracture,28
+T04248,P04248,asthma,asthma,29
+T04249,P04249,Cancer,Cancer,4
+T04250,P04250,Cancer,Cancer,9
+T04251,P04251,asthma,asthma,3
+T04252,P04252,Diabetes,Diabetes,7
+T04253,P04253,Heart Disease,Heart,19
+T04254,P04254,Fracture,Fracture,25
+T04255,P04255,Asthma,Asthma,2
+T04256,P04256,Cancer,Cancer,20
+T04257,P04257,Fracture,Fracture,13
+T04258,P04258,Fracture,Fracture,24
+T04259,P04259,Cancer,Cancer,25
+T04260,P04260,Asthma,Asthma,29
+T04261,P04261,Heart Disease,Heart,9
+T04262,P04262,asthma,asthma,4
+T04263,P04263,Cancer,Cancer,23
+T04264,P04264,Diabetes,Diabetes,24
+T04265,P04265,Heart Disease,Heart,27
+T04266,P04266,Stroke,Stroke,11
+T04267,P04267,Heart Disease,Heart,5
+T04268,P04268,Asthma,Asthma,20
+T04269,P04269,Heart Disease,Heart,29
+T04270,P04270,Cancer,Cancer,24
+T04271,P04271,Cancer,Cancer,11
+T04272,P04272,diabetes,diabetes,14
+T04273,P04273,Heart disease,Heart,30
+T04274,P04274,Asthma,Asthma,30
+T04275,P04275,Asthma,Asthma,17
+T04276,P04276,Fracture,Fracture,22
+T04277,P04277,Hypertension,Hypertension,7
+T04278,P04278,Fracture,Fracture,22
+T04279,P04279,Hypertension,Hypertension,15
+T04280,P04280,Hypertension,Hypertension,27
+T04281,P04281,Heart disease,Heart,21
+T04282,P04282,Heart Disease,Heart,2
+T04283,P04283,asthma,asthma,13
+T04284,P04284,diabetes,diabetes,28
+T04285,P04285,asthma,asthma,25
+T04286,P04286,Fracture,Fracture,2
+T04287,P04287,Asthma,Asthma,28
+T04288,P04288,asthma,asthma,29
+T04289,P04289,Heart disease,Heart,25
+T04290,P04290,Heart disease,Heart,2
+T04291,P04291,Asthma,Asthma,9
+T04292,P04292,Asthma,Asthma,21
+T04293,P04293,Asthma,Asthma,19
+T04294,P04294,diabetes,diabetes,13
+T04295,P04295,Hypertension,Hypertension,19
+T04296,P04296,Cancer,Cancer,28
+T04297,P04297,Heart Disease,Heart,24
+T04298,P04298,Stroke,Stroke,18
+T04299,P04299,Fracture,Fracture,11
+T04300,P04300,Asthma,Asthma,9
+T04301,P04301,Heart disease,Heart,23
+T04302,P04302,Fracture,Fracture,8
+T04303,P04303,diabetes,diabetes,10
+T04304,P04304,Diabetes,Diabetes,6
+T04305,P04305,Hypertension,Hypertension,2
+T04306,P04306,Heart disease,Heart,2
+T04307,P04307,Diabetes,Diabetes,19
+T04308,P04308,diabetes,diabetes,27
+T04309,P04309,Diabetes,Diabetes,9
+T04310,P04310,Hypertension,Hypertension,4
+T04311,P04311,diabetes,diabetes,5
+T04312,P04312,Asthma,Asthma,2
+T04313,P04313,Fracture,Fracture,13
+T04314,P04314,asthma,asthma,20
+T04315,P04315,Fracture,Fracture,19
+T04316,P04316,Stroke,Stroke,7
+T04317,P04317,diabetes,diabetes,29
+T04318,P04318,Stroke,Stroke,8
+T04319,P04319,Asthma,Asthma,18
+T04320,P04320,Asthma,Asthma,25
+T04321,P04321,Asthma,Asthma,9
+T04322,P04322,Diabetes,Diabetes,12
+T04323,P04323,Heart disease,Heart,11
+T04324,P04324,Asthma,Asthma,26
+T04325,P04325,Fracture,Fracture,12
+T04326,P04326,asthma,asthma,2
+T04327,P04327,Cancer,Cancer,6
+T04328,P04328,Heart disease,Heart,19
+T04329,P04329,Heart Disease,Heart,18
+T04330,P04330,Cancer,Cancer,19
+T04331,P04331,diabetes,diabetes,14
+T04332,P04332,diabetes,diabetes,9
+T04333,P04333,Fracture,Fracture,22
+T04334,P04334,diabetes,diabetes,20
+T04335,P04335,asthma,asthma,23
+T04336,P04336,Cancer,Cancer,19
+T04337,P04337,Diabetes,Diabetes,17
+T04338,P04338,Heart disease,Heart,27
+T04339,P04339,Heart Disease,Heart,17
+T04340,P04340,diabetes,diabetes,11
+T04341,P04341,Stroke,Stroke,9
+T04342,P04342,asthma,asthma,12
+T04343,P04343,Asthma,Asthma,
+T04344,P04344,Heart Disease,Heart,19
+T04345,P04345,Asthma,Asthma,15
+T04346,P04346,Cancer,Cancer,28
+T04347,P04347,Stroke,Stroke,8
+T04348,P04348,Cancer,Cancer,16
+T04349,P04349,Heart Disease,Heart,3
+T04350,P04350,Heart disease,Heart,29
+T04351,P04351,Heart Disease,Heart,8
+T04352,P04352,Cancer,Cancer,9
+T04353,P04353,Heart Disease,Heart,26
+T04354,P04354,Heart Disease,Heart,17
+T04355,P04355,Diabetes,Diabetes,11
+T04356,P04356,Hypertension,Hypertension,10
+T04357,P04357,Heart disease,Heart,30
+T04358,P04358,Heart Disease,Heart,17
+T04359,P04359,Asthma,Asthma,2
+T04360,P04360,Heart Disease,Heart,14
+T04361,P04361,asthma,asthma,12
+T04362,P04362,Cancer,Cancer,12
+T04363,P04363,Hypertension,Hypertension,7
+T04364,P04364,Asthma,Asthma,13
+T04365,P04365,Cancer,Cancer,3
+T04366,P04366,Heart Disease,Heart,9
+T04367,P04367,Heart disease,Heart,5
+T04368,P04368,Diabetes,Diabetes,18
+T04369,P04369,diabetes,diabetes,18
+T04370,P04370,asthma,asthma,22
+T04371,P04371,Asthma,Asthma,25
+T04372,P04372,Cancer,Cancer,25
+T04373,P04373,Diabetes,Diabetes,28
+T04374,P04374,asthma,asthma,25
+T04375,P04375,diabetes,diabetes,10
+T04376,P04376,Heart disease,Heart,23
+T04377,P04377,Cancer,Cancer,18
+T04378,P04378,Heart Disease,Heart,17
+T04379,P04379,Heart disease,Heart,17
+T04380,P04380,Asthma,Asthma,30
+T04381,P04381,Hypertension,Hypertension,3
+T04382,P04382,Hypertension,Hypertension,20
+T04383,P04383,Asthma,Asthma,23
+T04384,P04384,Asthma,Asthma,17
+T04385,P04385,diabetes,diabetes,19
+T04386,P04386,diabetes,diabetes,25
+T04387,P04387,Heart disease,Heart,28
+T04388,P04388,Heart Disease,Heart,11
+T04389,P04389,Diabetes,Diabetes,15
+T04390,P04390,Heart Disease,Heart,30
+T04391,P04391,diabetes,diabetes,25
+T04392,P04392,Asthma,Asthma,15
+T04393,P04393,diabetes,diabetes,9
+T04394,P04394,Heart disease,Heart,13
+T04395,P04395,Asthma,Asthma,16
+T04396,P04396,Heart disease,Heart,27
+T04397,P04397,Heart disease,Heart,17
+T04398,P04398,Diabetes,Diabetes,7
+T04399,P04399,asthma,asthma,12
+T04400,P04400,asthma,asthma,26
+T04401,P04401,Stroke,Stroke,8
+T04402,P04402,Asthma,Asthma,22
+T04403,P04403,Cancer,Cancer,5
+T04404,P04404,Asthma,Asthma,5
+T04405,P04405,asthma,asthma,16
+T04406,P04406,Fracture,Fracture,23
+T04407,P04407,diabetes,diabetes,19
+T04408,P04408,Diabetes,Diabetes,25
+T04409,P04409,Fracture,Fracture,10
+T04410,P04410,Hypertension,Hypertension,6
+T04411,P04411,Heart Disease,Heart,26
+T04412,P04412,Heart disease,Heart,21
+T04413,P04413,Stroke,Stroke,15
+T04414,P04414,asthma,asthma,6
+T04415,P04415,Cancer,Cancer,22
+T04416,P04416,asthma,asthma,24
+T04417,P04417,diabetes,diabetes,22
+T04418,P04418,Asthma,Asthma,5
+T04419,P04419,Hypertension,Hypertension,2
+T04420,P04420,Cancer,Cancer,26
+T04421,P04421,Heart Disease,Heart,26
+T04422,P04422,Fracture,Fracture,10
+T04423,P04423,asthma,asthma,23
+T04424,P04424,Fracture,Fracture,10
+T04425,P04425,asthma,asthma,15
+T04426,P04426,asthma,asthma,29
+T04427,P04427,Hypertension,Hypertension,22
+T04428,P04428,Hypertension,Hypertension,6
+T04429,P04429,asthma,asthma,2
+T04430,P04430,Fracture,Fracture,15
+T04431,P04431,Heart disease,Heart,9
+T04432,P04432,Fracture,Fracture,28
+T04433,P04433,Heart disease,Heart,15
+T04434,P04434,Asthma,Asthma,29
+T04435,P04435,Heart disease,Heart,13
+T04436,P04436,Heart disease,Heart,17
+T04437,P04437,diabetes,diabetes,7
+T04438,P04438,diabetes,diabetes,11
+T04439,P04439,Stroke,Stroke,9
+T04440,P04440,Diabetes,Diabetes,17
+T04441,P04441,Diabetes,Diabetes,22
+T04442,P04442,Diabetes,Diabetes,21
+T04443,P04443,asthma,asthma,18
+T04444,P04444,Heart disease,Heart,
+T04445,P04445,Diabetes,Diabetes,10
+T04446,P04446,Heart Disease,Heart,26
+T04447,P04447,Cancer,Cancer,30
+T04448,P04448,Stroke,Stroke,8
+T04449,P04449,Heart Disease,Heart,9
+T04450,P04450,diabetes,diabetes,3
+T04451,P04451,Heart Disease,Heart,14
+T04452,P04452,asthma,asthma,24
+T04453,P04453,asthma,asthma,17
+T04454,P04454,Asthma,Asthma,17
+T04455,P04455,Asthma,Asthma,23
+T04456,P04456,Asthma,Asthma,21
+T04457,P04457,Heart disease,Heart,14
+T04458,P04458,Stroke,Stroke,17
+T04459,P04459,Heart disease,Heart,12
+T04460,P04460,Heart Disease,Heart,5
+T04461,P04461,Stroke,Stroke,2
+T04462,P04462,Cancer,Cancer,9
+T04463,P04463,Asthma,Asthma,3
+T04464,P04464,Heart Disease,Heart,28
+T04465,P04465,Cancer,Cancer,20
+T04466,P04466,Fracture,Fracture,27
+T04467,P04467,Asthma,Asthma,26
+T04468,P04468,Diabetes,Diabetes,21
+T04469,P04469,Heart disease,Heart,26
+T04470,P04470,Hypertension,Hypertension,8
+T04471,P04471,Asthma,Asthma,21
+T04472,P04472,Stroke,Stroke,10
+T04473,P04473,Fracture,Fracture,27
+T04474,P04474,Hypertension,Hypertension,8
+T04475,P04475,asthma,asthma,9
+T04476,P04476,Hypertension,Hypertension,24
+T04477,P04477,asthma,asthma,29
+T04478,P04478,Stroke,Stroke,7
+T04479,P04479,diabetes,diabetes,25
+T04480,P04480,asthma,asthma,11
+T04481,P04481,Heart Disease,Heart,24
+T04482,P04482,Stroke,Stroke,6
+T04483,P04483,Stroke,Stroke,16
+T04484,P04484,diabetes,diabetes,18
+T04485,P04485,Cancer,Cancer,21
+T04486,P04486,Heart Disease,Heart,15
+T04487,P04487,Fracture,Fracture,3
+T04488,P04488,diabetes,diabetes,8
+T04489,P04489,Stroke,Stroke,4
+T04490,P04490,Hypertension,Hypertension,4
+T04491,P04491,Stroke,Stroke,14
+T04492,P04492,Fracture,Fracture,9
+T04493,P04493,Heart Disease,Heart,27
+T04494,P04494,Heart Disease,Heart,5
+T04495,P04495,Fracture,Fracture,22
+T04496,P04496,Fracture,Fracture,13
+T04497,P04497,Hypertension,Hypertension,10
+T04498,P04498,diabetes,diabetes,11
+T04499,P04499,Asthma,Asthma,17
+T04500,P04500,Fracture,Fracture,25
+T04501,P04501,Heart Disease,Heart,2
+T04502,P04502,Asthma,Asthma,12
+T04503,P04503,Heart disease,Heart,30
+T04504,P04504,Heart disease,Heart,16
+T04505,P04505,Stroke,Stroke,20
+T04506,P04506,Fracture,Fracture,21
+T04507,P04507,diabetes,diabetes,24
+T04508,P04508,Stroke,Stroke,6
+T04509,P04509,Fracture,Fracture,14
+T04510,P04510,Heart Disease,Heart,27
+T04511,P04511,Asthma,Asthma,9
+T04512,P04512,Hypertension,Hypertension,15
+T04513,P04513,Diabetes,Diabetes,26
+T04514,P04514,Stroke,Stroke,9
+T04515,P04515,Diabetes,Diabetes,3
+T04516,P04516,Fracture,Fracture,20
+T04517,P04517,Cancer,Cancer,7
+T04518,P04518,Heart disease,Heart,24
+T04519,P04519,Heart disease,Heart,22
+T04520,P04520,Cancer,Cancer,20
+T04521,P04521,diabetes,diabetes,17
+T04522,P04522,Cancer,Cancer,17
+T04523,P04523,Heart disease,Heart,23
+T04524,P04524,asthma,asthma,29
+T04525,P04525,Stroke,Stroke,9
+T04526,P04526,Hypertension,Hypertension,7
+T04527,P04527,diabetes,diabetes,5
+T04528,P04528,Cancer,Cancer,16
+T04529,P04529,Cancer,Cancer,30
+T04530,P04530,diabetes,diabetes,25
+T04531,P04531,Stroke,Stroke,6
+T04532,P04532,Stroke,Stroke,22
+T04533,P04533,Hypertension,Hypertension,18
+T04534,P04534,Fracture,Fracture,16
+T04535,P04535,Heart disease,Heart,12
+T04536,P04536,diabetes,diabetes,3
+T04537,P04537,asthma,asthma,29
+T04538,P04538,Hypertension,Hypertension,16
+T04539,P04539,Heart disease,Heart,11
+T04540,P04540,Asthma,Asthma,26
+T04541,P04541,Stroke,Stroke,18
+T04542,P04542,asthma,asthma,27
+T04543,P04543,Diabetes,Diabetes,3
+T04544,P04544,Hypertension,Hypertension,11
+T04545,P04545,Fracture,Fracture,
+T04546,P04546,Hypertension,Hypertension,23
+T04547,P04547,Asthma,Asthma,16
+T04548,P04548,Hypertension,Hypertension,7
+T04549,P04549,Hypertension,Hypertension,9
+T04550,P04550,Stroke,Stroke,26
+T04551,P04551,diabetes,diabetes,14
+T04552,P04552,Stroke,Stroke,29
+T04553,P04553,Heart Disease,Heart,25
+T04554,P04554,Hypertension,Hypertension,3
+T04555,P04555,Cancer,Cancer,16
+T04556,P04556,Hypertension,Hypertension,30
+T04557,P04557,Heart Disease,Heart,20
+T04558,P04558,Stroke,Stroke,19
+T04559,P04559,Stroke,Stroke,9
+T04560,P04560,Stroke,Stroke,25
+T04561,P04561,Fracture,Fracture,16
+T04562,P04562,Stroke,Stroke,9
+T04563,P04563,Hypertension,Hypertension,14
+T04564,P04564,Stroke,Stroke,9
+T04565,P04565,asthma,asthma,6
+T04566,P04566,Fracture,Fracture,9
+T04567,P04567,Stroke,Stroke,2
+T04568,P04568,Diabetes,Diabetes,27
+T04569,P04569,Fracture,Fracture,13
+T04570,P04570,asthma,asthma,2
+T04571,P04571,Asthma,Asthma,2
+T04572,P04572,Cancer,Cancer,10
+T04573,P04573,diabetes,diabetes,24
+T04574,P04574,Heart disease,Heart,18
+T04575,P04575,Heart disease,Heart,26
+T04576,P04576,Cancer,Cancer,20
+T04577,P04577,Diabetes,Diabetes,5
+T04578,P04578,diabetes,diabetes,16
+T04579,P04579,asthma,asthma,6
+T04580,P04580,Cancer,Cancer,22
+T04581,P04581,Heart Disease,Heart,2
+T04582,P04582,Fracture,Fracture,21
+T04583,P04583,Diabetes,Diabetes,17
+T04584,P04584,Fracture,Fracture,29
+T04585,P04585,Hypertension,Hypertension,23
+T04586,P04586,Cancer,Cancer,25
+T04587,P04587,Cancer,Cancer,23
+T04588,P04588,Stroke,Stroke,5
+T04589,P04589,Cancer,Cancer,7
+T04590,P04590,asthma,asthma,15
+T04591,P04591,diabetes,diabetes,15
+T04592,P04592,Stroke,Stroke,10
+T04593,P04593,Diabetes,Diabetes,30
+T04594,P04594,Heart Disease,Heart,19
+T04595,P04595,Diabetes,Diabetes,6
+T04596,P04596,Cancer,Cancer,2
+T04597,P04597,Heart Disease,Heart,7
+T04598,P04598,Heart Disease,Heart,23
+T04599,P04599,Asthma,Asthma,11
+T04600,P04600,Stroke,Stroke,15
+T04601,P04601,diabetes,diabetes,24
+T04602,P04602,Stroke,Stroke,12
+T04603,P04603,diabetes,diabetes,17
+T04604,P04604,asthma,asthma,19
+T04605,P04605,Stroke,Stroke,14
+T04606,P04606,Stroke,Stroke,7
+T04607,P04607,Stroke,Stroke,13
+T04608,P04608,Fracture,Fracture,28
+T04609,P04609,Diabetes,Diabetes,11
+T04610,P04610,Heart disease,Heart,19
+T04611,P04611,Cancer,Cancer,8
+T04612,P04612,Heart disease,Heart,26
+T04613,P04613,Hypertension,Hypertension,7
+T04614,P04614,Heart disease,Heart,23
+T04615,P04615,Cancer,Cancer,10
+T04616,P04616,Diabetes,Diabetes,21
+T04617,P04617,Hypertension,Hypertension,24
+T04618,P04618,diabetes,diabetes,7
+T04619,P04619,Stroke,Stroke,30
+T04620,P04620,Hypertension,Hypertension,4
+T04621,P04621,Fracture,Fracture,14
+T04622,P04622,Asthma,Asthma,20
+T04623,P04623,Cancer,Cancer,13
+T04624,P04624,Fracture,Fracture,16
+T04625,P04625,Asthma,Asthma,7
+T04626,P04626,Fracture,Fracture,8
+T04627,P04627,asthma,asthma,20
+T04628,P04628,Cancer,Cancer,10
+T04629,P04629,Diabetes,Diabetes,23
+T04630,P04630,Fracture,Fracture,2
+T04631,P04631,asthma,asthma,11
+T04632,P04632,Fracture,Fracture,6
+T04633,P04633,Diabetes,Diabetes,26
+T04634,P04634,Hypertension,Hypertension,6
+T04635,P04635,Stroke,Stroke,10
+T04636,P04636,Stroke,Stroke,24
+T04637,P04637,asthma,asthma,27
+T04638,P04638,Heart Disease,Heart,20
+T04639,P04639,Stroke,Stroke,16
+T04640,P04640,Hypertension,Hypertension,28
+T04641,P04641,Asthma,Asthma,30
+T04642,P04642,Fracture,Fracture,5
+T04643,P04643,Cancer,Cancer,21
+T04644,P04644,diabetes,diabetes,24
+T04645,P04645,Stroke,Stroke,15
+T04646,P04646,Cancer,Cancer,
+T04647,P04647,Diabetes,Diabetes,17
+T04648,P04648,Heart disease,Heart,30
+T04649,P04649,diabetes,diabetes,25
+T04650,P04650,Diabetes,Diabetes,2
+T04651,P04651,diabetes,diabetes,16
+T04652,P04652,Hypertension,Hypertension,17
+T04653,P04653,Fracture,Fracture,14
+T04654,P04654,Stroke,Stroke,23
+T04655,P04655,Diabetes,Diabetes,3
+T04656,P04656,Heart Disease,Heart,7
+T04657,P04657,Diabetes,Diabetes,2
+T04658,P04658,Heart disease,Heart,24
+T04659,P04659,Stroke,Stroke,11
+T04660,P04660,Heart Disease,Heart,8
+T04661,P04661,Cancer,Cancer,7
+T04662,P04662,Heart Disease,Heart,9
+T04663,P04663,asthma,asthma,12
+T04664,P04664,Heart Disease,Heart,6
+T04665,P04665,Diabetes,Diabetes,21
+T04666,P04666,Asthma,Asthma,5
+T04667,P04667,Heart Disease,Heart,10
+T04668,P04668,asthma,asthma,22
+T04669,P04669,Stroke,Stroke,7
+T04670,P04670,diabetes,diabetes,6
+T04671,P04671,Diabetes,Diabetes,7
+T04672,P04672,asthma,asthma,10
+T04673,P04673,Diabetes,Diabetes,20
+T04674,P04674,Asthma,Asthma,5
+T04675,P04675,diabetes,diabetes,30
+T04676,P04676,Heart disease,Heart,20
+T04677,P04677,Stroke,Stroke,12
+T04678,P04678,Asthma,Asthma,13
+T04679,P04679,Heart Disease,Heart,12
+T04680,P04680,asthma,asthma,5
+T04681,P04681,Fracture,Fracture,26
+T04682,P04682,Stroke,Stroke,12
+T04683,P04683,Stroke,Stroke,24
+T04684,P04684,Hypertension,Hypertension,19
+T04685,P04685,Heart disease,Heart,15
+T04686,P04686,Asthma,Asthma,29
+T04687,P04687,Hypertension,Hypertension,12
+T04688,P04688,Diabetes,Diabetes,28
+T04689,P04689,Hypertension,Hypertension,22
+T04690,P04690,Heart Disease,Heart,15
+T04691,P04691,Heart Disease,Heart,18
+T04692,P04692,Hypertension,Hypertension,27
+T04693,P04693,Fracture,Fracture,13
+T04694,P04694,Fracture,Fracture,6
+T04695,P04695,Diabetes,Diabetes,25
+T04696,P04696,Heart disease,Heart,24
+T04697,P04697,diabetes,diabetes,11
+T04698,P04698,Heart disease,Heart,29
+T04699,P04699,Diabetes,Diabetes,14
+T04700,P04700,diabetes,diabetes,11
+T04701,P04701,Heart disease,Heart,27
+T04702,P04702,Heart Disease,Heart,18
+T04703,P04703,Cancer,Cancer,13
+T04704,P04704,Cancer,Cancer,20
+T04705,P04705,Hypertension,Hypertension,11
+T04706,P04706,Fracture,Fracture,3
+T04707,P04707,Hypertension,Hypertension,23
+T04708,P04708,Hypertension,Hypertension,28
+T04709,P04709,Diabetes,Diabetes,15
+T04710,P04710,Hypertension,Hypertension,20
+T04711,P04711,Cancer,Cancer,5
+T04712,P04712,Cancer,Cancer,20
+T04713,P04713,Heart Disease,Heart,9
+T04714,P04714,Fracture,Fracture,4
+T04715,P04715,Diabetes,Diabetes,10
+T04716,P04716,Asthma,Asthma,20
+T04717,P04717,Diabetes,Diabetes,17
+T04718,P04718,diabetes,diabetes,23
+T04719,P04719,diabetes,diabetes,9
+T04720,P04720,Stroke,Stroke,10
+T04721,P04721,Stroke,Stroke,19
+T04722,P04722,Hypertension,Hypertension,3
+T04723,P04723,Stroke,Stroke,24
+T04724,P04724,Cancer,Cancer,30
+T04725,P04725,Cancer,Cancer,16
+T04726,P04726,Cancer,Cancer,12
+T04727,P04727,Cancer,Cancer,2
+T04728,P04728,Heart disease,Heart,21
+T04729,P04729,diabetes,diabetes,6
+T04730,P04730,Fracture,Fracture,27
+T04731,P04731,Fracture,Fracture,21
+T04732,P04732,Diabetes,Diabetes,12
+T04733,P04733,Heart disease,Heart,23
+T04734,P04734,Cancer,Cancer,25
+T04735,P04735,Fracture,Fracture,12
+T04736,P04736,diabetes,diabetes,25
+T04737,P04737,Cancer,Cancer,24
+T04738,P04738,Hypertension,Hypertension,12
+T04739,P04739,Heart disease,Heart,25
+T04740,P04740,Asthma,Asthma,7
+T04741,P04741,Hypertension,Hypertension,16
+T04742,P04742,Diabetes,Diabetes,9
+T04743,P04743,Hypertension,Hypertension,25
+T04744,P04744,Fracture,Fracture,25
+T04745,P04745,Fracture,Fracture,8
+T04746,P04746,Heart disease,Heart,18
+T04747,P04747,Diabetes,Diabetes,
+T04748,P04748,Diabetes,Diabetes,10
+T04749,P04749,diabetes,diabetes,10
+T04750,P04750,Heart disease,Heart,7
+T04751,P04751,Stroke,Stroke,25
+T04752,P04752,Hypertension,Hypertension,30
+T04753,P04753,Asthma,Asthma,22
+T04754,P04754,Asthma,Asthma,5
+T04755,P04755,Diabetes,Diabetes,28
+T04756,P04756,Asthma,Asthma,26
+T04757,P04757,Heart Disease,Heart,8
+T04758,P04758,Heart Disease,Heart,2
+T04759,P04759,Diabetes,Diabetes,30
+T04760,P04760,Cancer,Cancer,14
+T04761,P04761,asthma,asthma,19
+T04762,P04762,Stroke,Stroke,7
+T04763,P04763,Heart disease,Heart,9
+T04764,P04764,Asthma,Asthma,19
+T04765,P04765,Fracture,Fracture,18
+T04766,P04766,diabetes,diabetes,21
+T04767,P04767,Heart disease,Heart,11
+T04768,P04768,Heart Disease,Heart,30
+T04769,P04769,diabetes,diabetes,4
+T04770,P04770,Asthma,Asthma,16
+T04771,P04771,Asthma,Asthma,14
+T04772,P04772,Fracture,Fracture,12
+T04773,P04773,Fracture,Fracture,9
+T04774,P04774,Heart Disease,Heart,24
+T04775,P04775,asthma,asthma,4
+T04776,P04776,Asthma,Asthma,5
+T04777,P04777,asthma,asthma,30
+T04778,P04778,Stroke,Stroke,4
+T04779,P04779,Fracture,Fracture,8
+T04780,P04780,diabetes,diabetes,7
+T04781,P04781,Asthma,Asthma,9
+T04782,P04782,Heart Disease,Heart,5
+T04783,P04783,Hypertension,Hypertension,16
+T04784,P04784,Hypertension,Hypertension,6
+T04785,P04785,Asthma,Asthma,17
+T04786,P04786,Stroke,Stroke,5
+T04787,P04787,Fracture,Fracture,10
+T04788,P04788,Diabetes,Diabetes,9
+T04789,P04789,asthma,asthma,22
+T04790,P04790,Heart disease,Heart,24
+T04791,P04791,Diabetes,Diabetes,3
+T04792,P04792,asthma,asthma,14
+T04793,P04793,Cancer,Cancer,10
+T04794,P04794,diabetes,diabetes,29
+T04795,P04795,Fracture,Fracture,6
+T04796,P04796,Fracture,Fracture,8
+T04797,P04797,Asthma,Asthma,3
+T04798,P04798,Stroke,Stroke,20
+T04799,P04799,Fracture,Fracture,27
+T04800,P04800,asthma,asthma,10
+T04801,P04801,diabetes,diabetes,9
+T04802,P04802,Heart Disease,Heart,14
+T04803,P04803,Heart disease,Heart,24
+T04804,P04804,Diabetes,Diabetes,29
+T04805,P04805,diabetes,diabetes,27
+T04806,P04806,asthma,asthma,3
+T04807,P04807,Cancer,Cancer,22
+T04808,P04808,Hypertension,Hypertension,6
+T04809,P04809,Heart Disease,Heart,21
+T04810,P04810,Cancer,Cancer,8
+T04811,P04811,Diabetes,Diabetes,20
+T04812,P04812,Heart Disease,Heart,6
+T04813,P04813,diabetes,diabetes,26
+T04814,P04814,Heart disease,Heart,8
+T04815,P04815,Fracture,Fracture,2
+T04816,P04816,Asthma,Asthma,23
+T04817,P04817,asthma,asthma,27
+T04818,P04818,Diabetes,Diabetes,8
+T04819,P04819,Cancer,Cancer,15
+T04820,P04820,Diabetes,Diabetes,17
+T04821,P04821,Heart Disease,Heart,21
+T04822,P04822,Asthma,Asthma,8
+T04823,P04823,Diabetes,Diabetes,15
+T04824,P04824,Heart Disease,Heart,18
+T04825,P04825,Fracture,Fracture,8
+T04826,P04826,Asthma,Asthma,12
+T04827,P04827,diabetes,diabetes,6
+T04828,P04828,Hypertension,Hypertension,13
+T04829,P04829,diabetes,diabetes,21
+T04830,P04830,Fracture,Fracture,23
+T04831,P04831,Heart Disease,Heart,19
+T04832,P04832,asthma,asthma,12
+T04833,P04833,Cancer,Cancer,14
+T04834,P04834,Fracture,Fracture,21
+T04835,P04835,Heart disease,Heart,5
+T04836,P04836,Stroke,Stroke,30
+T04837,P04837,Diabetes,Diabetes,22
+T04838,P04838,Heart Disease,Heart,17
+T04839,P04839,Cancer,Cancer,15
+T04840,P04840,Heart disease,Heart,25
+T04841,P04841,Asthma,Asthma,19
+T04842,P04842,Fracture,Fracture,28
+T04843,P04843,Stroke,Stroke,26
+T04844,P04844,asthma,asthma,25
+T04845,P04845,Stroke,Stroke,25
+T04846,P04846,diabetes,diabetes,6
+T04847,P04847,Cancer,Cancer,28
+T04848,P04848,Diabetes,Diabetes,
+T04849,P04849,Stroke,Stroke,21
+T04850,P04850,asthma,asthma,12
+T04851,P04851,Heart Disease,Heart,30
+T04852,P04852,diabetes,diabetes,5
+T04853,P04853,Diabetes,Diabetes,24
+T04854,P04854,Hypertension,Hypertension,26
+T04855,P04855,asthma,asthma,8
+T04856,P04856,diabetes,diabetes,14
+T04857,P04857,diabetes,diabetes,12
+T04858,P04858,Stroke,Stroke,27
+T04859,P04859,Stroke,Stroke,17
+T04860,P04860,Cancer,Cancer,23
+T04861,P04861,asthma,asthma,21
+T04862,P04862,Fracture,Fracture,26
+T04863,P04863,diabetes,diabetes,8
+T04864,P04864,Asthma,Asthma,4
+T04865,P04865,diabetes,diabetes,28
+T04866,P04866,Heart Disease,Heart,21
+T04867,P04867,Heart Disease,Heart,22
+T04868,P04868,Cancer,Cancer,23
+T04869,P04869,Cancer,Cancer,4
+T04870,P04870,Diabetes,Diabetes,10
+T04871,P04871,Heart Disease,Heart,29
+T04872,P04872,Heart disease,Heart,19
+T04873,P04873,asthma,asthma,22
+T04874,P04874,Heart Disease,Heart,10
+T04875,P04875,Fracture,Fracture,21
+T04876,P04876,Stroke,Stroke,12
+T04877,P04877,asthma,asthma,11
+T04878,P04878,asthma,asthma,3
+T04879,P04879,Cancer,Cancer,12
+T04880,P04880,asthma,asthma,10
+T04881,P04881,Cancer,Cancer,18
+T04882,P04882,asthma,asthma,21
+T04883,P04883,Cancer,Cancer,29
+T04884,P04884,Diabetes,Diabetes,14
+T04885,P04885,Hypertension,Hypertension,3
+T04886,P04886,Asthma,Asthma,9
+T04887,P04887,Hypertension,Hypertension,27
+T04888,P04888,Cancer,Cancer,17
+T04889,P04889,Cancer,Cancer,18
+T04890,P04890,Cancer,Cancer,21
+T04891,P04891,Hypertension,Hypertension,20
+T04892,P04892,Asthma,Asthma,21
+T04893,P04893,Cancer,Cancer,29
+T04894,P04894,Asthma,Asthma,26
+T04895,P04895,Asthma,Asthma,29
+T04896,P04896,Diabetes,Diabetes,14
+T04897,P04897,Diabetes,Diabetes,6
+T04898,P04898,Stroke,Stroke,20
+T04899,P04899,Diabetes,Diabetes,20
+T04900,P04900,asthma,asthma,21
+T04901,P04901,Asthma,Asthma,3
+T04902,P04902,asthma,asthma,23
+T04903,P04903,Heart Disease,Heart,5
+T04904,P04904,Hypertension,Hypertension,18
+T04905,P04905,Hypertension,Hypertension,21
+T04906,P04906,Diabetes,Diabetes,7
+T04907,P04907,Diabetes,Diabetes,27
+T04908,P04908,Fracture,Fracture,16
+T04909,P04909,Fracture,Fracture,8
+T04910,P04910,Diabetes,Diabetes,19
+T04911,P04911,Cancer,Cancer,30
+T04912,P04912,diabetes,diabetes,12
+T04913,P04913,Heart disease,Heart,2
+T04914,P04914,Heart Disease,Heart,20
+T04915,P04915,Heart disease,Heart,8
+T04916,P04916,Heart disease,Heart,14
+T04917,P04917,Fracture,Fracture,16
+T04918,P04918,Diabetes,Diabetes,13
+T04919,P04919,Heart Disease,Heart,20
+T04920,P04920,Fracture,Fracture,20
+T04921,P04921,Heart Disease,Heart,13
+T04922,P04922,Heart disease,Heart,19
+T04923,P04923,Asthma,Asthma,5
+T04924,P04924,Heart Disease,Heart,28
+T04925,P04925,Fracture,Fracture,20
+T04926,P04926,diabetes,diabetes,27
+T04927,P04927,Heart disease,Heart,6
+T04928,P04928,asthma,asthma,9
+T04929,P04929,Heart disease,Heart,6
+T04930,P04930,asthma,asthma,18
+T04931,P04931,Cancer,Cancer,18
+T04932,P04932,Asthma,Asthma,26
+T04933,P04933,Diabetes,Diabetes,11
+T04934,P04934,diabetes,diabetes,15
+T04935,P04935,Heart Disease,Heart,17
+T04936,P04936,Asthma,Asthma,7
+T04937,P04937,Heart Disease,Heart,5
+T04938,P04938,Heart Disease,Heart,23
+T04939,P04939,diabetes,diabetes,4
+T04940,P04940,asthma,asthma,11
+T04941,P04941,Asthma,Asthma,11
+T04942,P04942,Cancer,Cancer,26
+T04943,P04943,asthma,asthma,2
+T04944,P04944,Heart Disease,Heart,23
+T04945,P04945,Asthma,Asthma,26
+T04946,P04946,Stroke,Stroke,24
+T04947,P04947,diabetes,diabetes,2
+T04948,P04948,diabetes,diabetes,14
+T04949,P04949,Cancer,Cancer,
+T04950,P04950,diabetes,diabetes,30
+T04951,P04951,Diabetes,Diabetes,17
+T04952,P04952,diabetes,diabetes,9
+T04953,P04953,Fracture,Fracture,17
+T04954,P04954,Hypertension,Hypertension,29
+T04955,P04955,Fracture,Fracture,9
+T04956,P04956,Diabetes,Diabetes,21
+T04957,P04957,asthma,asthma,5
+T04958,P04958,Asthma,Asthma,22
+T04959,P04959,Stroke,Stroke,2
+T04960,P04960,Fracture,Fracture,8
+T04961,P04961,Fracture,Fracture,7
+T04962,P04962,Diabetes,Diabetes,11
+T04963,P04963,Diabetes,Diabetes,9
+T04964,P04964,Heart Disease,Heart,23
+T04965,P04965,Asthma,Asthma,2
+T04966,P04966,Asthma,Asthma,11
+T04967,P04967,Diabetes,Diabetes,5
+T04968,P04968,Heart Disease,Heart,4
+T04969,P04969,Fracture,Fracture,19
+T04970,P04970,asthma,asthma,15
+T04971,P04971,Heart disease,Heart,30
+T04972,P04972,Asthma,Asthma,8
+T04973,P04973,Stroke,Stroke,4
+T04974,P04974,Asthma,Asthma,12
+T04975,P04975,asthma,asthma,28
+T04976,P04976,Diabetes,Diabetes,4
+T04977,P04977,Heart Disease,Heart,21
+T04978,P04978,Diabetes,Diabetes,10
+T04979,P04979,Heart disease,Heart,4
+T04980,P04980,Heart Disease,Heart,18
+T04981,P04981,Stroke,Stroke,19
+T04982,P04982,Stroke,Stroke,15
+T04983,P04983,Fracture,Fracture,16
+T04984,P04984,asthma,asthma,14
+T04985,P04985,Asthma,Asthma,14
+T04986,P04986,Hypertension,Hypertension,27
+T04987,P04987,Cancer,Cancer,26
+T04988,P04988,Heart disease,Heart,14
+T04989,P04989,Heart disease,Heart,8
+T04990,P04990,Heart Disease,Heart,3
+T04991,P04991,Hypertension,Hypertension,11
+T04992,P04992,Cancer,Cancer,25
+T04993,P04993,diabetes,diabetes,15
+T04994,P04994,Cancer,Cancer,28
+T04995,P04995,asthma,asthma,8
+T04996,P04996,diabetes,diabetes,30
+T04997,P04997,Hypertension,Hypertension,30
+T04998,P04998,Hypertension,Hypertension,23
+T04999,P04999,Hypertension,Hypertension,2
+T05000,P05000,Cancer,Cancer,17

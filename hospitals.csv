@@ -1,0 +1,9 @@
+Hospital_ID,Hospital_Name,City,Beds,Rating
+H01,Hospital1,Hyderabad,134,3.9
+H02,Hospital2,Pune,489,3.9
+H03,Hospital3,Kolkata,580,4.8
+H04,Hospital4,Delhi,902,4.5
+H05,Hospital5,Mumbai,587,
+H06,Hospital6,Bengaluru,941,4.1
+H07,Hospital7,Kolkata,232,4.1
+H08,Hospital8,Chennai,572,4.4
