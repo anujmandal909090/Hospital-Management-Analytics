@@ -236,3 +236,15 @@ This project demonstrates practical experience in:
 This project demonstrates an end-to-end **Exploratory Data Analysis workflow** on hospital management data, starting from raw datasets and progressing through data cleaning, integration, feature engineering, KPI development, visualization, and insight generation.
 
 The analysis provides a structured view of **patients, hospitals, doctors, treatments, revenue, and healthcare-related metrics**.
+
+## Author
+
+**Anuj Mandal**
+
+If you found this project useful, feel free to explore the repository and connect with me on GitHub.
+# 📬 Contact
+
+**LinkedIn:** https://www.linkedin.com/in/anuj-mandal-627a94380/
+
+**GitHub:** https://github.com/anujmandal909090
+
